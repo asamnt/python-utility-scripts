@@ -1,0 +1,331 @@
+{
+    "count": 206,
+    "next": "https://www.udemy.com/api-2.0/users/me/subscribed-courses/?fields%5Bcourse%5D=completion_ratio%2Cenrollment_time%2Clast_accessed_time%2Cnum_collections%2Cpublished_title%2Ctitle%2Ctracking_id%2Curl%2Cdescription%2Cvisible_instructors&fields%5Buser%5D=%40min%2Cjob_title&is_archived=false&ordering=-last_accessed&page=3&page_size=12",
+    "previous": "https://www.udemy.com/api-2.0/users/me/subscribed-courses/?fields%5Bcourse%5D=completion_ratio%2Cenrollment_time%2Clast_accessed_time%2Cnum_collections%2Cpublished_title%2Ctitle%2Ctracking_id%2Curl%2Cdescription%2Cvisible_instructors&fields%5Buser%5D=%40min%2Cjob_title&is_archived=false&ordering=-last_accessed&page_size=12",
+    "results": [
+      {
+        "_class": "course",
+        "id": 2756370,
+        "title": "Clean Coding: Refactoring Techniques for Legacy Code",
+        "url": "/course/clean-coding-practices/learn/",
+        "visible_instructors": [
+          {
+            "_class": "user",
+            "id": 15226436,
+            "title": "Abhinav Manchanda",
+            "name": "Abhinav",
+            "display_name": "Abhinav Manchanda",
+            "job_title": "Trainer, Instructor"
+          },
+          {
+            "_class": "user",
+            "id": 56240730,
+            "title": "Omkar Birade",
+            "name": "Omkar",
+            "display_name": "Omkar Birade",
+            "job_title": "Co-Founder at Interleap"
+          }
+        ],
+        "published_title": "clean-coding-practices",
+        "tracking_id": "IEPjHQcGRo69Xg0U44aNnA",
+        "description": "<p>In our day to day delivery of software, there is often a tension between delivering features as fast as possible, and applying ideal principles of clean code. Redesigning our code and making it look perfect is not something we can do everyday.</p><p>This course teaches us how we can apply principles of clean code pragmatically without affecting delivery. It helps us learn how to iteratively make our code easier to understand, maintain, and extend.</p><p>Interleap has made the Clean Code Online Course in collaboration with ThoughtWorks, and we tapped into their Clean Code expertise to build this course. They've given us feedback every step of the way, making this course easy to learn and effective.</p><p>--------------------</p><p>This online course expands on the first problem of Martin Fowler's first book on refactoring. It takes a feature that needs to be added, and teaches participants how to keep cleaning up code as we add features, and eventually that will lead to a much cleaner code base in the long run. This is an expansion of what we learnt about refactoring in the previous session. It helps participants understand the value of balancing refactoring and delivery, how to understand code smells, and how to improve the code bit by bit.</p><p>Some of the concepts we learn - Boy Scout Rule, KISS, DRY, Understanding Code smells, Characterisation Tests, Understanding what and when to refactor, SRP, Long Methods, Feature Envy, Inheritance vs Composition, Domain vs Utility Classes.</p><p>---------------</p><p>Here are the outcomes that an attendee can take from the course - </p><p>- Understand flaws in code design, called code smells that affect development speed and quality</p><p>- Apply automated refactoring techniques to make the code modular and readable</p><p>- How to add a safety net (tests) that prevent the code from breaking while applying these techniques</p><p><br></p>",
+        "completion_ratio": 2,
+        "last_accessed_time": "2022-10-29T12:03:40Z",
+        "enrollment_time": "2021-12-01T17:54:52Z",
+        "num_collections": 1
+      },
+      {
+        "_class": "course",
+        "id": 2608314,
+        "title": "Java Debugging With IntelliJ IDEA",
+        "url": "/course/java-debugging-with-intellij-idea/learn/",
+        "visible_instructors": [
+          {
+            "_class": "user",
+            "id": 10881362,
+            "title": "Learning From Experience",
+            "name": "Learning From",
+            "display_name": "Learning From Experience",
+            "job_title": "Big Data and Cloud Solution Architect"
+          }
+        ],
+        "published_title": "java-debugging-with-intellij-idea",
+        "tracking_id": "FYpRhrb_TcKDSLAt9L5YKA",
+        "description": "<p><strong>Intellij IDEA </strong>is one of the most popular IDEs out there used for Java programming.<br></p><p>This course is a entirely hands-on and an example based comprehensive course ,which would will guide you to learn and master the essentials of the Java Debugging using the popular Intellij IDEA IDE.<br></p><p><strong>Powerful Debugging Skill at Your Fingertips</strong><br></p><p>While working in real life Java projects or learning the language ,debugging is a key aspect which you must learn to handle programming related issues or understand any application flow properly .This course will give you a strong background to easily learn and master the debugging techniques and tricks using Intellij IDEA .</p><p><strong>Content and Overview </strong><br></p><p>Entire course is broken down to the following categories:</p><ul><li><p>Basic debugging features</p></li><li><p>Advanced debugging features</p></li><li><p>Sample Debugging Problems And Their Solution</p></li></ul><p><br></p><p><strong>The basic debugging features covered:</strong><br></p><ul><li><ul><li><p>Place breakpoints and run program in debug mode</p></li><li><p>Control program execution during debugging</p></li><li><p>Smart Step Into And Run To Cursor</p></li><li><p>Watch and Evaluate Expressions</p></li><li><p>Inspect Variables - View variables values</p></li><li><p>Change Variables value at real time during debug session</p></li><li><p>Filter Arrays and Collections in Variables or Watches</p></li><li><p>Conditional Breakpoint</p></li><li><p>Exception Breakpoint</p></li><li><p>Action Breakpoints</p></li><li><p>How to manage Breakpoints</p></li><li><p>Force Return and Throw Exception</p></li><li><p>Field Watchpoints</p></li><li><p>Class Level Watches</p></li><li><p>Use of Drop Frame</p></li></ul><p><br></p></li></ul><p><strong>The advanced debugging features covered:</strong></p><p><br></p><ul><li><p>Debug Lambda Expressions and Stream Operations</p></li><li><p>Control Stepping</p></li><li><p>On Demand Custom Data Type Renderers</p></li><li><p>Debug Spring Boot Web Service</p></li><li><p>Remote Debug Spring Boot Web Service</p></li><li><p>Attach custom labels to JVM objects</p></li><li><p>Debug Web Project in Tomcat using Intellij IDEA Community Edition</p></li><li><p>Debug Web Project in Tomcat using Intellij IDEA Ultimate Edition</p></li><li><p>Debug Web Application using Maven Tomcat Plugin</p></li><li><p>Remote Debug Web Project In Tomcat Using Intellij Community Edition</p></li></ul><p><br></p><p>The course initially starts with basics of debugging and then slowly moves to the practical aspects of debugging with easy examples.<br></p><p>Once the primary aspects are covered , the basic and advanced debugging features of Eclipse are explained.</p><p>The section <strong>Sample Debugging Problems And Their Solution</strong> is about sample problem solving on dummy debugging problem scenarios by applying the debugging skills you have learnt from the course.</p><p>By the end of this course, you will master the fundamentals needed to for Debugging java based applications using Intellij IDEA.<br></p><p><br></p>",
+        "completion_ratio": 10,
+        "last_accessed_time": "2022-10-27T17:36:41Z",
+        "enrollment_time": "2022-02-16T17:21:39Z",
+        "num_collections": 0
+      },
+      {
+        "_class": "course",
+        "id": 1309202,
+        "title": "Go: The Complete Developer's Guide (Golang)",
+        "url": "/course/go-the-complete-developers-guide/learn/",
+        "visible_instructors": [
+          {
+            "_class": "user",
+            "id": 5487312,
+            "title": "Stephen Grider",
+            "name": "Stephen",
+            "display_name": "Stephen Grider",
+            "job_title": "Engineering Architect"
+          }
+        ],
+        "published_title": "go-the-complete-developers-guide",
+        "tracking_id": "4FLOkvn_R8SuegNX4zy3PQ",
+        "description": "<p><strong>Go is an open source programming language created by Google.  <strong>As one of the fastest growing languages in terms of popularity, its a great time to pick up the basics of Go!</strong></strong></p>\n\n<p>This course is designed to get you up and running as fast as possible with Go.  We'll quickly cover the basics, then dive into some of the more advanced features of the language.  <strong>Don't be tricked by other courses that only teach you for-loops and if-statements!</strong>  This is the only course on Udemy that will teach you <strong>how to use the full power</strong> of Go's concurrency model and interface type systems.</p>\n\n\n\n\n\n\n\n<p>Go is designed to be easy to pick up, but tough to master.  Through multiple projects, quizzes, and assignments, you'll quickly start to master the language's quirks and oddities.  Go is like any other language - you have to write code to learn it!  This course will give you ample opportunities to strike out on your own and start working on your own programs.</p>\n\n\n\n\n\n\n\n<p>In this course you will:</p>\n\n\n\n\n\n\n\n<ul><li>Understand the <strong>basic syntax and control structures</strong> of the language</li><li>Apply Go's <strong>concurrency model</strong> to build massively parallel systems</li><li>Grasp the <strong>purpose of types, </strong>which is especially important if you're coming from a dynamically typed language like Javascript or Ruby</li><li>Organize code through the use of <strong>packages</strong></li><li>Use the Go runtime to build and compile projects</li><li>Get insight into <strong>critical design decisions</strong> in the language</li><li>Gain a sense of when to use basic language features</li></ul>\n\n\n\n\n\n\n\n\n\n<p><br></p>\n\n\n\n\n\n<p>Go is one of the fastest-growing programming languages released in the last ten years.  Get job-ready with Go today by enrolling now!</p>",
+        "completion_ratio": 2,
+        "last_accessed_time": "2022-10-25T03:54:41Z",
+        "enrollment_time": "2022-09-21T18:05:16Z",
+        "num_collections": 0
+      },
+      {
+        "_class": "course",
+        "id": 2782800,
+        "title": "20 Web Projects With Vanilla JavaScript",
+        "url": "/course/web-projects-with-vanilla-javascript/learn/",
+        "visible_instructors": [
+          {
+            "_class": "user",
+            "id": 21681922,
+            "title": "Brad Traversy",
+            "name": "Brad",
+            "display_name": "Brad Traversy",
+            "job_title": "Full Stack Web Developer & Instructor at Traversy Media"
+          }
+        ],
+        "published_title": "web-projects-with-vanilla-javascript",
+        "tracking_id": "SFyL47USQBW6fnYJpEJCCg",
+        "description": "<p>This is a <strong>fun, practical &amp; project based course </strong>for all skill levels. The projects in this course are designed to get you building things using HTML5, CSS &amp;&nbsp; JavaScript with no frameworks or libraries. Every project is built from scratch and has some kind of dynamic functionality from small games to an expense tracker to a breathing relax app.</p><p>Although this is a project based course, I will still be explaining everything as I go. These are mini-projects designed for you to complete in a few hours.</p><p>You should have some basic knowledge of HTML/CSS/JS. If you are brand new, I would suggest my Modern HTML/CSS From The Beginning and/or my Modern JS From The Beginning courses on Udemy. This course is a mix of both.</p><p><br></p><p><strong>Some Things You Will Learn In These Projects:</strong></p><ul><li><p>Create Layouts &amp; UI's With HTML/CSS ( No CSS Frameworks )</p></li><li><p>CSS Animations (Transitions, Keyframes, etc With JS Triggers)</p></li><li><p>JavaScript Fundamentals</p></li><li><p>DOM Selection &amp; Manipulation</p></li><li><p>JavaScript Events (Forms, buttons, scrolling, etc)</p></li><li><p>Fetch API &amp; JSON</p></li><li><p>HTML5 Canvas</p></li><li><p>The Audio &amp; Video API</p></li><li><p>Drag &amp; Drop</p></li><li><p>Web Speech API (Syth &amp; Recognition)</p></li><li><p>Working with Local Storage</p></li><li><p>High Order Array Methods - forEach, map, filter, reduce, sort</p></li><li><p>setTimout, setInterval</p></li><li><p>Arrow Functions</p></li><li><p>and More!!</p></li></ul><p><br></p>",
+        "completion_ratio": 10,
+        "last_accessed_time": "2022-10-19T16:03:07Z",
+        "enrollment_time": "2022-04-26T02:01:56Z",
+        "num_collections": 0
+      },
+      {
+        "_class": "course",
+        "id": 4080946,
+        "title": "System Design Bootcamp : Crack Interviews and Build Systems",
+        "url": "/course/system-design-bootcamp/learn/",
+        "visible_instructors": [
+          {
+            "_class": "user",
+            "id": 27737912,
+            "title": "Diwakar Singh",
+            "name": "Diwakar",
+            "display_name": "Diwakar Singh",
+            "job_title": "Go, Rust, Redis, Java, C, C++"
+          }
+        ],
+        "published_title": "system-design-bootcamp",
+        "tracking_id": "johT48R5QhqNYkPVZNafXg",
+        "description": "<p>Have you heard that System Design skill is essential for developers to be skilled in and understand?</p><p>Do you want to learn Architecting Systems and Crack Interview problems with ease?</p><p>Maybe you want to learn System Design from Scratch but have not found a good place to learn.</p><p>Or perhaps you are a developer who wants to improve your career options by having skills in Designing and architecting systems, one of the most demanded expertise in the industry.<br></p><p>Whatever the reason you have arrived here, this course will...</p><p><strong>Help you understand and apply System Design Principles, including its various domains and options.</strong></p><p><strong>Having Architecting and System Designing skills is vital for developers to crack interviews and maximize job and consulting opportunities.</strong></p><p><strong>Key concepts you will learn and work on within this course.</strong></p><p>Publish-Subscribe pattern</p><p>Leader Election </p><p>Replication and Sharding</p><p>Load Balancing</p><p>Hashing</p><p>Proxy </p><p>Availability</p><p>Latency</p><p>Caching</p><p><br></p><p><strong>Why enrolling in this course is the best decision you can make.</strong></p><p>Become skilled in System Design often require multiple courses. &nbsp;However, you learn all those topics and data analysis in this one course.</p><p>Essentially,&nbsp;you are learning from someone who has all the professional training,&nbsp;skills, and experience needed to teach you how to become proficient and&nbsp; Crack System Design Interviews quickly&nbsp;as possible.<br></p><p>If you are ready to get that first paid programming job or move up to a more senior programming position, this course is for you!</p><p><strong>After completing this course, you will have the necessary skills to use System Design concepts confidently, </strong></p><p>The sooner you sign up for this course, the sooner you will have the skills and knowledge you need to increase your job or consulting opportunities. &nbsp;<br><br>System Design skills are required to crack interviews and create real-world systems,&nbsp;and you will understand and be able to use both after going through this course.<br></p><p>Your new job or consulting opportunity&nbsp;awaits!&nbsp;&nbsp;</p><p>Why not get started today?</p><p>Click the&nbsp;<strong>Signup</strong>&nbsp;button to sign up for the course!</p>",
+        "completion_ratio": 0,
+        "last_accessed_time": "2022-10-19T03:47:03Z",
+        "enrollment_time": "2021-10-24T13:04:32Z",
+        "num_collections": 0
+      },
+      {
+        "_class": "course",
+        "id": 4870594,
+        "title": "How to build smart chatbots on GPT-3 based conversational AI",
+        "url": "/course/how-to-build-a-smart-chatbot/learn/",
+        "visible_instructors": [
+          {
+            "_class": "user",
+            "id": 208210364,
+            "title": "Arman Sharafudinov",
+            "name": "Arman",
+            "display_name": "Arman Sharafudinov",
+            "job_title": "Entrepreneur and university lecturer"
+          }
+        ],
+        "published_title": "how-to-build-a-smart-chatbot",
+        "tracking_id": "TbRA8y10RTy_IyQoMObtxw",
+        "description": "<p>By the end of this practice course you will be able to:</p><ul><li><p>Examine the traditional chatbot's functionality;</p></li><li><p>Identify the advantages of a new generation GPT-3 AI chatbot;</p></li><li><p>Learn and practice the webapi ai service chatbot builder;</p></li><li><p>Utilize ready-to-use templates;</p></li><li><p>Integrate the channels of communications into your chatbot builder</p></li></ul><p><strong>Overview:</strong></p><p>Traditional chatbot services have limited responses, are non-adaptive, difficult to build, and more importantly, overwhelm the user with tons of unnecessary questions. This is why, many companies are reluctant to use the bulky conventional chatbot services, and clients are frustrated with bots and eager to switch to a ‘human’ support manager. In contrast, we humans don't need access to thousands of examples to master a skill like a customer service. In most cases, familiarity with the subject matter, a guideline set, and some sample dialogue that is all needed.</p><p>Think of an AI chatbot builder as if it were your new employee. You can give free-form instructions and provide sample dialogue scenarios to teach an AI chatbot builder. Moreover, the domain knowledge may include some simple instructions, FAQ database, and can communicate with your API for sending and retrieving information such as unique order details, customer’s payment information, and many more.</p><p>You will also learn how to integrate your systems through APIs so that the chatbot will be able to perform: bookings, account management, change order details, ticket cancelation, and many more. </p><p>You will practice the built-in integrations with popular services such as Zendesk, Shopify, Calendly, Stripe, and many more.</p>",
+        "completion_ratio": 0,
+        "last_accessed_time": "2022-10-14T15:17:09Z",
+        "enrollment_time": "2022-10-14T15:17:03Z",
+        "num_collections": 0
+      },
+      {
+        "_class": "course",
+        "id": 2813427,
+        "title": "Learn DevOps: Docker, Kubernetes, Terraform and Azure DevOps",
+        "url": "/course/devops-with-docker-kubernetes-and-azure-devops/learn/",
+        "visible_instructors": [
+          {
+            "_class": "user",
+            "id": 13363166,
+            "title": "in28Minutes Official",
+            "name": "in28Minutes",
+            "display_name": "in28Minutes Official",
+            "job_title": "DevOps, Azure, GCP, Docker, Kubernetes, Java & Spring Boot"
+          },
+          {
+            "_class": "user",
+            "id": 80960200,
+            "title": "Ravi S | DevOps Expert - Docker & Kubernetes",
+            "name": "Ravi",
+            "display_name": "Ravi S | DevOps Expert - Docker & Kubernetes",
+            "job_title": "DevOps consultant and AWS, Google cloud expert"
+          },
+          {
+            "_class": "user",
+            "id": 71253222,
+            "title": "Open Cloud Solutions | Microsoft Azure Certification - AZ 900",
+            "name": "Open Cloud Solutions |",
+            "display_name": "Open Cloud Solutions | Microsoft Azure Certification - AZ 900",
+            "job_title": "Microsoft Azure Certified Professional AZ 900"
+          },
+          {
+            "_class": "user",
+            "id": 96750544,
+            "title": "Ranga Karanam | GCP Certification - Google Cloud Engineer & Architect",
+            "name": "Ranga Karanam |",
+            "display_name": "Ranga Karanam | GCP Certification - Google Cloud Engineer & Architect",
+            "job_title": "AWS, Azure & Google Cloud Certified Cloud Computing Expert"
+          }
+        ],
+        "published_title": "devops-with-docker-kubernetes-and-azure-devops",
+        "tracking_id": "hiNn5LJjRmCqNHfI_jYDpA",
+        "description": "<p><strong><em>ONE&nbsp;and ONLY ONE COURSE YOU&nbsp;NEED&nbsp;TO&nbsp;MASTER&nbsp;DEVOPS - 6 DEVOPS&nbsp;TOOLS +&nbsp;3 CLOUDS</em></strong></p><p><br></p><p><strong>5 Things YOU need to know about this DevOps Course</strong></p><p><strong>#1: LEARN&nbsp;6 DevOps Tools - </strong>Docker, Kubernetes, Azure DevOps, Jenkins, Terraform, and Ansible</p><p><strong>#2: LEARN&nbsp;3 Different Clouds - </strong>AWS, Azure, and Google Cloud</p><p><strong>#3: </strong>ONE&nbsp;of the<strong> HIGHEST&nbsp;RATED&nbsp;DEVOPS courses</strong> (JUNE&nbsp;2021)</p><p><strong>#4: IMPLEMENT</strong>&nbsp;<strong>DEVOPS</strong>&nbsp;with a HANDS-ON&nbsp;approach</p><p><strong>#5:</strong> <strong>IMPLEMENT&nbsp;INFRASTRUCTURE&nbsp;as CODE (IaC), CONTINUOUS&nbsp;INTEGRATION (CI) and CONTINUOUS&nbsp;DEPLOYMENT (CD)</strong></p><p><br></p><p><strong>200+ Videos. 20+ Hours</strong>.&nbsp; <em>Do you need more reasons to enroll in this amazing course on </em><strong><em>DevOps</em></strong><em>?</em></p><p><br></p><p><strong>WHAT&nbsp;STUDENTS&nbsp;ARE&nbsp;SAYING</strong></p><p><strong>5 STARS -</strong> <strong>The best instructor of Udemy</strong>! This is a <strong>great course</strong> to understand about <strong>DevOps</strong>, the involved concepts, and to apply the concepts.</p><p><strong>5 STARS -</strong> Loved the way how the course was organized with an emphasis on following with hands-on. <strong>This should be the benchmark in Dev-Ops training</strong> for anyone who wants to get acquainted with Dev-Ops.</p><p><strong>5 STARS -</strong> <strong>EXCELLENT COURSE!!!</strong> Love the instructor's energy, enthusiasm, and manner of instruction. <strong>This course is like 5 courses in 1.</strong> It is rare to find a course with such a breadth of technical topics and cloud platforms covered. Thank you for creating this course.</p><p><strong>5 STARS -</strong> <strong>Great hands-on experience</strong> of learning <strong>DevOps using Docker, Terraform, Kubernetes on GCP, AWS, and Azure</strong>. Each topic explaining very well with hands-on which is helping us to understand the concept easily. Awesome</p><p><strong>5 STARS -</strong> Great Information and solid teaching of the core concepts as well as the <strong>technical implementations of DevOps</strong></p><p><strong>5 STARS -</strong> It's easy to understand, very complete, and <strong>good for beginners to start learning about DevOps</strong></p><p><br></p><p>Do you have <strong>ZERO experience with DevOps</strong> with Docker, Kubernetes, Azure DevOps, Jenkins, Terraform, Ansible, AWS, Azure, and Google Cloud? No Problem.</p><p>Do you have <strong>ZERO experience with DevOps Containers and Container Orchestration</strong> with Docker and Kubernetes? No Problem.</p><p>Do you have <strong>ZERO experience with Continuous Integration or Continuous Delivery</strong> in DevOps with Azure DevOps and Jenkins? No Problem.</p><p>Do you have <strong>ZERO experience with the Cloud</strong>? No Problem.</p><p><br></p><p><strong><em>Are you ready to learn DevOps with Docker, Kubernetes, Terraform, Ansible, Jenkins, and Azure DevOps in multiple clouds - AWS, Azure, and Google Cloud?</em></strong></p><p><br></p><p>Do you want to join 600,000+ learners having Amazing Learning Experiences with in28Minutes?</p><p>Buckle up and Get ready for this wonderful ride on DevOps, Microservices, and the Cloud.</p><p><strong><em>Look No Further!</em></strong></p><p><br></p><p><strong>DEVOPS&nbsp;COURSE&nbsp;OVERVIEW</strong></p><p>DevOps is all about People, Process, and Tools. In this course, you will understand the basics of <strong>DevOps</strong> and <strong>learn to do DevOps with Docker, Kubernetes, Ansible, Terraform, Azure DevOps, and Jenkins</strong>. You will learn to implement <strong>DevOps</strong> with <strong>Continuous Integration, Continuous Delivery, and Infrastructure as Code</strong>. You will play with 3 different clouds - <strong>AWS, Azure and Google Cloud</strong>.</p><p>You will do <strong>DevOps with Docker </strong>to create and run Docker images for:</p><ul><li><p>Hello World Applications - Python, JavaScript, and Java</p></li><li><p>Microservices - Currency Exchange and Currency Conversion</p></li></ul><p>You will learn the basics of Kubernetes on the Google Kubernetes Engine implementing Service Discovery, Centralized Configuration, and Load Balancing for Microservices. </p><p>You will do <strong>DevOps with Kubernetes</strong> using Terraform (Infrastructure as Code) and <strong>Azure DevOps</strong> (Continuous Delivery) on multiple cloud platforms (AWS and Azure)</p><p>You will learn the basics of Continuous Integration and Continuous Delivery and implement them using Jenkins and Azure DevOps. You will learn to Create Kubernetes Clusters and Deploy Docker Containers of Microservices to Kubernetes using <strong>Azure DevOps Pipelines</strong> on the Cloud with AWS EKS and Azure AKS.</p><p>You will learn the <strong>basics of Terraform and Ansible</strong> and implement Infrastructure as Code. You will provision a number of AWS Resources - EC2 Instances and Load Balancers - using Terraform and configure them with Ansible. You will learn to provision Kubernetes Clusters in AWS and Azure using Terraform. You would learn to run Terraform Configuration in Azure DevOps Pipelines.</p><p>This course would be a perfect first step as an introduction to DevOps with Docker and Kubernetes.</p><p><br></p><p><strong><em>Start Learning Now. </em></strong>Hit the Enroll Button!</p>",
+        "completion_ratio": 5,
+        "last_accessed_time": "2022-10-11T16:45:19Z",
+        "enrollment_time": "2021-07-01T17:56:32Z",
+        "num_collections": 1
+      },
+      {
+        "_class": "course",
+        "id": 3490000,
+        "title": "Docker & Kubernetes: The Practical Guide [2023 Edition]",
+        "url": "/course/docker-kubernetes-the-practical-guide/learn/",
+        "visible_instructors": [
+          {
+            "_class": "user",
+            "id": 31926668,
+            "title": "Academind by Maximilian Schwarzmüller",
+            "name": "Academind by Maximilian",
+            "display_name": "Academind by Maximilian Schwarzmüller",
+            "job_title": "Online Education"
+          },
+          {
+            "_class": "user",
+            "id": 13952972,
+            "title": "Maximilian Schwarzmüller",
+            "name": "Maximilian",
+            "display_name": "Maximilian Schwarzmüller",
+            "job_title": "AWS certified, Professional Web Developer and Instructor"
+          }
+        ],
+        "published_title": "docker-kubernetes-the-practical-guide",
+        "tracking_id": "MmIuEffjTbObe5fGgF2yZA",
+        "description": "<p><strong>Join this bestselling Docker &amp;&nbsp;Kubernetes course and learn two of the most important development technologies from the ground up, in great detail!</strong></p><p><strong>Docker &amp;&nbsp;Kubernetes</strong> are amongst the most <strong>in-demand technologies and topics</strong> you can learn these days.</p><p>Why?</p><p>Because they significantly <strong>simplify the development and deployment process</strong> of both simple and complex software projects. Especially in web development (though not limited to that), Docker can really <strong>take you to the next level</strong>!</p><p>With Docker, you create and manage so-called \"<strong>Containers</strong>\" - basically packages of code and tools required to run that code. These containers allow you to run your programs in a<strong> predictable, environment-independent way</strong> - no matter where you need to run it.</p><p>For modern DevOps but also for local development - on your own or in a team - this is a <strong>winner feature</strong> since you will no longer have any \"but it worked on my machine\"&nbsp;discussions. It works inside of a container, hence it works everywhere!</p><p><strong>This course will teach you both Docker &amp;&nbsp;Kubernetes from the ground up with all the required theory and tons of examples and demos!</strong></p><p>We'll explore <strong>all key concepts</strong> in detail and <strong>with practical examples and demos</strong> - from images and containers, over volumes and networking all the way up to deployment and Kubernetes Cluster:&nbsp;This course has it all!</p><p><strong>In detail, this course includes the following topics:</strong></p><ul><li><p>A thorough introduction to Docker, containers and why you might want to use Docker</p></li><li><p>Detailed setup instructions for macOS and Windows</p></li><li><p>A deep-dive into the core concepts you need to know:&nbsp;Containers &amp;&nbsp;images</p></li><li><p>Learn how to create custom images, use existing images and how to run containers based on such images</p></li><li><p>Get a detailed overview of the core commands you need when working with Docker</p></li><li><p>Learn how to work with data and how to persist data with volumes</p></li><li><p>Explore container networking - with the outside world and between multiple containers</p></li><li><p>Learn how to work with both single and multi-container projects</p></li><li><p>In-depth deployment instructions:&nbsp;Manual deployment and deployment with managed services like AWS&nbsp;ECS</p></li><li><p>Understand Kubernetes core concepts &amp;&nbsp;architecture</p></li><li><p>Learn how to create Kubernetes resources, deployments, services and how to run your containers with Kubernetes</p></li><li><p>Dive deeply into working with data in Kubernetes projects - with different types of volumes</p></li><li><p>Kubernetes networking and DNS service discovery</p></li><li><p>Learn how to deploy your Kubernetes project (at the example of AWS&nbsp;EKS)</p></li><li><p>And much more!</p></li></ul><p>All these topics are taught in great detail with slides and theory but also, most importantly, with many examples and demo!</p><p>You'll find tons of demo projects throughout the course - using programming languages like NodeJS, Python or PHP&nbsp;(with Laravel). You don't need to know these languages to follow along though, no worries!</p>",
+        "completion_ratio": 10,
+        "last_accessed_time": "2022-09-27T11:48:40Z",
+        "enrollment_time": "2021-07-07T16:29:40Z",
+        "num_collections": 0
+      },
+      {
+        "_class": "course",
+        "id": 1463348,
+        "title": "Modern JavaScript From The Beginning",
+        "url": "/course/modern-javascript-from-the-beginning/learn/",
+        "visible_instructors": [
+          {
+            "_class": "user",
+            "id": 21681922,
+            "title": "Brad Traversy",
+            "name": "Brad",
+            "display_name": "Brad Traversy",
+            "job_title": "Full Stack Web Developer & Instructor at Traversy Media"
+          }
+        ],
+        "published_title": "modern-javascript-from-the-beginning",
+        "tracking_id": "YotEBTamQDiPgyFkmbsrnA",
+        "description": "<p>This is a front to back JavaScript course for <em><strong>a</strong><strong>bsolutely everybody</strong></em><strong>.</strong> We start with the basic fundamentals and work our way to advanced programming WITHOUT relying on frameworks or libraries at all. You will learn a ton of pure JavaScript, whether you are a beginner or an established JS programmer. There is something for everyone...</p>\n\n<p><br></p>\n\n\n\n\n\n<p><strong><em>#### WHATS INCLUDED? ####</em></strong></p>\n\n\n\n\n\n<ul><li><strong>Basics &amp; Fundamentals:</strong> Data types, let &amp; const variables, functions, conditionals, loops, object literals, arrays, etc</li><li><strong>DOM Manipulation: </strong>Selectors, traversing the DOM, show/hide, creating &amp; removing elements, event listeners</li><li><strong>OOP:</strong> ES5 prototypes, inheritance, ES2015 classes &amp; sub-classes, constructors</li><li><strong>Async JS: </strong>Ajax &amp; XHR, Fetch API, callbacks, promises, async / await</li><li><strong>ES2015+: </strong>Arrow functions, template strings, generators, iterators, maps &amp; sets, symbols &amp; more</li><li><strong>JavaScript Patterns:</strong> Module, Factory, State, Observer, Mediator, Singleton</li><li><strong>Other: </strong>Local &amp; session storage, regular expressions, try/catch error handling</li><li><strong>10 Projects of all kinds</strong></li></ul>\n\n<p><br></p>\n\n<ul></ul>\n\n\n\n\n\n<p><br></p>\n\n\n\n\n\n<p><strong><em>#### PROJECTS ####</em></strong></p>\n\n\n\n\n\n<ol><li>Task List With Local Storage</li><li>Loan Calculator</li><li>Number Guess Game</li><li>OOP Book Listing App (ES5 Prototype &amp; ES2015 Classes Version)</li><li>Chuck Norris Joke Generator</li><li>EasyHTTP - Custom HTTP Library (3 Versions - Callbacks / Promises / Async &amp; Await)</li><li>Github Finder</li><li>WeatherJS App</li><li>Calorie Tracker (Module Pattern)</li><li>Microposts - Frontend CRUD for REST API (Webpack &amp; Babel)</li></ol>\n\n\n\n\n\n<p><br></p>",
+        "completion_ratio": 1,
+        "last_accessed_time": "2022-09-25T13:39:20Z",
+        "enrollment_time": "2022-05-25T17:06:41Z",
+        "num_collections": 0
+      },
+      {
+        "_class": "course",
+        "id": 2508942,
+        "title": "JavaScript - The Complete Guide 2023 (Beginner + Advanced)",
+        "url": "/course/javascript-the-complete-guide-2020-beginner-advanced/learn/",
+        "visible_instructors": [
+          {
+            "_class": "user",
+            "id": 31926668,
+            "title": "Academind by Maximilian Schwarzmüller",
+            "name": "Academind by Maximilian",
+            "display_name": "Academind by Maximilian Schwarzmüller",
+            "job_title": "Online Education"
+          },
+          {
+            "_class": "user",
+            "id": 13952972,
+            "title": "Maximilian Schwarzmüller",
+            "name": "Maximilian",
+            "display_name": "Maximilian Schwarzmüller",
+            "job_title": "AWS certified, Professional Web Developer and Instructor"
+          }
+        ],
+        "published_title": "javascript-the-complete-guide-2020-beginner-advanced",
+        "tracking_id": "6DcbzUefRwmDoTYrfp1vOQ",
+        "description": "<p><strong>Join the most comprehensive and in-depth JavaScript course on Udemy and learn JavaScript from the ground up, in great detail with this bestselling course!</strong></p><p>JavaScript is <strong>THE&nbsp;most important programming language</strong> you need to learn as a web developer - and with this course, you make sure that you will not miss a single thing you have to know as a JavaScript developer!</p><p>This is the <strong>most comprehensive and modern course </strong>you can find on JavaScript - it's <strong>based on all my JavaScript knowledge</strong> <strong>AND teaching</strong> <strong>experience</strong>. It's both a <strong>complete guide</strong>, starting with the core basics of the language, as well as an <strong>extensive reference</strong> of the JavaScript language and environment, ensuring that both newcomers as well as experienced JavaScript developers get a lot out of this course!</p><p>It's a <strong>huge course because it's packed with important knowledge</strong> and helpful content. From the core basics, over advanced concepts and JavaScript specialties, all the way up to expert topics like performance optimization and testing - this course has it all. My goal was to create your go-to resource for the JavaScript language, which you can not just use for learning it but also as a resource you can come back to and look up important topics.</p><p>The course is based on my experience as a long-term JavaScript developer as well as a teacher with <strong>more than 2,000,000 students </strong>on Udemy as well as on my YouTube channel Academind. It's<strong> packed with examples, demos, projects, assignments, quizzes</strong> and of course videos - all with the goal of giving you the best possible way of learning JavaScript.</p><p><strong>What's in the course?</strong></p><p>This course is obviously packed with content - I&nbsp;therefore strongly recommend that you check out the full course curriculum to get a clear idea of all the topics covered in the course. In general, here's what you'll find in the course:</p><ul><li><p>Modern JavaScript from the start:&nbsp;The JavaScript syntax changed over time - in this course, you'll learn the<strong> latest syntax from the start </strong>(you'll also learn about the old one though, so that you can work in ANY&nbsp;JS&nbsp;project)</p></li><li><p>ALL&nbsp;the Basics:&nbsp;Variables, constants, functions, how scripts are loaded etc</p></li><li><p>Arrays &amp;&nbsp;Objects:&nbsp;We'll explore these very important data structures in great detail</p></li><li><p>Control Structures:&nbsp;Understand how to run code conditionally and in loops</p></li><li><p>A&nbsp;look behind the Scenes: How JavaScript engines work behind the scenes and what that means for us</p></li><li><p><strong>Deep dives into Core Concepts</strong>:&nbsp;ALL&nbsp;the special things about JavaScript function, different syntaxes</p></li><li><p>Working with the DOM:&nbsp;How to manipulate web pages dynamically via JavaScript (including deep dives and different use-cases)</p></li><li><p>Events in JavaScript:&nbsp;Learn how to listen to a broad variety of events (e.g. drag &amp;&nbsp;drop) and execute appropriate code</p></li><li><p>Classes &amp;&nbsp;<strong>Object-oriented Programming</strong>:&nbsp;Learn how to work with classes, prototypes, the \"<strong>this</strong>\"&nbsp;keyword, constructor functions and much more</p></li><li><p><strong>Asynchronous</strong> and Synchronous Programming:&nbsp;We'll explore callbacks, promises, async/&nbsp;await and other important tools and language features to execute code correctly</p></li><li><p>Http Requests:&nbsp;Learn how to send Http requests via JavaScript</p></li><li><p>Tooling, Optimizations &amp;&nbsp;Browser Support:&nbsp;Code splitting, producing small code and ensuring that scripts work in all browsers&nbsp; - this matters and hence is covered in great detail</p></li><li><p>Libraries &amp;&nbsp;Frameworks:&nbsp;Learn about libraries like Axios or frameworks like <strong>React.js</strong> - why they matter and how to use them</p></li><li><p><strong>Node.js</strong>:&nbsp;Whilst focusing on the browser-side for the majority of the course (because the syntax is the same), we'll also have a dedicated section on Node.js to learn all about that JS host environment</p></li><li><p>Security &amp;&nbsp;Performance Optimizations:&nbsp;Of course security matters, so does performance - no surprise that both is covered in the course!</p></li><li><p><strong>Automated Testing</strong>:&nbsp;Testing manually is hard work and can be unreliable - in this course you'll also get an introduction into automated testing</p></li></ul><p><strong>What are the course prerequisites?</strong></p><ul><li><p>NO&nbsp;JavaScript knowledge is required - you'll learn it from scratch!</p></li><li><p>You also need NO&nbsp;programming experience other than basic web development knowledge (e.g. how the web works)</p></li><li><p>Basic HTML and CSS knowledge is recommended but not a must-have</p></li></ul>",
+        "completion_ratio": 1,
+        "last_accessed_time": "2022-09-24T12:07:47Z",
+        "enrollment_time": "2020-07-29T06:52:58Z",
+        "num_collections": 0
+      },
+      {
+        "_class": "course",
+        "id": 4427730,
+        "title": "React Front To Back 2022",
+        "url": "/course/react-front-to-back-2022/learn/",
+        "visible_instructors": [
+          {
+            "_class": "user",
+            "id": 21681922,
+            "title": "Brad Traversy",
+            "name": "Brad",
+            "display_name": "Brad Traversy",
+            "job_title": "Full Stack Web Developer & Instructor at Traversy Media"
+          }
+        ],
+        "published_title": "react-front-to-back-2022",
+        "tracking_id": "ZO8S8A43Sdec8yuezRAxxA",
+        "description": "<p>This course is for anyone that wants to learn React and also for React developers looking to build some projects and sharpen their skills. </p><p>The first project (Feedback App) is structured in a way so I can explain the fundamentals such as components, hooks, props, state, etc in a way that beginners can understand. The second project (Github Finder) will show you how to work with 3rd party APIs and the third project (House Marketplace) is a larger app that uses Firebase 9 and includes authentication, Firestore queries, file storage and more.</p><p><br></p><p>The final project has been added! It is a fullstack MERN&nbsp;support ticket system that uses Redux and Redux Toolkit.</p><p><br></p><p><strong>Here are some of the things you will learn in this course:</strong></p><p><br></p><ul><li><p>React fundamentals including components, props, hooks, state, etc</p></li><li><p>React hooks such as useState, useEffect, useContext, useReducer, useRef, etc</p></li><li><p>Creating custom hooks</p></li><li><p>React Router v6 (latest version)</p></li><li><p>How to handle global state with context, reducers and hooks</p></li><li><p>Firebase 9 authentication, queries, storage</p></li><li><p>Deploying React apps to Vercel &amp; Netlify</p></li><li><p>Basic Animation with Framer Motion</p></li><li><p>Implement Leaflet maps and Swiper sliders</p></li><li><p>Fullstack MERN (MongoDB, Express, React, Node.js)</p></li><li><p>REST&nbsp;API&nbsp;creation</p></li><li><p>Redux</p></li><li><p>Redux Toolkit</p></li><li><p>Authentication with JWT</p></li><li><p>Much More...</p></li></ul><p>This course has been completely re-done with new projects and concepts from the old course. I have a few React courses and this is the one that I always suggest people start with before moving on to the MERN courses</p>",
+        "completion_ratio": 5,
+        "last_accessed_time": "2022-09-22T05:46:59Z",
+        "enrollment_time": "2022-05-25T17:06:41Z",
+        "num_collections": 0
+      },
+      {
+        "_class": "course",
+        "id": 3563167,
+        "title": "Rust Programming For Beginners",
+        "url": "/course/rust-coding-for-beginners/learn/",
+        "visible_instructors": [
+          {
+            "_class": "user",
+            "id": 136320281,
+            "title": "Jayson Lennon",
+            "name": "Jayson",
+            "display_name": "Jayson Lennon",
+            "job_title": "Software Engineer"
+          }
+        ],
+        "published_title": "rust-coding-for-beginners",
+        "tracking_id": "5ScHfmKKQy6MXNEj1Ueliw",
+        "description": "<p>This course is for the beginner who wants to learn how to code without getting overwhelmed by technical jargon and computer science topics. <strong>Rust Programming For Beginners</strong> is specifically designed to teach the core programming concepts necessary to get started building applications while also providing a solid foundation for future learning.</p><p>The best way to learn programming is to write engaging and interesting programs. This course features <strong>30 coding exercises</strong> to complement the lectures, and are designed with real-world applications in mind. Each exercise presents a problem with hints on how to implement a solution, so you can get the practice you need to be successful. The exercises are accompanied with a video demonstrating a possible implementation for the exercise, and <strong>line-by-line commentary</strong> on how the code accomplishes the task and why it works.</p><p>The information in this course is introduced in a thoughtful order, which means you will always be aware of what every bit of code in a program is doing, and how it works the way it does. There is no need to wait until later in the course, or to study more advanced topics, in order to fully understand the code when presented. This is accomplished by building up knowledge through <strong>concise, easy to follow lectures</strong> that can be reviewed quickly.</p><p>In this course, you will learn:</p><ul><li><p>Critical concepts necessary to work with code, without overwhelming detail</p></li><li><p>Creation of digital solutions for real-world problems</p></li><li><p>Reading and writing application code in the Rust programming language</p></li><li><p>Utilization of the Rust ecosystem to efficiently develop applications</p></li><li><p>Automated testing to enhance the reliability of your solutions</p></li><li><p>How to make your projects easier to work with through the use of generated documentation</p></li><li><p>Foundational computer science topics such as computer memory, program logic, and simple data structures</p></li></ul><p>This course isn't just for beginner programmers, but any programmer who wishes to learn Rust. If you have experience coding in a high level memory-managed language such as Python, JavaScript, or C#, then this course is a great introduction to the Rust programming language and it's unique memory model and syntax.</p><p><strong>Sign up today to learn the concepts of programming and how to build applications in Rust!</strong></p>",
+        "completion_ratio": 5,
+        "last_accessed_time": "2022-09-22T05:30:11Z",
+        "enrollment_time": "2022-09-21T18:07:59Z",
+        "num_collections": 0
+      }
+    ]
+  }

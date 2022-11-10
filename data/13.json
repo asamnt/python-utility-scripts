@@ -1,0 +1,271 @@
+{
+    "count": 206,
+    "next": "https://www.udemy.com/api-2.0/users/me/subscribed-courses/?fields%5Bcourse%5D=completion_ratio%2Cenrollment_time%2Clast_accessed_time%2Cnum_collections%2Cpublished_title%2Ctitle%2Ctracking_id%2Curl%2Cvisible_instructors&fields%5Buser%5D=%40min%2Cjob_title&is_archived=false&ordering=-last_accessed&page=14&page_size=12",
+    "previous": "https://www.udemy.com/api-2.0/users/me/subscribed-courses/?fields%5Bcourse%5D=completion_ratio%2Cenrollment_time%2Clast_accessed_time%2Cnum_collections%2Cpublished_title%2Ctitle%2Ctracking_id%2Curl%2Cvisible_instructors&fields%5Buser%5D=%40min%2Cjob_title&is_archived=false&ordering=-last_accessed&page=12&page_size=12",
+    "results": [
+      {
+        "_class": "course",
+        "id": 820354,
+        "title": "SQL : The Hitch Hikers Guide To Writing SQL Queries",
+        "url": "/course/draft/820354/learn/",
+        "visible_instructors": [
+          {
+            "_class": "user",
+            "id": 12994664,
+            "title": "Paul Scotchford",
+            "name": "Paul",
+            "display_name": "Paul Scotchford",
+            "job_title": "Data Analyst and Qlik Development Specialist @ awari"
+          }
+        ],
+        "published_title": "sql-the-hitch-hikers-guide-to-writing-sql-queries",
+        "tracking_id": "azHlCY8qR_KYC8Tv6fif0Q",
+        "completion_ratio": 0,
+        "last_accessed_time": null,
+        "enrollment_time": "2018-03-23T15:40:49Z",
+        "num_collections": 0
+      },
+      {
+        "_class": "course",
+        "id": 543600,
+        "title": "Automate the Boring Stuff with Python Programming",
+        "url": "/course/automate/learn/",
+        "visible_instructors": [
+          {
+            "_class": "user",
+            "id": 13922584,
+            "title": "Al Sweigart",
+            "name": "Al",
+            "display_name": "Al Sweigart",
+            "job_title": "Software developer, tech book author"
+          }
+        ],
+        "published_title": "automate",
+        "tracking_id": "0PxNtb1TRcObY--8o-Pz_A",
+        "completion_ratio": 0,
+        "last_accessed_time": null,
+        "enrollment_time": "2019-12-04T02:48:23Z",
+        "num_collections": 1
+      },
+      {
+        "_class": "course",
+        "id": 2094300,
+        "title": "Complete Web Design: from Figma to Webflow to Freelancing",
+        "url": "/course/freelance-web-design-from-design-to-development-to-making-money/learn/",
+        "visible_instructors": [
+          {
+            "_class": "user",
+            "id": 20595220,
+            "title": "Vako Shvili",
+            "name": "Vako",
+            "display_name": "Vako Shvili",
+            "job_title": "Web Designer & Best-Selling Instructor"
+          }
+        ],
+        "published_title": "freelance-web-design-from-design-to-development-to-making-money",
+        "tracking_id": "CR6v_-_pTe-Qd6vz1X6T_g",
+        "completion_ratio": 0,
+        "last_accessed_time": null,
+        "enrollment_time": "2021-11-21T18:10:09Z",
+        "num_collections": 0
+      },
+      {
+        "_class": "course",
+        "id": 3397326,
+        "title": "Make 20 Advanced Level Applications in Python",
+        "url": "/course/make-20-advanced-level-applications-in-python/learn/",
+        "visible_instructors": [
+          {
+            "_class": "user",
+            "id": 37637442,
+            "title": "Python School",
+            "name": "Python",
+            "display_name": "Python School",
+            "job_title": "Data Scientist, Entrepreneur and Traveler"
+          }
+        ],
+        "published_title": "make-20-advanced-level-applications-in-python",
+        "tracking_id": "gJ8xjBg6R5edew4zIbOsQA",
+        "completion_ratio": 0,
+        "last_accessed_time": null,
+        "enrollment_time": "2022-04-26T02:01:57Z",
+        "num_collections": 0
+      },
+      {
+        "_class": "course",
+        "id": 1568344,
+        "title": "Java Design Patterns & SOLID Design Principles",
+        "url": "/course/design-patterns-in-java-concepts-hands-on-projects/learn/",
+        "visible_instructors": [
+          {
+            "_class": "user",
+            "id": 30259822,
+            "title": "Coffee Powered Crew",
+            "name": "Coffee Powered",
+            "display_name": "Coffee Powered Crew",
+            "job_title": "Excellence with Elegance to Perfection!"
+          }
+        ],
+        "published_title": "design-patterns-in-java-concepts-hands-on-projects",
+        "tracking_id": "lUgt1ILGQVeP7yMLubevkw",
+        "completion_ratio": 0,
+        "last_accessed_time": null,
+        "enrollment_time": "2022-04-27T11:07:28Z",
+        "num_collections": 0
+      },
+      {
+        "_class": "course",
+        "id": 1862914,
+        "title": "Apache Kafka for Developers using Spring Boot[LatestEdition]",
+        "url": "/course/apache-kafka-for-developers-using-springboot/learn/",
+        "visible_instructors": [
+          {
+            "_class": "user",
+            "id": 11626826,
+            "title": "Pragmatic Code School",
+            "name": "Pragmatic Code",
+            "display_name": "Pragmatic Code School",
+            "job_title": "Technology Enthusiast, Online Instructor"
+          }
+        ],
+        "published_title": "apache-kafka-for-developers-using-springboot",
+        "tracking_id": "RoDbIs_IRca8OoroENF4BA",
+        "completion_ratio": 0,
+        "last_accessed_time": null,
+        "enrollment_time": "2022-05-25T17:06:39Z",
+        "num_collections": 0
+      },
+      {
+        "_class": "course",
+        "id": 1565240,
+        "title": "Build Reactive MicroServices using Spring WebFlux/SpringBoot",
+        "url": "/course/build-reactive-restful-apis-using-spring-boot-webflux/learn/",
+        "visible_instructors": [
+          {
+            "_class": "user",
+            "id": 11626826,
+            "title": "Pragmatic Code School",
+            "name": "Pragmatic Code",
+            "display_name": "Pragmatic Code School",
+            "job_title": "Technology Enthusiast, Online Instructor"
+          }
+        ],
+        "published_title": "build-reactive-restful-apis-using-spring-boot-webflux",
+        "tracking_id": "VnmbUQnBSy-c7Z2xuxmJtA",
+        "completion_ratio": 0,
+        "last_accessed_time": null,
+        "enrollment_time": "2022-05-25T17:06:40Z",
+        "num_collections": 0
+      },
+      {
+        "_class": "course",
+        "id": 3046762,
+        "title": "Multithreading,Parallel & Asynchronous Coding in Modern Java",
+        "url": "/course/parallel-and-asynchronous-programming-in-modern-java/learn/",
+        "visible_instructors": [
+          {
+            "_class": "user",
+            "id": 11626826,
+            "title": "Pragmatic Code School",
+            "name": "Pragmatic Code",
+            "display_name": "Pragmatic Code School",
+            "job_title": "Technology Enthusiast, Online Instructor"
+          }
+        ],
+        "published_title": "parallel-and-asynchronous-programming-in-modern-java",
+        "tracking_id": "JJhOKSZWSj-QhkkUwg0AbA",
+        "completion_ratio": 0,
+        "last_accessed_time": null,
+        "enrollment_time": "2022-05-25T17:06:40Z",
+        "num_collections": 0
+      },
+      {
+        "_class": "course",
+        "id": 2446844,
+        "title": "Functional & Reactive programming in Java : Modern Style",
+        "url": "/course/functional-programming-and-reactive-programming-in-java/learn/",
+        "visible_instructors": [
+          {
+            "_class": "user",
+            "id": 62846716,
+            "title": "Basics Strong",
+            "name": "Basics",
+            "display_name": "Basics Strong",
+            "job_title": "Team of technocrats and Programming lovers"
+          }
+        ],
+        "published_title": "functional-programming-and-reactive-programming-in-java",
+        "tracking_id": "vz8sr7ZjSlqTQwjbFmVHQw",
+        "completion_ratio": 0,
+        "last_accessed_time": null,
+        "enrollment_time": "2022-05-25T17:06:40Z",
+        "num_collections": 0
+      },
+      {
+        "_class": "course",
+        "id": 3525154,
+        "title": "Clean Code with Java: Learn Simple Design, Refactoring & TDD",
+        "url": "/course/java-clean-code-with-refactoring-and-tdd/learn/",
+        "visible_instructors": [
+          {
+            "_class": "user",
+            "id": 13363166,
+            "title": "in28Minutes Official",
+            "name": "in28Minutes",
+            "display_name": "in28Minutes Official",
+            "job_title": "DevOps, Azure, GCP, Docker, Kubernetes, Java & Spring Boot"
+          }
+        ],
+        "published_title": "java-clean-code-with-refactoring-and-tdd",
+        "tracking_id": "NpmRCMnuQJ6-l8u-sMxCfw",
+        "completion_ratio": 0,
+        "last_accessed_time": null,
+        "enrollment_time": "2022-05-25T17:06:40Z",
+        "num_collections": 0
+      },
+      {
+        "_class": "course",
+        "id": 2733264,
+        "title": "Refactoring Pyramid explained in simple steps (Java)",
+        "url": "/course/pyramid-of-refactoring-java-interpreter-factories/learn/",
+        "visible_instructors": [
+          {
+            "_class": "user",
+            "id": 68728372,
+            "title": "Włodek Krakowski",
+            "name": "Włodek",
+            "display_name": "Włodek Krakowski",
+            "job_title": "Technical & Organizational Trainer"
+          }
+        ],
+        "published_title": "pyramid-of-refactoring-java-interpreter-factories",
+        "tracking_id": "4LzgwIAnTmurWQ_rb0XDrQ",
+        "completion_ratio": 0,
+        "last_accessed_time": null,
+        "enrollment_time": "2022-05-25T17:06:40Z",
+        "num_collections": 0
+      },
+      {
+        "_class": "course",
+        "id": 2733620,
+        "title": "Refactoring into Chain of Responsibility & Clean Code",
+        "url": "/course/pyramid-of-refactoring-java-chain-of-poker-hands/learn/",
+        "visible_instructors": [
+          {
+            "_class": "user",
+            "id": 68728372,
+            "title": "Włodek Krakowski",
+            "name": "Włodek",
+            "display_name": "Włodek Krakowski",
+            "job_title": "Technical & Organizational Trainer"
+          }
+        ],
+        "published_title": "pyramid-of-refactoring-java-chain-of-poker-hands",
+        "tracking_id": "HvXD04k2Q9uQO29wbqofJw",
+        "completion_ratio": 0,
+        "last_accessed_time": null,
+        "enrollment_time": "2022-05-25T17:06:40Z",
+        "num_collections": 0
+      }
+    ]
+  }

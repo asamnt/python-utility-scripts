@@ -1,0 +1,315 @@
+{
+    "count": 206,
+    "next": "https://www.udemy.com/api-2.0/users/me/subscribed-courses/?fields%5Bcourse%5D=completion_ratio%2Cenrollment_time%2Clast_accessed_time%2Cnum_collections%2Cpublished_title%2Ctitle%2Ctracking_id%2Curl%2Cdescription%2Cvisible_instructors&fields%5Buser%5D=%40min%2Cjob_title&is_archived=false&ordering=-last_accessed&page=12&page_size=12",
+    "previous": "https://www.udemy.com/api-2.0/users/me/subscribed-courses/?fields%5Bcourse%5D=completion_ratio%2Cenrollment_time%2Clast_accessed_time%2Cnum_collections%2Cpublished_title%2Ctitle%2Ctracking_id%2Curl%2Cdescription%2Cvisible_instructors&fields%5Buser%5D=%40min%2Cjob_title&is_archived=false&ordering=-last_accessed&page=10&page_size=12",
+    "results": [
+      {
+        "_class": "course",
+        "id": 3485044,
+        "title": "Spring Security Zero to Master along with JWT,OAUTH2",
+        "url": "/course/spring-security-zero-to-master/learn/",
+        "visible_instructors": [
+          {
+            "_class": "user",
+            "id": 12295496,
+            "title": "Eazy Bytes",
+            "name": "Eazy",
+            "display_name": "Eazy Bytes",
+            "job_title": "Training on Java , Full Stack, Spring & ORM"
+          }
+        ],
+        "published_title": "spring-security-zero-to-master",
+        "tracking_id": "HsSGeo7oRgCQ3TzLxl1fpw",
+        "description": "<p>'Spring Security Zero to Master' course will help in understanding the Spring Security Architecture, important packages, interfaces, classes inside it which handles authentication and authorization requests in the web applications. It also covers most common security related topics like CORs, CSRF, JWT, OAUTH2, password management, method level security, user, roles &amp; authorities management inside web applications.</p><p>Below are the important topics that this course covers,</p><ol><li><p>Spring Security framework details and it features</p></li><li><p>How to adapt security for a Java web application using Spring Security</p></li><li><p>Password Management in Spring Security with PasswordEncoders</p></li><li><p>Deep dive about encoding, encryption and hashing</p></li><li><p>What is CSRF, CORS and how to address them</p></li><li><p>What is Authentication and Authorization. How they are different from each other.</p></li><li><p>Securing endpoint URLs inside web applications using Ant, MVC &amp; Regex Matchers</p></li><li><p>Filters in Spring Security and how to write own custom filters</p></li><li><p>Deep dive about JWT (JSON Web Tokens) and the role of them inside Authentication &amp; Authorization</p></li><li><p>Deep dive about OAUTH2 and various grant type flows inside OAUTH2.</p></li><li><p>Deep dive about OpenID Connect &amp; how it is related to OAUTH2</p></li><li><p>Applying authorization rules using roles, authorities inside a web application using Spring Security</p></li><li><p>Method level security in web/non-web applications</p></li><li><p>Social Login integrations into web applications</p></li><li><p>Set up of Authorization Server using KeyCloak </p><p><br></p></li></ol><p>The pre-requisite for the course is basic knowledge of Java, Spring and interest to learn. </p>",
+        "completion_ratio": 0,
+        "last_accessed_time": "2022-03-11T04:57:09Z",
+        "enrollment_time": "2022-03-09T18:01:00Z",
+        "num_collections": 0
+      },
+      {
+        "_class": "course",
+        "id": 732464,
+        "title": "Spring MVC For Beginners - Build Java Web App in 25 Steps",
+        "url": "/course/spring-mvc-tutorial-for-beginners-step-by-step/learn/",
+        "visible_instructors": [
+          {
+            "_class": "user",
+            "id": 13363166,
+            "title": "in28Minutes Official",
+            "name": "in28Minutes",
+            "display_name": "in28Minutes Official",
+            "job_title": "DevOps, Azure, GCP, Docker, Kubernetes, Java & Spring Boot"
+          }
+        ],
+        "published_title": "spring-mvc-tutorial-for-beginners-step-by-step",
+        "tracking_id": "Q_cW5YkERHepcfolJc7QvQ",
+        "description": "<p><strong>Developing your first Spring MVC Web Application is fun. </strong>In this course, you will learn the basics of Spring MVC&nbsp;<strong>developing a Basic Todo Management Application</strong> with Login and Logout functionalities.</p><p><br></p><p><strong>WHAT&nbsp;OUR&nbsp;LEARNERS&nbsp;ARE&nbsp;SAYING:</strong></p><p>★★★★★ <em>\"</em><strong><em>Great course</em></strong><em> to get basic knowledge of Spring MVC. Instructor is great, explanations are clear and simple.</em><strong><em> I recommend</em></strong><em> it to everyone interested in basics of java web. Thanks!\"</em></p><p>★★★★★ <em>\"The author explain everyting nicely. </em><strong><em>App build from scratch</em></strong><em> All the spring magic and feature explained.\"</em></p><p>★★★★★ <em>\"</em><strong><em>Speechless!</em></strong><em> Finally something of quality that's worth buying. Please release more on Spring like Rest, Hadoop etc. Also don't forget Play framework.\"</em></p><p>★★★★★ \"<em>A very good introduction to Spring MVC. </em><strong><em>I especially like the way Ranga encouraged the student to play around</em></strong><em> with the framework and </em><strong><em>try \"to break it.\" </em></strong><em>This gives great insight into what annotations and tags do what.</em>\"</p><p><br></p><p><strong>COURSE&nbsp;OVERVIEW:</strong></p><p>You will <strong>build the website step by step</strong> - in more than 25 steps. This course would be a <strong>perfect first step</strong> as an introduction to Java Web Application Development. </p><p>You will be using Spring (Dependency Management), Spring MVC, Spring Security (Authentication and Authorization), BootStrap (Styling Pages), Maven (dependencies management), Eclipse (IDE) and Tomcat Web Server. <strong>We will help you set up each one of these.</strong></p><p><strong>You will learn about</strong></p><ul><li><p>DispatcherServlet</p></li><li><p>Basic Todo Management Application with Login/Logout</p></li><li><p>Model, Controllers, ViewResolver and Filters</p></li><li><p>Forms - DataBinding, Validation</p></li><li><p>Annotation based approach - @RequestParam, @PathVariable, @ModelAttribute, @SessionAttributes etc</p></li><li><p>Bootstrap to style the page</p></li><li><p>Spring Security</p></li><li><p>Internationalization</p></li><li><p>Exception Handling</p></li><li><p>Basic REST Services</p></li></ul><p><strong>Step Wise Details</strong></p><ul><li><p>Step 11 : Configure application to use Spring MVC</p></li><li><p>Step 12 : First Spring MVC Controller, @ResponseBody, @Controller</p></li><li><p>Step 13 : Redirect to Login JSP - LoginController, @ResponseBody and View Resolver</p></li><li><p>Step 14 : DispatcherServlet and Log4j</p></li><li><p>Step 15 : Show userid and password on the welcome page - ModelMap and @RequestParam</p></li><li><p>Step 16 : LoginService and Remove all JEE Servlets based code</p></li><li><p>Step 17 : Spring Auto-wiring and Dependency Management - @Autowired and @Service</p></li><li><p>Step 18 : Create TodoController and list-todos view. Make TodoService a @Service and inject it.</p></li><li><p>Step 19 : Web Application Architecture</p></li><li><p>Step 20 : More about Spring Framework</p></li><li><p>Step 21 : Session vs Model vs Request - @SessionAttributes</p></li><li><p>Step 22 : New Todo and redirect to a Controller</p></li><li><p>Step 23 : JSTL</p></li><li><p>Step 24 : Bootstrap - using Webjars</p></li><li><p>Step 25 : Let's delete a Todo</p></li><li><p>Step 26 : Use Bootstrap to format and add HTML5 Validations</p></li><li><p>Step 27 : Introduce JSR 349 Validations using Hibernate Validator - First Command Bean.</p></li><li><p>Step 28 : Let's update a Todo</p></li><li><p>Step 29 : Let's add a Target Date for Todo - Use initBinder to Handle Date Fields</p></li><li><p>Step 30 : Navigation bar and JSP Fragments</p></li><li><p>Step 31 : Let's prepare for Spring Security</p></li><li><p>Step 32 : Initial Setup for Spring Security</p></li><li><p>Step 33 : Refactor and add Logout Functionality using Spring Security</p></li><li><p>Step 34 : Exception Handling in Spring MVC - @ControllerAdvice, @ExceptionHandler and error-page in web dot xml</p></li><li><p>Step 35 : Let's add Internationalization - i18n</p></li><li><p>Step 36 : Basic Spring Rest Services - @RestController and jackson-databind</p></li><li><p>Step 37 : More Rest Services - @PathVariable</p></li></ul><p>We do NOT interact with a Database in this Beginner’s Course.</p><p><br></p>",
+        "completion_ratio": 0,
+        "last_accessed_time": "2021-12-04T17:22:48Z",
+        "enrollment_time": "2021-06-22T18:54:10Z",
+        "num_collections": 1
+      },
+      {
+        "_class": "course",
+        "id": 477958,
+        "title": "User Stories for Agile Scrum+Product Owner+Business Analysis",
+        "url": "/course/userstory/learn/",
+        "visible_instructors": [
+          {
+            "_class": "user",
+            "id": 8511636,
+            "title": "Paul Ashun",
+            "name": "Paul",
+            "display_name": "Paul Ashun",
+            "job_title": "CSM, Author - Scrum & Soft. Dev Books, CEO Pashun Consulting"
+          }
+        ],
+        "published_title": "userstory",
+        "tracking_id": "olLHYoidTZSqCG4_MPtJ8A",
+        "description": "<p><br></p><p><strong><em>\"Scrum Open,&nbsp;Professional Scrum™, Professional Scrum Master™, PSM, PSM I, PSM 1, etc. is the protected brand of Scrum . org. Our course and practice exams are neither endorsed by nor affiliated with Scrum . org.\"</em></strong><br></p><p><strong>Three reasons to TAKE THIS COURSE right now!</strong></p><p>The unique reasons for taking this course are:</p><ol><li><p>Complete, Concise, Confident Overview of User Stories - I cover all of the theory and give you examples of how the theory is used in industry.</p></li><li><p>Confidence in writing User Stories - In a very simple way, I teach you exactly how the pros write user stories without going into a class room or spending $1000..</p></li><li><p>You get to ask me questions and see me respond to every single one of them thoughtfully!</p></li></ol><p>Includes Narration from Ted R. Brown</p><p><strong>What is a User Story?</strong><br></p><p>A User Story is the description of a product feature or requirement from from a user's perspective. Based on my experience, it is the simplest way to capture requirements which focus on adding value and help businesses to deliver early return on investment!</p><p><strong>Who should take is course?</strong></p><p>Whether you are a product owner, scrum master, business analyst, team member, business stakeholder or simply someone who wants the answer to the question \"what is a user story\", this is the place to start. If you are preparing to become an agile product owner or agile business analyst then this class is for you.</p><p><strong>What will I learn?</strong></p><p>In this class you will learn:</p><ul><li><p>Concise overview of Agile User Stories - Including How to write a user story description, acceptance criteria to capture the detail, the purpose of epics and themes in dealing with large or vague requirements and how to split stories along with the reasons why user stories are favoured over traditional methods of capturing requirements. This includes lectures on the principles that underpin user stories, such as the INVEST principle and the Three Cs formula.</p></li><li><p>The facts based on real industry experience and agile expertise - The correct terminology and use of User stories is essential to mastering it. My experience in industry and extensive research into the topic has been used to give you a solid grounding in the most concise way possible.</p></li><li><p>Agile Product Owners / Agile Business Analyst preparation - I tell you the exact theory and give you templates to prepare you for writing user stories in the real workd, business or work place without having to do a face to face course saving you hundreds if not thousands of dollars.</p></li></ul><p>The course is video based with no supporting document necessary. I go through key gotchas from the scrum guide.&nbsp; If you have 3by5 index cards, this is a bonus but you can get started without this.</p><p><strong>How is the course structured?</strong></p><p>Each section features an overview of a particular aspect of User Stories such as Principles, How to write a user story description, how to write acceptance criteria, or epics. Examples are included throughout the course. All is based on Agile theory and real world experience so you know that you are learning the facts.</p><p>Inspired by God, the Bible, Mike Cohn.</p>",
+        "completion_ratio": 12,
+        "last_accessed_time": "2021-11-18T15:59:20Z",
+        "enrollment_time": "2020-07-29T18:58:41Z",
+        "num_collections": 0
+      },
+      {
+        "_class": "course",
+        "id": 2591190,
+        "title": "User Story Masterclass: Your Agile Guide to User Stories",
+        "url": "/course/user-stories/learn/",
+        "visible_instructors": [
+          {
+            "_class": "user",
+            "id": 14738472,
+            "title": "The BA Guide | Jeremy Aschenbrenner",
+            "name": "The BA Guide",
+            "display_name": "The BA Guide | Jeremy Aschenbrenner",
+            "job_title": "Business Analysis Trainer, Best Selling Instructor"
+          },
+          {
+            "_class": "user",
+            "id": 55651246,
+            "title": "Vivek & Pabitra Khattri",
+            "name": "Vivek & Pabitra",
+            "display_name": "Vivek & Pabitra Khattri",
+            "job_title": "Coach & Instructor @ The Agile Coach"
+          }
+        ],
+        "published_title": "user-stories",
+        "tracking_id": "4g0X95TPT6uSPNlQbLbhGg",
+        "description": "<p><strong>Enhance your productivity and project success by putting your customer's needs front and center with powerful Agile User Stories.</strong></p><p>Understanding the needs of users is one of the key components for any project. But there are some choices in how you gather those needs and how you document them. One very popular and trending technique, especially for Agile projects, is to utilize User Stories.</p><p>A User Story is a short, simple description of a feature told from the perspective of the end-user. And while these stories are short, they are very impactful. In fact, those one to two sentences provide the context for a series of conversations to fully define the desired functionality.</p><p>This course is designed to take you from novice to User Story expert. We'll break down all of the best practices including User Story format, writing Acceptance Criteria, handling common challenges, splitting User Stories, User Story Mapping, and much more.</p><p><strong><em>Whether you have worked with User Stories for years or you've never heard of them until now, this is the perfect course for you. </em></strong></p><p><br></p><p><strong>What’s included in the course?</strong></p><p>- <strong>High-Quality Video Lectures </strong>break down everything you need to know to become an expert in writing, splitting, and mapping User Stories and how to write straight-forward Acceptance Criteria</p><p>- <strong>Downloadable Handouts </strong>help you to enhance your understanding and retention of the key concepts</p><p>- <strong>Quizzes and Activities </strong>validate your learning and help to point out areas that should be reviewed for full comprehension</p><p>- <strong>1-on-1 Support </strong>means that any confusion or questions you have can be addressed and cleared up easily (no more frantically googling trying to figure out what your course instructor means).</p><p>- <strong>Lifetime Access with NO Expiration </strong>so you can learn at your own pace, and come back at any time you feel unsure or are in need of a refresher</p><p><br></p><p><strong>Let’s hear from some students that have already taken this course:</strong></p><p> “Very straight forward and jam-packed with useful information with regards to user stories! Examples, videos, and layout make this course that much more worth it.” <strong>– Diego</strong></p><p> “Great course! Content was told a good pace and was easy to understand. The real world examples also added an extra depth to different topics, giving a lot of the definitions, discussions, and descriptions context.” <strong>- Zachary</strong></p><p><br></p><p><strong>Haven't made up your mind yet?</strong></p><p>And if you’re not sure – here’s my promise to you:</p><p>This course comes with a <strong>30-day money-back guarantee! </strong>That means, if you aren’t completely satisfied with your purchase, I’ll give you a refund – no questions asked!</p><p><br></p><p><strong>Let's hear from some more students:</strong></p><p> “I am making a career transition to becoming a scrum master. I've heard of user stories but never knew what they were all about. This course is great for beginners like or anyone who has an interest. The instructors do a wonderful job of breaking the concepts down, and providing examples to tie everything together.\" <strong>- Romier</strong></p><p> “Amazing course again from the ba guide team. High Quality audios and videos i would recommend this course for anyone wants to know more about user stories\" <strong>- Abdirahman</strong></p><p><br></p><p><strong>By the end of this course, you will have a deep practical understanding of exactly what User Stories are and how they can be used effectively to generate happy customers!</strong></p><p>Enroll today and we look forward to seeing you in the classroom!</p>",
+        "completion_ratio": 45,
+        "last_accessed_time": "2020-08-07T04:45:10Z",
+        "enrollment_time": "2020-07-29T19:04:36Z",
+        "num_collections": 0
+      },
+      {
+        "_class": "course",
+        "id": 2013892,
+        "title": "Agile Fundamentals: Including Scrum and Kanban - 2022",
+        "url": "/course/agile-fundamentals-scrum-kanban-scrumban/learn/",
+        "visible_instructors": [
+          {
+            "_class": "user",
+            "id": 14738472,
+            "title": "The BA Guide | Jeremy Aschenbrenner",
+            "name": "The BA Guide",
+            "display_name": "The BA Guide | Jeremy Aschenbrenner",
+            "job_title": "Business Analysis Trainer, Best Selling Instructor"
+          },
+          {
+            "_class": "user",
+            "id": 55651246,
+            "title": "Vivek & Pabitra Khattri",
+            "name": "Vivek & Pabitra",
+            "display_name": "Vivek & Pabitra Khattri",
+            "job_title": "Coach & Instructor @ The Agile Coach"
+          }
+        ],
+        "published_title": "agile-fundamentals-scrum-kanban-scrumban",
+        "tracking_id": "pQisr-TbQTe6dIFPK0ySog",
+        "description": "<p><strong>Make yourself a more valuable member of the team by learning how to help organizations make changes faster and with less expense by using Agile approaches.</strong></p><p>In nature, as in business – you adapt, or you die…</p><p>And with over 70% of companies using Agile for their projects, not knowing the fundamental concepts, principles, and values just isn’t an option anymore.</p><p>This course will not only teach you the fundamentals of Agile to help you develop the adaptive mindset, but it will also break down the most popular Agile frameworks such as Scrum, Kanban, and Scrumban.</p><p>That includes:</p><p>- Agile Values<br>- Agile Principles<br>- Benefits of Agile<br>- Challenges<br>- Roles in Agile<br>- User Stories<br>- Scrum Framework<br>- Sprints<br>- Scrum Ceremonies<br>- Product Backlog<br>- Sprint Backlog<br>- Estimation Techniques<br>- Team Velocity<br>- Burndown Charts<br>- Burn Up Charts<br>- Kanban Principles<br>- Setting Work in Progress (WIP) Limits<br>- Kanban Boards ...<em>and more!</em></p><p>Taught with practicality and authenticity in mind, this to-the-point course brings you real-life work examples (both failures and successes) to make your learning stick.</p><p><em>Course enrollment grants you lifetime access, with no expiration, to all the course lectures, activities, handouts, and quizzes. In addition, you’ll also receive 1-on-1 support for any questions or uncertainties that come up. And this all comes with a </em><strong><em>money-back guarantee</em></strong><em>. You have nothing to lose and so much knowledge to gain.</em></p><p><br></p><p><strong>Just ask the students who’ve already taken this course:</strong></p><p> “This course is awesome! I am a beginner, I just started exploring Agile and Scrum, and after this course I feel like I'm ready to implement things. Thank you so much. Great work!” <strong>– Dubravka</strong></p><p> “The course structure is a lot more than I was expecting regarding features. I can also make notes during the video without pausing or falling behind. I'm […] impressed with how the sections are broken down and have been placed into chronological order to help with understanding.” <strong>– Laura</strong></p><p> “Through my Agile journey, this is one of the top courses I have taken. Why? I enjoy this course because it goes over a large scheme of topics that are specific and useful, but also given to the learner in bite sized pieces.. This course is especially helpful if you are working in an Agile Team or looking to implement Agile into a team. I have a much clearer understanding on the ceremonies, structure of a team, team responsibilities and reasoning behind different pieces of software, such as Jira. I have gained a lot of knowledge from the course, quizzes, and activities that Jeremy and Vivek put together. I can absolutely see myself implementing what I have gained from this course into my team and future teams. Thanks for creating an easy to follow course!!” <strong>- Meghann</strong></p><p><br></p><p><strong>Learn how Agile works as well as how it fits into the world of Business Analysis</strong></p><p>This course is taught by <strong>two </strong>instructors, to ensure you get <strong>total </strong>coverage of the subject.</p><p>Jeremy Aschenbrenner (The BA Guide) is an expert in the Business Analysis field who will help you understand the part Agile plays in the Business Analyst role…</p><p>Vivek Khattri (The Agile Coach) is a highly experienced Agile practitioner and trainer whose expertise will give you a comprehensive understanding of Agile, Agile Mindset, and different Agile frameworks and practices…</p><p>And together, not only will our varying perspectives give you a 360-degree understanding of Agile fundamentals, our varied content formats will enhance your learning experience and help you retain the concepts you learn.</p><p><br></p><p><strong>Let’s hear from some more students:</strong></p><p> “I was certified as a Scrum Master over a decade ago and had been away from using scrum in a product management role for several years. This course helped me quickly regain an overview of the key principles and remind me of all of the artifacts and other key practices to put scrum to use again. I highly recommend this course to anyone who wants to understand Scrum or Kanban.” <strong>– John</strong></p><p> “Training by Jeremy and Vivek was awesome. They were able to explain in detail about all the concepts which will help anyone to understand and try to implement these practices. The good thing about Jeremy is his technique to break into pieces and explaining to avoid confusion. Look forward to learning more from you guys in the future lectures.” <strong>- Venkatesh</strong></p><p><br></p><p><strong>What’s included in the course?</strong></p><p>- <strong>High-Quality Video Lectures </strong>break down the complex terms and confusing Agile jargon to ensure you get a concrete understanding of the items being discussed</p><p>- <strong>Downloadable Handouts </strong>help you to enhance your understanding and retention of the key concepts</p><p>- <strong>Quizzes and Activities </strong>validate your learning and help to point out areas that should be reviewed for full comprehension</p><p>- <strong>1-on-1 Support </strong>means that any confusion or questions you have can be addressed and cleared up easily (no more frantically googling trying to figure out what your course instructor means).</p><p>- <strong>Lifetime Access with NO Expiration </strong>so you can learn at your own pace, and come back at any time you feel unsure or are in need of a refresher</p><p><br></p><p> “Not only the theoretical part associated to the Scrum Framework is good, but Jeremy and Vivek's experience, that is invaluable, thanks for that guys! [...] Jeremy and Vivek explained the terms and concepts in a logical and simple order way so it was much much easy to me to catch on all these concepts once and for all. Congrats to both!” <strong>– Silvia</strong></p><p> “While not 100% new to Agile, it had been some time since I worked in the environment so as a refresher this course is perfect. I also feel this would be a great course for beginners. The videos are clear and easy to listen to, with a good pace. I like the inclusion of printable material as it is true, when you write something down, you remember it easier. Well done Vivek and Jeremy.” <strong>- Shelly</strong></p><p><br></p><p><strong>What ELSE is included in the course?</strong></p><p>And of course, anyone who has studied one of Jeremy’s courses before will know, it simply wouldn’t be a course by The BA Guide if I didn’t include some value-packed bonus material!</p><p>Here’s what you get as complimentary extras with the <strong>Agile</strong> <strong>Fundamentals </strong>course:</p><p>- The Agile Principles Handout and Infographic<br>- Sample User Stories<br>- Scrum Terms Worksheet<br>- Scrum Terms Retention Worksheet<br>- Checklist for starting Kanban with your team<br>- Digital Kanban board setup instructions<br>- Agile Word Search<br>- Agile Terms Crossword Puzzle</p><p><br></p><p><strong>Still not convinced?</strong></p><p>And if you’re <strong><em>still </em></strong>not sure – here’s my promise to you:</p><p>This course comes with a <strong>30-day money-back guarantee! </strong>That means, if you aren’t completely satisfied with your purchase, I’ll give you a refund – no questions asked!</p><p><strong>By the end of this course, you’ll have a working understanding of the fundamentals of Agile as well as its most popular frameworks, setting you up to be the agile, adaptive Business Analyst every modern organization needs.</strong></p><p>As one of my favorite ancient Chinese proverbs says, “when the winds of change blow, some build walls, others build windmills”.</p><p>With disruptive technology evolving at a faster rate than ever before, the winds of change are blowing.</p><p>Hard.</p><p>So, if you’re ready to build windmills, <strong>enroll today</strong> and get started learning the fundamentals of Agile.</p>",
+        "completion_ratio": 2,
+        "last_accessed_time": "2020-07-31T15:29:44Z",
+        "enrollment_time": "2020-07-29T06:35:14Z",
+        "num_collections": 0
+      },
+      {
+        "_class": "course",
+        "id": 364426,
+        "title": "JavaScript: Understanding the Weird Parts",
+        "url": "/course/understand-javascript/learn/",
+        "visible_instructors": [
+          {
+            "_class": "user",
+            "id": 2467626,
+            "title": "Anthony Alicea",
+            "name": "Anthony",
+            "display_name": "Anthony Alicea",
+            "job_title": "Software Developer, Architect, and UX Designer"
+          }
+        ],
+        "published_title": "understand-javascript",
+        "tracking_id": "_Dyfrd-rQUKssA8Nre5PcA",
+        "description": "<p>  \t                            Javascript is the language that modern developers need to know, and know well. Truly knowing Javascript will get you a job, and enable you to build quality web and server applications.  </p>  <p>  \t<em style=\"\">NOTE: This course includes information on ECMAScript 6 (ES6) the next version of Javascript!</em>  </p>  <p>  \t                              In this course you will gain a deep understanding of Javascript, <strong style=\"\">learn how Javascript works under the hood</strong>, and how that knowledge helps you avoid common pitfalls and <em style=\"\"><strong style=\"\">drastically improve your ability to debug problems</strong></em>. You will find clarity in the parts that others, even experienced coders, may find weird, odd, and at times incomprehensible. You&#039;ll learn the beauty and deceptive power of this language that is at the forefront of modern software development today.  </p>  <p>  \t                              This course will cover such advanced concepts as <strong style=\"\">objects and object literals, function expressions, prototypical inheritance, functional programming, scope chains, function constructors (plus new ES6 features), immediately invoked function expressions (IIFEs), call, apply, bind, and more</strong>.</p>  <p>We&#039;ll take <strong style=\"\">a deep dive into the source code of popular frameworks</strong> such as jQuery and Underscore to see how you can use your understanding of Javascript to learn (and borrow) from other&#039;s good code.  </p><p>Finally, you&#039;ll learn the foundations of how to <strong style=\"\">build your own Javascript framework or library</strong>.<br style=\"\"></p><p>What you&#039;ll learn in this course will <strong style=\"\">make you a better Javascript developer, and improve your abilities in AngularJS, NodeJS, jQuery, React, Ember, MongoDB, and all other Javascript-based technologies!</strong></p><p>Learn to love Javascript, and code in it well.</p>  <p>  \t<em style=\"\">Note: In this course you&#039;ll also get downloadable source code. You will often be provided with &#039;starter&#039; code, giving you the base for you to start writing your code, and &#039;finished&#039; code to compare your code to.</em>  </p>",
+        "completion_ratio": 0,
+        "last_accessed_time": "2020-07-29T05:05:50Z",
+        "enrollment_time": "2020-07-29T05:05:49Z",
+        "num_collections": 0
+      },
+      {
+        "_class": "course",
+        "id": 379702,
+        "title": "Become QlikView Developer from Scratch",
+        "url": "/course/qlikview-developer-course/learn/",
+        "visible_instructors": [
+          {
+            "_class": "user",
+            "id": 268762,
+            "title": "Shilpan Patel",
+            "name": "Shilpan",
+            "display_name": "Shilpan Patel",
+            "job_title": "Qlik Luminary 2018-2020"
+          }
+        ],
+        "published_title": "qlikview-developer-course",
+        "tracking_id": "70CTCTX8RUiv-4mp7Woy5Q",
+        "description": "<p><strong>Course updated on March 18, 2017.</strong></p>\n\n<p>Hi there! Since you've stumbled upon this course, you are likely looking for QlikView training to become an awesome QlikView developer. That's fabulous. But, if you are still wondering if this course is right for you or not, let not your heart be troubled.</p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<p>Let me breakdown reasons for you to become a QlikView developer.</p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<ol><li>Have you been asked to <em><strong>create a QlikView application</strong></em> at your work since your company just invested in QlikView as a business discovery tool?</li><li>Are you looking to <u>quickly learn QlikView scripting to transform data from various sources</u>?</li><li>Did you create a QlikView application without formal training but feel that you have not unleashed power of <em><strong>QlikView's unique ETL capability</strong></em>?</li><li>Do you enjoy building data models that can help <em><strong>companies gain insight </strong></em>and help executives make fact based decisions? </li><li>Are you a Business Intelligence professional with experience with Cognos or OBIEE and want to change career as most <em><strong>QlikView developers make six-figure income</strong></em>?</li></ol>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<p>If you answered 'yes' to any of  these questions, then this course is for you!</p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<p>QlikView is growing rapidly. With over 30,000 customers, demand for skilled QlikView developers l is higher than ever before!<br></p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<p>QlikView is the only in-memory tool with ETL(Extract, transform, load)  engine to transform data from various data sources.</p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<p>  \tThis course will make you an awesome QlikView developer. You will be able to extract data from various sources and transform data based on the business rules to create a data model that business analysts can use to create Presentation layer.</p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<p>  \tCourse starts with basics and builds on gradually. Each session starts with a conceptual overview followed by hands-on examples to reinforce concepts. Each session also contains a quiz to test level of your knowledge.  </p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<p>  \tI also am committed to keep improving and enhancing course content in the future and you will have lifetime access to this course. </p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<p>Enroll in this course now and start making six-figure income by becoming a QlikView developer. Welcome aboard!  </p>",
+        "completion_ratio": 7,
+        "last_accessed_time": "2020-06-19T08:50:23Z",
+        "enrollment_time": "2017-08-10T04:08:41Z",
+        "num_collections": 0
+      },
+      {
+        "_class": "course",
+        "id": 462620,
+        "title": "Become QlikView Designer from Scratch",
+        "url": "/course/become-qlikview-designer-from-scratch/learn/",
+        "visible_instructors": [
+          {
+            "_class": "user",
+            "id": 268762,
+            "title": "Shilpan Patel",
+            "name": "Shilpan",
+            "display_name": "Shilpan Patel",
+            "job_title": "Qlik Luminary 2018-2020"
+          }
+        ],
+        "published_title": "become-qlikview-designer-from-scratch",
+        "tracking_id": "ej7cND6CQZmumhaItkIEag",
+        "description": "<p>Hi there! You may be a business analyst and asked to design your first QlikView application. Or, you may have already enrolled in my QlikView developer course and wondering how to create an application using the same data model that we built together in the developer course.</p>\n\n<p>Whatever may be the reason, QlikView designer course will definitely make you an awesome, well-rounded QlikView Designer.</p>\n\n\n\n\n\n<p>If you are still wondering, let not your heart be troubled. </p>\n\n\n\n\n\n<p>Let me breakdown reasons for you to become a QlikView designer.</p>\n\n\n\n\n\n<ol><li>You know the subject matter so you been asked to <em>create a QlikView application</em> at your work since your company just invested in QlikView as a business discovery tool</li><li>You have already enrolled in my QlikView developer course and wanted to extend your knowledge to build an application using the same data model.</li><li>You wanted to learn how to create a QlikView application that can tell story effectively using data visualization best practices </li></ol>\n\n\n\n\n\n<p>If you answered 'yes' to any of these questions, then this course is for you!</p>\n\n\n\n\n\n<p>QlikView is growing rapidly. With over 30,000 customers, demand for skilled QlikView developers and designers is higher than ever before!</p>\n\n\n\n\n\n<p>We will begin with a template and build an application step-by-step together. I will teach each concept before the hands-on session to make it easier to learn. </p>\n\n\n\n\n\n<p>At the end, if you follow all the concepts and get your feet wet(so to speak), I promise that you will be an awesome QlikView Designer.</p>\n\n\n\n\n\n<p>So, what are you waiting for? Enroll now...</p>",
+        "completion_ratio": 0,
+        "last_accessed_time": "2020-06-18T18:10:15Z",
+        "enrollment_time": "2017-08-10T03:49:04Z",
+        "num_collections": 0
+      },
+      {
+        "_class": "course",
+        "id": 1396598,
+        "title": "Python eCommerce | Build a Django eCommerce Web Application",
+        "url": "/course/python-ecommerce-build-a-django-ecommerce-web-application/learn/",
+        "visible_instructors": [
+          {
+            "_class": "user",
+            "id": 128598,
+            "title": "Justin Mitchel",
+            "name": "Justin",
+            "display_name": "Justin Mitchel",
+            "job_title": "Coding Entrepreneur & Teacher - 568,000+ Students"
+          }
+        ],
+        "published_title": "python-ecommerce-build-a-django-ecommerce-web-application",
+        "tracking_id": "G-6H4waxQDCUP1XaVKlcJw",
+        "description": "<p>What used to take a big team of people can now be accomplished by you and you alone. It's all thanks to the massive improvements to what programming languages can do. <strong>Python is the perfect beginner's starting point </strong>because it's simple to understand while being powerful enough for experts to build self-driving cars and AI systems. </p><p>This course leverages Python to build a fully functioning eCommerce website and application using the Django framework. </p><p>Why <strong>Django</strong> and why now?</p><ul><li>Django is built for speed. Both in functionality and in development time. </li><li>Some of the top tech companies are build on Django: Instagram and Pinterest to name a couple.</li><li>Django is written in Python and therefore it helps you further master Python. </li><li>Huge support from developers around the world. Run into an issue with something in python or Django? A quick google search will likely yield an answer (if not, I'll try to help you out too)</li></ul><p><strong>Python is the easiest to start with AND it's made for the pros (such as building Artificial Intelligence)</strong></p><p>Why eCommerce? Why not social networking?</p><p>I do have course called Tweetme that covers building twitter-like service. That course will show you how to create a social network step-by-step. I <em>do encourage you to take that course</em> but I'll say this course should be taken first for a key reason...</p><p><strong>Validation</strong>. Proving any project is worth your effort and time can be very challenging. Proving that a social network is viable is also VERY VERY challenging. eCommerce, on the other hand, it's very clear if your project is working: it's either making sales or it's not. </p><p>Here's the thing. I want you to build a super successful project and change your life as a result of that project. I believe the only way you can do that is by committing yourself to working through projects from start to finish. <em><strong>This project is the result of everything I've ever done and learned in programming</strong></em>. I show you step-by-step to help you learn the context of how all of this is used. Along the way, I'll explain the <strong>WHY</strong> behind the <strong>HOW</strong>. </p><p>It's an amazingly exciting time to get into coding/programming/software development/technology! I hope you join me.</p><p>Thank you,</p><p>Justin</p>",
+        "completion_ratio": 5,
+        "last_accessed_time": "2020-06-14T17:57:49Z",
+        "enrollment_time": "2018-03-14T18:48:26Z",
+        "num_collections": 1
+      },
+      {
+        "_class": "course",
+        "id": 850690,
+        "title": "Learn Python for Beginners!",
+        "url": "/course/draft/850690/learn/",
+        "visible_instructors": [
+          {
+            "_class": "user",
+            "id": 15222776,
+            "title": "Sami Shumiye",
+            "name": "Sami",
+            "display_name": "Sami Shumiye",
+            "job_title": "Software Developer, Software Automation Engineer, Teacher"
+          }
+        ],
+        "published_title": "python-for-all-beginner-and-intermediate-free",
+        "tracking_id": "DMArnfNrSXipwX6nJEKSGA",
+        "description": "<p>This is a detailed and comprehensive course for Python programming language. Whether you are new to programming, already know the basics or coming from another programming language, this is the course you have been waiting for. </p>\n\n<p><strong>With just over 50 lectures and more than 5 hours of video, this course explains the most fundamental concepts in programming</strong> while you work your way through fun and interesting <strong>projects</strong> based on real life problems. </p>\n\n\n\n<p><strong>This course includes quizzes and videos of practical problems after each lecture.</strong> In addition, the course comes with detailed projects and full coding screencast of each lecture and a corresponding <strong>code notebook</strong> so that you can learn in whatever way suites you best.</p>\n\n\n\n<p><strong>Learn Python Programming for free now!</strong></p>\n\n\n\n\n\n<p><strong>Are you ready to transform your world and become a confident developer and enter in the field of technology?</strong> So what are you waiting for? Join today and learn Python in a way that will increase your knowledge and advance your career!</p>",
+        "completion_ratio": 2,
+        "last_accessed_time": "2020-06-14T09:18:31Z",
+        "enrollment_time": "2016-09-02T08:30:26Z",
+        "num_collections": 1
+      },
+      {
+        "_class": "course",
+        "id": 937678,
+        "title": "Tableau 2022 A-Z: Hands-On Tableau Training for Data Science",
+        "url": "/course/tableau10/learn/",
+        "visible_instructors": [
+          {
+            "_class": "user",
+            "id": 2364054,
+            "title": "Kirill Eremenko",
+            "name": "Kirill",
+            "display_name": "Kirill Eremenko",
+            "job_title": "Data Scientist"
+          },
+          {
+            "_class": "user",
+            "id": 27129696,
+            "title": "Ligency I Team",
+            "name": "Ligency I",
+            "display_name": "Ligency I Team",
+            "job_title": "Helping Data Scientists Succeed"
+          },
+          {
+            "_class": "user",
+            "id": 150405524,
+            "title": "Ligency Team",
+            "name": "Ligency",
+            "display_name": "Ligency Team",
+            "job_title": "Helping Data Scientists Succeed"
+          }
+        ],
+        "published_title": "tableau10",
+        "tracking_id": "35Vdu0fXSoSF0dyb64ch_g",
+        "description": "<p>Learn data visualization through Tableau 2022 and create opportunities for you or key decision-makers to discover data patterns such as customer purchase behavior, sales trends, or production bottlenecks.</p><p>You'll learn all of the features in Tableau that allow you to explore, experiment with, fix, prepare, and present data easily, quickly, and beautifully.</p><p><strong>Use Tableau to Analyze and Visualize Data So You Can Respond Accordingly</strong></p><ul><li><p>Connect Tableau to a Variety of Datasets</p></li><li><p>Analyze, Blend, Join, and Calculate Data</p></li><li><p>Visualize Data in the Form of Various Charts, Plots, and Maps</p></li></ul><p><strong>Convert Raw Data Into Compelling Data Visualizations Using Tableau 2022</strong></p><p>Because every module of this course is independent, you can start in whatever section you wish, and you can do as much or as little as you like.</p><p>Each section provides a new data set and exercises that will challenge you so you can learn by immediately applying what you're learning.</p><p>Content is updated as new versions of Tableau are released. You can always return to the course to further hone your skills, while you stay ahead of the competition.</p><p><strong>Contents and Overview</strong></p><p>This course begins with Tableau basics. You will navigate the software, connect it to a data file, and export a worksheet, so even beginners will feel completely at ease.</p><p>To be able to find trends in your data and make accurate forecasts, you'll learn how to work with data extracts and timeseries.</p><p>Also, to make data easier to digest, you'll tackle how to use aggregations to summarize information. You will also use granularity to ensure accurate calculations.</p><p>In order to begin visualizing data, you'll cover how to create various charts, maps, scatterplots, and interactive dashboards for each of your projects.</p><p>You'll even learn when it's best to join or blend data in order to work with and present information from multiple sources.</p><p>Finally, you'll cover the latest and most advanced features of data preparation in Tableau 10, where you will create table calculations, treemap charts, and storylines.</p><p>By the time you complete this course, you'll be a highly proficient Tableau user. You will be using your skills as a data scientist to extract knowledge from data so you can analyze and visualize complex questions with ease.</p><p>You'll be fully prepared to collect, examine, and present data for any purpose, whether you're working with scientific data or you want to make forecasts about buying trends to increase profits.</p>",
+        "completion_ratio": 30,
+        "last_accessed_time": "2020-01-04T18:55:21Z",
+        "enrollment_time": "2019-12-31T17:53:10Z",
+        "num_collections": 0
+      },
+      {
+        "_class": "course",
+        "id": 1938194,
+        "title": "Angular and Spring MVC (Updated: Angular 9 and Spring boot)",
+        "url": "/course/build-an-angular-and-spring-mvc-web-application/learn/",
+        "visible_instructors": [
+          {
+            "_class": "user",
+            "id": 2632062,
+            "title": "Bushan Sirgur",
+            "name": "Bushan",
+            "display_name": "Bushan Sirgur",
+            "job_title": "Java Developer, Blogger, Youtuber"
+          }
+        ],
+        "published_title": "build-an-angular-and-spring-mvc-web-application",
+        "tracking_id": "yS49VKy8SvWXifGWnCxJSg",
+        "description": "<p>Welcome to the <strong>Full Stack Development with Angular and Spring MVC</strong>. For those of you, who don't know <strong>Angular and Spring MVC,</strong> i would like give a <strong>quick introduction</strong> about these two technologies.</p><p><strong>Angular</strong> is one of the most popular <strong>front end Javascript framework</strong> for building web application, on the other hand, <strong>Spring MVC</strong> is also one of most popular <strong>Java framework</strong> for building Java Web Applications, using which <strong>we can build industry standard Java/J2EE Enterprise Applications.</strong></p><p>So in this course we are taking an advantage of these two technologies and we are going to build a web application. The application that we are going to build is not a simple Hello World application, <strong>we are going to build an End-to-End Database Application</strong>, we are going to perform all the <strong>CRUD operations, like CREATE, READ, UPDATE, DELETE</strong>.</p><p><strong>What are we going to build in this course ?</strong></p><p>In this course we are going to build a <strong>Book Management System</strong>, where the user can,</p><ul><li><p>CREATE a book</p></li><li><p>READ a book</p></li><li><p>UPDATE a book</p></li><li><p>DELETE a book</p></li></ul><p><strong>How do we start this course?</strong></p><ul><li><p>We will begin this course by Creating a <strong>REST API</strong> which is a <strong>BOOK API</strong> and we are going to build this API using <strong>Spring MVC</strong> and we will make use of <strong>Hibernate as our ORM</strong>. The BOOK API provide a bunch of <strong>service end points</strong> which we are going to <strong>make HTTP calls</strong> on those service end points using <strong>Angular</strong></p></li></ul><p><strong>I am super excited to teach you this course. I will see you inside the course.</strong></p><p>Basic knowledge</p><ul><li><p>Basic knowledge of HTML, CSS and Javascript</p></li><li><p>Basic knowledge of Core Java</p></li><li><p>Basic knowledge of Spring MVC</p></li><li><p>Basic knowledge of Hibernate</p></li><li><p>Basic knwoledge of RESTful web services</p></li></ul><p>What you will learn</p><ul><li><p>So by the end of this course, you will have a better knowledge of Angular and Spring MVC. You will have a better understanding of how to integrate Angular and Spring MVC. You are able to create your own API and making a HTTP calls using Angular</p></li></ul>",
+        "completion_ratio": 19,
+        "last_accessed_time": "2019-03-14T02:27:04Z",
+        "enrollment_time": "2019-01-04T03:02:24Z",
+        "num_collections": 0
+      }
+    ]
+  }

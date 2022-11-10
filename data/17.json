@@ -1,0 +1,271 @@
+{
+    "count": 206,
+    "next": "https://www.udemy.com/api-2.0/users/me/subscribed-courses/?fields%5Bcourse%5D=completion_ratio%2Cenrollment_time%2Clast_accessed_time%2Cnum_collections%2Cpublished_title%2Ctitle%2Ctracking_id%2Curl%2Cvisible_instructors&fields%5Buser%5D=%40min%2Cjob_title&is_archived=false&ordering=-last_accessed&page=18&page_size=12",
+    "previous": "https://www.udemy.com/api-2.0/users/me/subscribed-courses/?fields%5Bcourse%5D=completion_ratio%2Cenrollment_time%2Clast_accessed_time%2Cnum_collections%2Cpublished_title%2Ctitle%2Ctracking_id%2Curl%2Cvisible_instructors&fields%5Buser%5D=%40min%2Cjob_title&is_archived=false&ordering=-last_accessed&page=16&page_size=12",
+    "results": [
+      {
+        "_class": "course",
+        "id": 4781608,
+        "title": "MERN Stack Music Player App 2022",
+        "url": "/course/mern-stack-music-player/learn/",
+        "visible_instructors": [
+          {
+            "_class": "user",
+            "id": 121760435,
+            "title": "K.Sathyaprakash Reddy",
+            "name": "K.Sathyaprakash",
+            "display_name": "K.Sathyaprakash Reddy",
+            "job_title": "Full Stack Developer"
+          }
+        ],
+        "published_title": "mern-stack-music-player",
+        "tracking_id": "W2S7Yk4xRhqJfVujiGAC6g",
+        "completion_ratio": 0,
+        "last_accessed_time": null,
+        "enrollment_time": "2022-08-31T14:44:52Z",
+        "num_collections": 0
+      },
+      {
+        "_class": "course",
+        "id": 3493354,
+        "title": "Fullstack Web Development for Beginners :15 Hand-On-Projects",
+        "url": "/course/the-complete-web-development-bootcamp-for-beginners-2020/learn/",
+        "visible_instructors": [
+          {
+            "_class": "user",
+            "id": 121760435,
+            "title": "K.Sathyaprakash Reddy",
+            "name": "K.Sathyaprakash",
+            "display_name": "K.Sathyaprakash Reddy",
+            "job_title": "Full Stack Developer"
+          }
+        ],
+        "published_title": "the-complete-web-development-bootcamp-for-beginners-2020",
+        "tracking_id": "mlpadm1jTyu_A9FnkgsUIQ",
+        "completion_ratio": 0,
+        "last_accessed_time": null,
+        "enrollment_time": "2022-08-31T14:44:52Z",
+        "num_collections": 0
+      },
+      {
+        "_class": "course",
+        "id": 1619356,
+        "title": "React in easy steps with Node and Java Backend",
+        "url": "/course/reactjs-in-easy-steps/learn/",
+        "visible_instructors": [
+          {
+            "_class": "user",
+            "id": 8735380,
+            "title": "Bharath Thippireddy",
+            "name": "Bharath",
+            "display_name": "Bharath Thippireddy",
+            "job_title": "IT Architect and Best Selling Instructor- 500000+ students"
+          }
+        ],
+        "published_title": "reactjs-in-easy-steps",
+        "tracking_id": "V5NHIIWLQ_Sz4Olz4JyX-Q",
+        "completion_ratio": 0,
+        "last_accessed_time": null,
+        "enrollment_time": "2022-08-31T14:44:52Z",
+        "num_collections": 0
+      },
+      {
+        "_class": "course",
+        "id": 4395504,
+        "title": "Discord Clone - Learn MERN Stack with WebRTC and SocketIO",
+        "url": "/course/video-chat-app-learn-mern-stack-with-webrtc-and-socketio/learn/",
+        "visible_instructors": [
+          {
+            "_class": "user",
+            "id": 98983116,
+            "title": "Marek Gryszkiewicz",
+            "name": "Marek",
+            "display_name": "Marek Gryszkiewicz",
+            "job_title": "Web Developer"
+          }
+        ],
+        "published_title": "video-chat-app-learn-mern-stack-with-webrtc-and-socketio",
+        "tracking_id": "CD5gERVFTT-doZVwhy52_A",
+        "completion_ratio": 0,
+        "last_accessed_time": null,
+        "enrollment_time": "2022-08-31T14:44:53Z",
+        "num_collections": 0
+      },
+      {
+        "_class": "course",
+        "id": 1655614,
+        "title": "Build an app with React, Redux and Firestore from scratch",
+        "url": "/course/build-an-app-with-react-redux-and-firestore-from-scratch/learn/",
+        "visible_instructors": [
+          {
+            "_class": "user",
+            "id": 36549886,
+            "title": "Neil Cummings",
+            "name": "Neil",
+            "display_name": "Neil Cummings",
+            "job_title": "Professional freelance software developer"
+          }
+        ],
+        "published_title": "build-an-app-with-react-redux-and-firestore-from-scratch",
+        "tracking_id": "YN9TUcfkQHmntixTAy-7hA",
+        "completion_ratio": 0,
+        "last_accessed_time": null,
+        "enrollment_time": "2022-08-31T14:44:53Z",
+        "num_collections": 0
+      },
+      {
+        "_class": "course",
+        "id": 4523988,
+        "title": "MERN Stack News Application with Tailwind CSS",
+        "url": "/course/mern-stack-news-application-with-tailwind-css-2022/learn/",
+        "visible_instructors": [
+          {
+            "_class": "user",
+            "id": 121760435,
+            "title": "K.Sathyaprakash Reddy",
+            "name": "K.Sathyaprakash",
+            "display_name": "K.Sathyaprakash Reddy",
+            "job_title": "Full Stack Developer"
+          }
+        ],
+        "published_title": "mern-stack-news-application-with-tailwind-css-2022",
+        "tracking_id": "VqGE5FgbQyuHOvGKXT7j7g",
+        "completion_ratio": 0,
+        "last_accessed_time": null,
+        "enrollment_time": "2022-08-31T14:44:53Z",
+        "num_collections": 0
+      },
+      {
+        "_class": "course",
+        "id": 4435978,
+        "title": "React - Tailwind CSS Portfolio Project From Scratch 2022",
+        "url": "/course/react-tailwind-css-portfolio-project-from-scratch-2021/learn/",
+        "visible_instructors": [
+          {
+            "_class": "user",
+            "id": 121760435,
+            "title": "K.Sathyaprakash Reddy",
+            "name": "K.Sathyaprakash",
+            "display_name": "K.Sathyaprakash Reddy",
+            "job_title": "Full Stack Developer"
+          }
+        ],
+        "published_title": "react-tailwind-css-portfolio-project-from-scratch-2021",
+        "tracking_id": "_UQIKqjrTWCBiBESYK5ezw",
+        "completion_ratio": 0,
+        "last_accessed_time": null,
+        "enrollment_time": "2022-08-31T14:44:53Z",
+        "num_collections": 0
+      },
+      {
+        "_class": "course",
+        "id": 3909476,
+        "title": "Full Stack Development: React (React Hooks) and Spring Boot",
+        "url": "/course/full-stack-development-react-hooks-and-spring-boot/learn/",
+        "visible_instructors": [
+          {
+            "_class": "user",
+            "id": 2632062,
+            "title": "Bushan Sirgur",
+            "name": "Bushan",
+            "display_name": "Bushan Sirgur",
+            "job_title": "Java Developer, Blogger, Youtuber"
+          }
+        ],
+        "published_title": "full-stack-development-react-hooks-and-spring-boot",
+        "tracking_id": "KY7MhQSpSUKce37jtUTTjA",
+        "completion_ratio": 0,
+        "last_accessed_time": null,
+        "enrollment_time": "2022-08-31T14:44:53Z",
+        "num_collections": 0
+      },
+      {
+        "_class": "course",
+        "id": 3874004,
+        "title": "FullStack JavaScript React Node MERN eLearning Marketplace",
+        "url": "/course/nextjs-react-node-aws-mern-lms-elearning-udemy-clone/learn/",
+        "visible_instructors": [
+          {
+            "_class": "user",
+            "id": 27195584,
+            "title": "Ryan Dhungel",
+            "name": "Ryan",
+            "display_name": "Ryan Dhungel",
+            "job_title": "Web Developer"
+          }
+        ],
+        "published_title": "nextjs-react-node-aws-mern-lms-elearning-udemy-clone",
+        "tracking_id": "ajOBVMh8RSCP3QFsPnoNNw",
+        "completion_ratio": 0,
+        "last_accessed_time": null,
+        "enrollment_time": "2022-08-31T14:44:53Z",
+        "num_collections": 0
+      },
+      {
+        "_class": "course",
+        "id": 4527016,
+        "title": "Build a Movie Review App Node & React - MERN Stack 2022",
+        "url": "/course/mern-stack-bootcamp-build-a-complete-movie-review-app/learn/",
+        "visible_instructors": [
+          {
+            "_class": "user",
+            "id": 185527748,
+            "title": "Niraj Dhungana",
+            "name": "Niraj",
+            "display_name": "Niraj Dhungana",
+            "job_title": "Developer and Online Instructor"
+          }
+        ],
+        "published_title": "mern-stack-bootcamp-build-a-complete-movie-review-app",
+        "tracking_id": "I3gSIHp6RPGcAvvyfbFLvw",
+        "completion_ratio": 0,
+        "last_accessed_time": null,
+        "enrollment_time": "2022-08-31T14:44:53Z",
+        "num_collections": 0
+      },
+      {
+        "_class": "course",
+        "id": 3546864,
+        "title": "React Redux Ecommerce - Master MERN Stack Web Development",
+        "url": "/course/react-redux-ecommerce/learn/",
+        "visible_instructors": [
+          {
+            "_class": "user",
+            "id": 27195584,
+            "title": "Ryan Dhungel",
+            "name": "Ryan",
+            "display_name": "Ryan Dhungel",
+            "job_title": "Web Developer"
+          }
+        ],
+        "published_title": "react-redux-ecommerce",
+        "tracking_id": "co5OffftSZOPrMWsfwOndw",
+        "completion_ratio": 0,
+        "last_accessed_time": null,
+        "enrollment_time": "2022-08-31T14:44:53Z",
+        "num_collections": 0
+      },
+      {
+        "_class": "course",
+        "id": 2773328,
+        "title": "Introduction to NGINX",
+        "url": "/course/nginx-crash-course/learn/",
+        "visible_instructors": [
+          {
+            "_class": "user",
+            "id": 58408772,
+            "title": "Hussein Nasser",
+            "name": "Hussein",
+            "display_name": "Hussein Nasser",
+            "job_title": "Software Engineer, Author"
+          }
+        ],
+        "published_title": "nginx-crash-course",
+        "tracking_id": "oS5drH3YSOS75WSvaISHwA",
+        "completion_ratio": 0,
+        "last_accessed_time": null,
+        "enrollment_time": "2022-11-02T05:28:35Z",
+        "num_collections": 0
+      }
+    ]
+  }

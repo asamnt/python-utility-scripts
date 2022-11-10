@@ -1,0 +1,335 @@
+{
+    "count": 206,
+    "next": "https://www.udemy.com/api-2.0/users/me/subscribed-courses/?fields%5Bcourse%5D=completion_ratio%2Cenrollment_time%2Clast_accessed_time%2Cnum_collections%2Cpublished_title%2Ctitle%2Ctracking_id%2Curl%2Cvisible_instructors&fields%5Buser%5D=%40min%2Cjob_title&is_archived=false&ordering=-last_accessed&page=16&page_size=12",
+    "previous": "https://www.udemy.com/api-2.0/users/me/subscribed-courses/?fields%5Bcourse%5D=completion_ratio%2Cenrollment_time%2Clast_accessed_time%2Cnum_collections%2Cpublished_title%2Ctitle%2Ctracking_id%2Curl%2Cvisible_instructors&fields%5Buser%5D=%40min%2Cjob_title&is_archived=false&ordering=-last_accessed&page=14&page_size=12",
+    "results": [
+      {
+        "_class": "course",
+        "id": 2313280,
+        "title": "Spring Boot Microservices with Spring Cloud Beginner to Guru",
+        "url": "/course/spring-boot-microservices-with-spring-cloud-beginner-to-guru/learn/",
+        "visible_instructors": [
+          {
+            "_class": "user",
+            "id": 14788334,
+            "title": "John Thompson • 433,000+ Enrollments Worldwide",
+            "name": "John",
+            "display_name": "John Thompson • 433,000+ Enrollments Worldwide",
+            "job_title": "Spring Framework Guru - Best Selling Instructor"
+          },
+          {
+            "_class": "user",
+            "id": 192919664,
+            "title": "Spring Ahead Code Academy",
+            "name": "Spring Ahead Code",
+            "display_name": "Spring Ahead Code Academy",
+            "job_title": "Spring Ahead with Your Career"
+          }
+        ],
+        "published_title": "spring-boot-microservices-with-spring-cloud-beginner-to-guru",
+        "tracking_id": "hvlpOSrARf2UldE2HwWzxA",
+        "completion_ratio": 0,
+        "last_accessed_time": null,
+        "enrollment_time": "2022-05-25T17:06:43Z",
+        "num_collections": 0
+      },
+      {
+        "_class": "course",
+        "id": 2807603,
+        "title": "Spring Security Core: Beginner to Guru",
+        "url": "/course/spring-security-core-beginner-to-guru/learn/",
+        "visible_instructors": [
+          {
+            "_class": "user",
+            "id": 14788334,
+            "title": "John Thompson • 433,000+ Enrollments Worldwide",
+            "name": "John",
+            "display_name": "John Thompson • 433,000+ Enrollments Worldwide",
+            "job_title": "Spring Framework Guru - Best Selling Instructor"
+          },
+          {
+            "_class": "user",
+            "id": 192919664,
+            "title": "Spring Ahead Code Academy",
+            "name": "Spring Ahead Code",
+            "display_name": "Spring Ahead Code Academy",
+            "job_title": "Spring Ahead with Your Career"
+          }
+        ],
+        "published_title": "spring-security-core-beginner-to-guru",
+        "tracking_id": "YoA5shwtSJ6Y9d1EqQbBVw",
+        "completion_ratio": 0,
+        "last_accessed_time": null,
+        "enrollment_time": "2022-05-25T17:06:43Z",
+        "num_collections": 0
+      },
+      {
+        "_class": "course",
+        "id": 2640970,
+        "title": "OpenAPI: Beginner to Guru",
+        "url": "/course/openapi-beginner-to-guru/learn/",
+        "visible_instructors": [
+          {
+            "_class": "user",
+            "id": 14788334,
+            "title": "John Thompson • 433,000+ Enrollments Worldwide",
+            "name": "John",
+            "display_name": "John Thompson • 433,000+ Enrollments Worldwide",
+            "job_title": "Spring Framework Guru - Best Selling Instructor"
+          },
+          {
+            "_class": "user",
+            "id": 192919664,
+            "title": "Spring Ahead Code Academy",
+            "name": "Spring Ahead Code",
+            "display_name": "Spring Ahead Code Academy",
+            "job_title": "Spring Ahead with Your Career"
+          }
+        ],
+        "published_title": "openapi-beginner-to-guru",
+        "tracking_id": "ojbPE1ctSMex-ttuPpjy-Q",
+        "completion_ratio": 0,
+        "last_accessed_time": null,
+        "enrollment_time": "2022-05-25T17:06:43Z",
+        "num_collections": 0
+      },
+      {
+        "_class": "course",
+        "id": 1121254,
+        "title": "Docker for Java Developers",
+        "url": "/course/docker-for-java-developers/learn/",
+        "visible_instructors": [
+          {
+            "_class": "user",
+            "id": 14788334,
+            "title": "John Thompson • 433,000+ Enrollments Worldwide",
+            "name": "John",
+            "display_name": "John Thompson • 433,000+ Enrollments Worldwide",
+            "job_title": "Spring Framework Guru - Best Selling Instructor"
+          },
+          {
+            "_class": "user",
+            "id": 192919664,
+            "title": "Spring Ahead Code Academy",
+            "name": "Spring Ahead Code",
+            "display_name": "Spring Ahead Code Academy",
+            "job_title": "Spring Ahead with Your Career"
+          }
+        ],
+        "published_title": "docker-for-java-developers",
+        "tracking_id": "AvigMuFAT4uw39Yb56L3dw",
+        "completion_ratio": 0,
+        "last_accessed_time": null,
+        "enrollment_time": "2022-05-25T17:06:43Z",
+        "num_collections": 0
+      },
+      {
+        "_class": "course",
+        "id": 4022034,
+        "title": "Hibernate and Spring Data JPA: Beginner to Guru",
+        "url": "/course/hibernate-and-spring-data-jpa-beginner-to-guru/learn/",
+        "visible_instructors": [
+          {
+            "_class": "user",
+            "id": 14788334,
+            "title": "John Thompson • 433,000+ Enrollments Worldwide",
+            "name": "John",
+            "display_name": "John Thompson • 433,000+ Enrollments Worldwide",
+            "job_title": "Spring Framework Guru - Best Selling Instructor"
+          },
+          {
+            "_class": "user",
+            "id": 192919664,
+            "title": "Spring Ahead Code Academy",
+            "name": "Spring Ahead Code",
+            "display_name": "Spring Ahead Code Academy",
+            "job_title": "Spring Ahead with Your Career"
+          }
+        ],
+        "published_title": "hibernate-and-spring-data-jpa-beginner-to-guru",
+        "tracking_id": "gynedit-SRSNrJJfcxy8sw",
+        "completion_ratio": 0,
+        "last_accessed_time": null,
+        "enrollment_time": "2022-05-25T17:06:43Z",
+        "num_collections": 0
+      },
+      {
+        "_class": "course",
+        "id": 1217894,
+        "title": "Spring Framework 5: Beginner to Guru",
+        "url": "/course/spring-framework-5-beginner-to-guru/learn/",
+        "visible_instructors": [
+          {
+            "_class": "user",
+            "id": 14788334,
+            "title": "John Thompson • 433,000+ Enrollments Worldwide",
+            "name": "John",
+            "display_name": "John Thompson • 433,000+ Enrollments Worldwide",
+            "job_title": "Spring Framework Guru - Best Selling Instructor"
+          },
+          {
+            "_class": "user",
+            "id": 192919664,
+            "title": "Spring Ahead Code Academy",
+            "name": "Spring Ahead Code",
+            "display_name": "Spring Ahead Code Academy",
+            "job_title": "Spring Ahead with Your Career"
+          }
+        ],
+        "published_title": "spring-framework-5-beginner-to-guru",
+        "tracking_id": "L4GssZszRxKQcKJH2-CNyw",
+        "completion_ratio": 0,
+        "last_accessed_time": null,
+        "enrollment_time": "2022-05-25T17:06:43Z",
+        "num_collections": 0
+      },
+      {
+        "_class": "course",
+        "id": 2609434,
+        "title": "Node.js API Masterclass With Express & MongoDB",
+        "url": "/course/nodejs-api-masterclass/learn/",
+        "visible_instructors": [
+          {
+            "_class": "user",
+            "id": 21681922,
+            "title": "Brad Traversy",
+            "name": "Brad",
+            "display_name": "Brad Traversy",
+            "job_title": "Full Stack Web Developer & Instructor at Traversy Media"
+          }
+        ],
+        "published_title": "nodejs-api-masterclass",
+        "tracking_id": "BNONgvglQWOe-bt0mrf_2w",
+        "completion_ratio": 0,
+        "last_accessed_time": null,
+        "enrollment_time": "2022-05-25T17:06:43Z",
+        "num_collections": 0
+      },
+      {
+        "_class": "course",
+        "id": 1313502,
+        "title": "Bootstrap 4 From Scratch With 5 Projects",
+        "url": "/course/bootstrap-4-from-scratch-with-5-projects/learn/",
+        "visible_instructors": [
+          {
+            "_class": "user",
+            "id": 21681922,
+            "title": "Brad Traversy",
+            "name": "Brad",
+            "display_name": "Brad Traversy",
+            "job_title": "Full Stack Web Developer & Instructor at Traversy Media"
+          }
+        ],
+        "published_title": "bootstrap-4-from-scratch-with-5-projects",
+        "tracking_id": "KL353pi_SHOc0cP1KLEiGg",
+        "completion_ratio": 0,
+        "last_accessed_time": null,
+        "enrollment_time": "2022-05-25T17:06:43Z",
+        "num_collections": 0
+      },
+      {
+        "_class": "course",
+        "id": 1672410,
+        "title": "Node.js, Express, MongoDB & More: The Complete Bootcamp 2023",
+        "url": "/course/nodejs-express-mongodb-bootcamp/learn/",
+        "visible_instructors": [
+          {
+            "_class": "user",
+            "id": 7799204,
+            "title": "Jonas Schmedtmann",
+            "name": "Jonas",
+            "display_name": "Jonas Schmedtmann",
+            "job_title": "Web Developer, Designer, and Teacher"
+          }
+        ],
+        "published_title": "nodejs-express-mongodb-bootcamp",
+        "tracking_id": "mQ0xK3qVTpCWXLC1FbXYyg",
+        "completion_ratio": 0,
+        "last_accessed_time": null,
+        "enrollment_time": "2022-08-31T14:44:51Z",
+        "num_collections": 0
+      },
+      {
+        "_class": "course",
+        "id": 1026604,
+        "title": "Advanced CSS and Sass: Flexbox, Grid, Animations and More!",
+        "url": "/course/advanced-css-and-sass/learn/",
+        "visible_instructors": [
+          {
+            "_class": "user",
+            "id": 7799204,
+            "title": "Jonas Schmedtmann",
+            "name": "Jonas",
+            "display_name": "Jonas Schmedtmann",
+            "job_title": "Web Developer, Designer, and Teacher"
+          }
+        ],
+        "published_title": "advanced-css-and-sass",
+        "tracking_id": "FhguDEXnSVSNGxCxFf3qMw",
+        "completion_ratio": 0,
+        "last_accessed_time": null,
+        "enrollment_time": "2022-08-31T14:44:51Z",
+        "num_collections": 0
+      },
+      {
+        "_class": "course",
+        "id": 2640372,
+        "title": "React, NodeJS, Express & MongoDB - The MERN Fullstack Guide",
+        "url": "/course/react-nodejs-express-mongodb-the-mern-fullstack-guide/learn/",
+        "visible_instructors": [
+          {
+            "_class": "user",
+            "id": 31926668,
+            "title": "Academind by Maximilian Schwarzmüller",
+            "name": "Academind by Maximilian",
+            "display_name": "Academind by Maximilian Schwarzmüller",
+            "job_title": "Online Education"
+          },
+          {
+            "_class": "user",
+            "id": 13952972,
+            "title": "Maximilian Schwarzmüller",
+            "name": "Maximilian",
+            "display_name": "Maximilian Schwarzmüller",
+            "job_title": "AWS certified, Professional Web Developer and Instructor"
+          },
+          {
+            "_class": "user",
+            "id": 30035496,
+            "title": "Manuel Lorenz",
+            "name": "Manuel",
+            "display_name": "Manuel Lorenz",
+            "job_title": "Professional Business Analyst and Instructor"
+          }
+        ],
+        "published_title": "react-nodejs-express-mongodb-the-mern-fullstack-guide",
+        "tracking_id": "RBz_tTh5QIacXkQ9dwoCOg",
+        "completion_ratio": 0,
+        "last_accessed_time": null,
+        "enrollment_time": "2022-08-31T14:44:51Z",
+        "num_collections": 0
+      },
+      {
+        "_class": "course",
+        "id": 3581421,
+        "title": "React [2021] - The Full Stack Serverless eCommerce Course",
+        "url": "/course/react-full-stack-serverless-ecommerce/learn/",
+        "visible_instructors": [
+          {
+            "_class": "user",
+            "id": 118946216,
+            "title": "Simple Coder",
+            "name": "Simple",
+            "display_name": "Simple Coder",
+            "job_title": "A Full-stack Developer (Web and Mobile)"
+          }
+        ],
+        "published_title": "react-full-stack-serverless-ecommerce",
+        "tracking_id": "sXMWRIm8QQiPy6KKJGJeGQ",
+        "completion_ratio": 0,
+        "last_accessed_time": null,
+        "enrollment_time": "2022-08-31T14:44:51Z",
+        "num_collections": 0
+      }
+    ]
+  }

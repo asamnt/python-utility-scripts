@@ -1,0 +1,287 @@
+{
+    "count": 206,
+    "next": "https://www.udemy.com/api-2.0/users/me/subscribed-courses/?fields%5Bcourse%5D=completion_ratio%2Cenrollment_time%2Clast_accessed_time%2Cnum_collections%2Cpublished_title%2Ctitle%2Ctracking_id%2Curl%2Cvisible_instructors&fields%5Buser%5D=%40min%2Cjob_title&is_archived=false&ordering=-last_accessed&page=15&page_size=12",
+    "previous": "https://www.udemy.com/api-2.0/users/me/subscribed-courses/?fields%5Bcourse%5D=completion_ratio%2Cenrollment_time%2Clast_accessed_time%2Cnum_collections%2Cpublished_title%2Ctitle%2Ctracking_id%2Curl%2Cvisible_instructors&fields%5Buser%5D=%40min%2Cjob_title&is_archived=false&ordering=-last_accessed&page=13&page_size=12",
+    "results": [
+      {
+        "_class": "course",
+        "id": 2394610,
+        "title": "Java Spring & Apache Kafka Bootcamp - Basic to Complete",
+        "url": "/course/apache-kafka-with-java-spring-boot-theory-hands-on-coding/learn/",
+        "visible_instructors": [
+          {
+            "_class": "user",
+            "id": 23883614,
+            "title": "Timotius Pamungkas",
+            "name": "Timotius",
+            "display_name": "Timotius Pamungkas",
+            "job_title": "Java Software Engineer, Architect"
+          }
+        ],
+        "published_title": "apache-kafka-with-java-spring-boot-theory-hands-on-coding",
+        "tracking_id": "TRSXJvAZRd-zs5yf28ohhg",
+        "completion_ratio": 0,
+        "last_accessed_time": null,
+        "enrollment_time": "2022-05-25T17:06:40Z",
+        "num_collections": 0
+      },
+      {
+        "_class": "course",
+        "id": 3430412,
+        "title": "GraphQL API with Java Spring Boot & Spring Framework",
+        "url": "/course/graphql-with-java-spring-boot-query-mutation-schema-resolver-edge-jpa/learn/",
+        "visible_instructors": [
+          {
+            "_class": "user",
+            "id": 4132674,
+            "title": "Infybuzz Learning",
+            "name": "Infybuzz",
+            "display_name": "Infybuzz Learning",
+            "job_title": "50,000+ students around world with reach to 156 Countries"
+          }
+        ],
+        "published_title": "graphql-with-java-spring-boot-query-mutation-schema-resolver-edge-jpa",
+        "tracking_id": "Kly8mkDoRZ6JtWgspevr2Q",
+        "completion_ratio": 0,
+        "last_accessed_time": null,
+        "enrollment_time": "2022-05-25T17:06:41Z",
+        "num_collections": 1
+      },
+      {
+        "_class": "course",
+        "id": 4676144,
+        "title": "Spring Boot + Apache Kafka Course - The Practical Guide",
+        "url": "/course/spring-boot-and-apache-kafka/learn/",
+        "visible_instructors": [
+          {
+            "_class": "user",
+            "id": 52467702,
+            "title": "Ramesh Fadatare (Java Guides)",
+            "name": "Ramesh",
+            "display_name": "Ramesh Fadatare (Java Guides)",
+            "job_title": "Software Engineer, Spring Certified, YouTuber and Instructor"
+          }
+        ],
+        "published_title": "spring-boot-and-apache-kafka",
+        "tracking_id": "efjx8w6iTieeEN3ceE3MBw",
+        "completion_ratio": 0,
+        "last_accessed_time": null,
+        "enrollment_time": "2022-05-25T17:06:41Z",
+        "num_collections": 0
+      },
+      {
+        "_class": "course",
+        "id": 3533422,
+        "title": "MERN eCommerce From Scratch",
+        "url": "/course/mern-ecommerce/learn/",
+        "visible_instructors": [
+          {
+            "_class": "user",
+            "id": 21681922,
+            "title": "Brad Traversy",
+            "name": "Brad",
+            "display_name": "Brad Traversy",
+            "job_title": "Full Stack Web Developer & Instructor at Traversy Media"
+          }
+        ],
+        "published_title": "mern-ecommerce",
+        "tracking_id": "jEqNGu1oSGGvyZP4XSohfg",
+        "completion_ratio": 0,
+        "last_accessed_time": null,
+        "enrollment_time": "2022-05-25T17:06:41Z",
+        "num_collections": 0
+      },
+      {
+        "_class": "course",
+        "id": 2153774,
+        "title": "Modern HTML & CSS From The Beginning (Including Sass)",
+        "url": "/course/modern-html-css-from-the-beginning/learn/",
+        "visible_instructors": [
+          {
+            "_class": "user",
+            "id": 21681922,
+            "title": "Brad Traversy",
+            "name": "Brad",
+            "display_name": "Brad Traversy",
+            "job_title": "Full Stack Web Developer & Instructor at Traversy Media"
+          }
+        ],
+        "published_title": "modern-html-css-from-the-beginning",
+        "tracking_id": "jtxKJP5AT4Wtws8FUed3sA",
+        "completion_ratio": 0,
+        "last_accessed_time": null,
+        "enrollment_time": "2022-05-25T17:06:41Z",
+        "num_collections": 0
+      },
+      {
+        "_class": "course",
+        "id": 1347504,
+        "title": "Reactive Programming with Spring Framework 5",
+        "url": "/course/reactive-programming-with-spring-framework-5/learn/",
+        "visible_instructors": [
+          {
+            "_class": "user",
+            "id": 14788334,
+            "title": "John Thompson • 433,000+ Enrollments Worldwide",
+            "name": "John",
+            "display_name": "John Thompson • 433,000+ Enrollments Worldwide",
+            "job_title": "Spring Framework Guru - Best Selling Instructor"
+          },
+          {
+            "_class": "user",
+            "id": 192919664,
+            "title": "Spring Ahead Code Academy",
+            "name": "Spring Ahead Code",
+            "display_name": "Spring Ahead Code Academy",
+            "job_title": "Spring Ahead with Your Career"
+          }
+        ],
+        "published_title": "reactive-programming-with-spring-framework-5",
+        "tracking_id": "mmy_q2bgT_OquWf9GdPdgw",
+        "completion_ratio": 0,
+        "last_accessed_time": null,
+        "enrollment_time": "2022-05-25T17:06:42Z",
+        "num_collections": 0
+      },
+      {
+        "_class": "course",
+        "id": 3792262,
+        "title": "The Git & Github Bootcamp",
+        "url": "/course/git-and-github-bootcamp/learn/",
+        "visible_instructors": [
+          {
+            "_class": "user",
+            "id": 4466306,
+            "title": "Colt Steele",
+            "name": "Colt",
+            "display_name": "Colt Steele",
+            "job_title": "Developer and Bootcamp Instructor"
+          }
+        ],
+        "published_title": "git-and-github-bootcamp",
+        "tracking_id": "Mdx-sK0jR6eK1NfP8M7_DQ",
+        "completion_ratio": 0,
+        "last_accessed_time": null,
+        "enrollment_time": "2022-05-25T17:06:42Z",
+        "num_collections": 0
+      },
+      {
+        "_class": "course",
+        "id": 625204,
+        "title": "The Web Developer Bootcamp 2022",
+        "url": "/course/the-web-developer-bootcamp/learn/",
+        "visible_instructors": [
+          {
+            "_class": "user",
+            "id": 4466306,
+            "title": "Colt Steele",
+            "name": "Colt",
+            "display_name": "Colt Steele",
+            "job_title": "Developer and Bootcamp Instructor"
+          }
+        ],
+        "published_title": "the-web-developer-bootcamp",
+        "tracking_id": "2OUDxw3vRq6uuZHAo-LFHg",
+        "completion_ratio": 0,
+        "last_accessed_time": null,
+        "enrollment_time": "2022-05-25T17:06:42Z",
+        "num_collections": 0
+      },
+      {
+        "_class": "course",
+        "id": 2604248,
+        "title": "Learn Java Functional Programming with Lambdas & Streams",
+        "url": "/course/functional-programming-with-java/learn/",
+        "visible_instructors": [
+          {
+            "_class": "user",
+            "id": 13363166,
+            "title": "in28Minutes Official",
+            "name": "in28Minutes",
+            "display_name": "in28Minutes Official",
+            "job_title": "DevOps, Azure, GCP, Docker, Kubernetes, Java & Spring Boot"
+          }
+        ],
+        "published_title": "functional-programming-with-java",
+        "tracking_id": "wOtzVEj4SKSVypgAvvyIcg",
+        "completion_ratio": 0,
+        "last_accessed_time": null,
+        "enrollment_time": "2022-05-25T17:06:42Z",
+        "num_collections": 0
+      },
+      {
+        "_class": "course",
+        "id": 1035518,
+        "title": "Concurrency, Multithreading and Parallel Computing in Java",
+        "url": "/course/multithreading-and-parallel-computing-in-java/learn/",
+        "visible_instructors": [
+          {
+            "_class": "user",
+            "id": 837576,
+            "title": "Holczer Balazs",
+            "name": "Holczer",
+            "display_name": "Holczer Balazs",
+            "job_title": "Software Engineer"
+          }
+        ],
+        "published_title": "multithreading-and-parallel-computing-in-java",
+        "tracking_id": "ChRxbyL5T5CjKhKMi-iUdQ",
+        "completion_ratio": 0,
+        "last_accessed_time": null,
+        "enrollment_time": "2022-05-25T17:06:42Z",
+        "num_collections": 0
+      },
+      {
+        "_class": "course",
+        "id": 957902,
+        "title": "Java Interview Guide : 200+ Interview Questions and Answers",
+        "url": "/course/java-interview-questions-and-answers/learn/",
+        "visible_instructors": [
+          {
+            "_class": "user",
+            "id": 13363166,
+            "title": "in28Minutes Official",
+            "name": "in28Minutes",
+            "display_name": "in28Minutes Official",
+            "job_title": "DevOps, Azure, GCP, Docker, Kubernetes, Java & Spring Boot"
+          }
+        ],
+        "published_title": "java-interview-questions-and-answers",
+        "tracking_id": "pdVzIlOjSIGEnB_bVPE2zQ",
+        "completion_ratio": 0,
+        "last_accessed_time": null,
+        "enrollment_time": "2022-05-25T17:06:42Z",
+        "num_collections": 0
+      },
+      {
+        "_class": "course",
+        "id": 2043700,
+        "title": "Apache Maven: Beginner to Guru",
+        "url": "/course/apache-maven-beginner-to-guru/learn/",
+        "visible_instructors": [
+          {
+            "_class": "user",
+            "id": 14788334,
+            "title": "John Thompson • 433,000+ Enrollments Worldwide",
+            "name": "John",
+            "display_name": "John Thompson • 433,000+ Enrollments Worldwide",
+            "job_title": "Spring Framework Guru - Best Selling Instructor"
+          },
+          {
+            "_class": "user",
+            "id": 192919664,
+            "title": "Spring Ahead Code Academy",
+            "name": "Spring Ahead Code",
+            "display_name": "Spring Ahead Code Academy",
+            "job_title": "Spring Ahead with Your Career"
+          }
+        ],
+        "published_title": "apache-maven-beginner-to-guru",
+        "tracking_id": "L5q-5VJFRMq_4eqtrS5OZw",
+        "completion_ratio": 0,
+        "last_accessed_time": null,
+        "enrollment_time": "2022-05-25T17:06:42Z",
+        "num_collections": 0
+      }
+    ]
+  }

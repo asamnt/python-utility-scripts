@@ -1,0 +1,295 @@
+{
+    "count": 206,
+    "next": "https://www.udemy.com/api-2.0/users/me/subscribed-courses/?fields%5Bcourse%5D=completion_ratio%2Cenrollment_time%2Clast_accessed_time%2Cnum_collections%2Cpublished_title%2Ctitle%2Ctracking_id%2Curl%2Cvisible_instructors&fields%5Buser%5D=%40min%2Cjob_title&is_archived=false&ordering=-last_accessed&page=2&page_size=12",
+    "previous": null,
+    "results": [
+      {
+        "_class": "course",
+        "id": 1720774,
+        "title": "Practical Test Driven Development for Java Programmers",
+        "url": "/course/practical-test-driven-development-for-java-programmers/learn/",
+        "visible_instructors": [
+          {
+            "_class": "user",
+            "id": 9244826,
+            "title": "Matt Greencroft",
+            "name": "Matt",
+            "display_name": "Matt Greencroft",
+            "job_title": "Course tutor at Virtual Pair Programmers"
+          },
+          {
+            "_class": "user",
+            "id": 49202064,
+            "title": "Virtual Pair Programmers",
+            "name": "Virtual Pair",
+            "display_name": "Virtual Pair Programmers",
+            "job_title": ""
+          }
+        ],
+        "published_title": "practical-test-driven-development-for-java-programmers",
+        "tracking_id": "xrbfx_C4R-q-aGQqiGz9Fw",
+        "completion_ratio": 100,
+        "last_accessed_time": "2022-11-08T04:00:50Z",
+        "enrollment_time": "2021-12-03T18:18:57Z",
+        "num_collections": 1
+      },
+      {
+        "_class": "course",
+        "id": 3716888,
+        "title": "Spring Boot E-Commerce Ultimate Course",
+        "url": "/course/spring-boot-e-commerce-ultimate/learn/",
+        "visible_instructors": [
+          {
+            "_class": "user",
+            "id": 10251902,
+            "title": "Nam Ha Minh",
+            "name": "Nam Ha",
+            "display_name": "Nam Ha Minh",
+            "job_title": "Passionate Java Programmer"
+          }
+        ],
+        "published_title": "spring-boot-e-commerce-ultimate",
+        "tracking_id": "dZWiOPvTQGO6znmH5jASVg",
+        "completion_ratio": 5,
+        "last_accessed_time": "2022-11-08T03:55:55Z",
+        "enrollment_time": "2021-12-03T13:01:17Z",
+        "num_collections": 1
+      },
+      {
+        "_class": "course",
+        "id": 2722880,
+        "title": "Fundamentals of Database Engineering",
+        "url": "/course/database-engines-crash-course/learn/",
+        "visible_instructors": [
+          {
+            "_class": "user",
+            "id": 58408772,
+            "title": "Hussein Nasser",
+            "name": "Hussein",
+            "display_name": "Hussein Nasser",
+            "job_title": "Software Engineer, Author"
+          }
+        ],
+        "published_title": "database-engines-crash-course",
+        "tracking_id": "b-RP6jwyQZChAatqc0Vx5w",
+        "completion_ratio": 0,
+        "last_accessed_time": "2022-11-05T14:24:05Z",
+        "enrollment_time": "2022-11-02T05:28:53Z",
+        "num_collections": 0
+      },
+      {
+        "_class": "course",
+        "id": 4457400,
+        "title": "Testing Spring Boot Application with JUnit and Mockito",
+        "url": "/course/testing-spring-boot-application-with-junit-and-mockito/learn/",
+        "visible_instructors": [
+          {
+            "_class": "user",
+            "id": 52467702,
+            "title": "Ramesh Fadatare (Java Guides)",
+            "name": "Ramesh",
+            "display_name": "Ramesh Fadatare (Java Guides)",
+            "job_title": "Software Engineer, Spring Certified, YouTuber and Instructor"
+          }
+        ],
+        "published_title": "testing-spring-boot-application-with-junit-and-mockito",
+        "tracking_id": "IP1ur3B4Q7K7DvEPLFkG4g",
+        "completion_ratio": 15,
+        "last_accessed_time": "2022-11-04T18:02:11Z",
+        "enrollment_time": "2022-05-25T17:06:41Z",
+        "num_collections": 0
+      },
+      {
+        "_class": "course",
+        "id": 3725240,
+        "title": "Low level system design - Interview preparation guide.",
+        "url": "/course/low-level-system-design-interview-preparation-guide/learn/",
+        "visible_instructors": [
+          {
+            "_class": "user",
+            "id": 84995674,
+            "title": "Prabhaker Annarapu",
+            "name": "Prabhaker",
+            "display_name": "Prabhaker Annarapu",
+            "job_title": "Senior Software engineer"
+          }
+        ],
+        "published_title": "low-level-system-design-interview-preparation-guide",
+        "tracking_id": "pYFuAjBaQzC87mOWNQ7d6g",
+        "completion_ratio": 50,
+        "last_accessed_time": "2022-11-04T09:09:19Z",
+        "enrollment_time": "2021-10-28T08:10:53Z",
+        "num_collections": 1
+      },
+      {
+        "_class": "course",
+        "id": 1635492,
+        "title": "Master Java Unit Testing with Spring Boot & Mockito",
+        "url": "/course/learn-unit-testing-with-spring-boot/learn/",
+        "visible_instructors": [
+          {
+            "_class": "user",
+            "id": 13363166,
+            "title": "in28Minutes Official",
+            "name": "in28Minutes",
+            "display_name": "in28Minutes Official",
+            "job_title": "DevOps, Azure, GCP, Docker, Kubernetes, Java & Spring Boot"
+          }
+        ],
+        "published_title": "learn-unit-testing-with-spring-boot",
+        "tracking_id": "0lJa3y7uRR2WrTibrHDwkA",
+        "completion_ratio": 35,
+        "last_accessed_time": "2022-10-31T09:54:19Z",
+        "enrollment_time": "2021-12-01T09:36:06Z",
+        "num_collections": 1
+      },
+      {
+        "_class": "course",
+        "id": 3234659,
+        "title": "Create a Twitter Clone with Node.js, Socket.IO and MongoDB",
+        "url": "/course/create-a-twitter-clone-with-nodejs-socketio-and-mongodb/learn/",
+        "visible_instructors": [
+          {
+            "_class": "user",
+            "id": 10842288,
+            "title": "Reece Kenney",
+            "name": "Reece",
+            "display_name": "Reece Kenney",
+            "job_title": "Software Engineer at Microsoft"
+          }
+        ],
+        "published_title": "create-a-twitter-clone-with-nodejs-socketio-and-mongodb",
+        "tracking_id": "gJ_gLcMzQaGXMjRX9hwnRA",
+        "completion_ratio": 0,
+        "last_accessed_time": "2022-10-29T14:48:18Z",
+        "enrollment_time": "2022-08-31T14:44:53Z",
+        "num_collections": 0
+      },
+      {
+        "_class": "course",
+        "id": 2746796,
+        "title": "Fullstack Project With Spring Boot Java And React Hooks- TDD",
+        "url": "/course/full-stack-project-using-spring-boot-and-react-with-tdd/learn/",
+        "visible_instructors": [
+          {
+            "_class": "user",
+            "id": 21203044,
+            "title": "Vikas kumar",
+            "name": "Vikas",
+            "display_name": "Vikas kumar",
+            "job_title": "A Full-stack Developer & Teacher"
+          }
+        ],
+        "published_title": "full-stack-project-using-spring-boot-and-react-with-tdd",
+        "tracking_id": "3-2ZXtXDRGqI_UTd1coUPA",
+        "completion_ratio": 0,
+        "last_accessed_time": "2022-10-29T14:45:34Z",
+        "enrollment_time": "2022-08-31T14:44:53Z",
+        "num_collections": 1
+      },
+      {
+        "_class": "course",
+        "id": 4038928,
+        "title": "GET AHEAD- Full stack MERN Web App From Code to Cloud",
+        "url": "/course/architecting-for-the-modern-web-from-code-to-cloud/learn/",
+        "visible_instructors": [
+          {
+            "_class": "user",
+            "id": 159331922,
+            "title": "Mahantesh Prasad Katti",
+            "name": "Mahantesh Prasad",
+            "display_name": "Mahantesh Prasad Katti",
+            "job_title": "Architecting for the Modern Web."
+          }
+        ],
+        "published_title": "architecting-for-the-modern-web-from-code-to-cloud",
+        "tracking_id": "tw12R_5sQyupiFXCeQ3Ukw",
+        "completion_ratio": 0,
+        "last_accessed_time": "2022-10-29T14:45:12Z",
+        "enrollment_time": "2022-08-31T14:44:51Z",
+        "num_collections": 0
+      },
+      {
+        "_class": "course",
+        "id": 4496984,
+        "title": "MERN Stack Real Time Chat App With Express, React, MongoDB",
+        "url": "/course/mern-stack-real-time-chat-app-with-express-react-mongodb/learn/",
+        "visible_instructors": [
+          {
+            "_class": "user",
+            "id": 15663854,
+            "title": "Kazi Ariyan",
+            "name": "Kazi",
+            "display_name": "Kazi Ariyan",
+            "job_title": "Web Developer, Entrepreneur, Online Instructor"
+          },
+          {
+            "_class": "user",
+            "id": 75611664,
+            "title": "easy Learning",
+            "name": "easy",
+            "display_name": "easy Learning",
+            "job_title": "Learn Professionally"
+          }
+        ],
+        "published_title": "mern-stack-real-time-chat-app-with-express-react-mongodb",
+        "tracking_id": "Fr9VzPqnRt60YH6ot86dOQ",
+        "completion_ratio": 0,
+        "last_accessed_time": "2022-10-29T12:51:24Z",
+        "enrollment_time": "2022-08-31T14:44:53Z",
+        "num_collections": 0
+      },
+      {
+        "_class": "course",
+        "id": 1882842,
+        "title": "Practical Java : Spring Boot REST API with Elasticsearch",
+        "url": "/course/practical-java-spring-boot-rest-api-with-elasticsearch/learn/",
+        "visible_instructors": [
+          {
+            "_class": "user",
+            "id": 23883614,
+            "title": "Timotius Pamungkas",
+            "name": "Timotius",
+            "display_name": "Timotius Pamungkas",
+            "job_title": "Java Software Engineer, Architect"
+          }
+        ],
+        "published_title": "practical-java-spring-boot-rest-api-with-elasticsearch",
+        "tracking_id": "5jwKamHYQK2uhNQpeHTnkQ",
+        "completion_ratio": 0,
+        "last_accessed_time": "2022-10-29T12:47:02Z",
+        "enrollment_time": "2022-05-25T17:06:41Z",
+        "num_collections": 1
+      },
+      {
+        "_class": "course",
+        "id": 3167666,
+        "title": "TDD in 3 Hours : Test Driven Development Complete Guide",
+        "url": "/course/tdd-practices/learn/",
+        "visible_instructors": [
+          {
+            "_class": "user",
+            "id": 15226436,
+            "title": "Abhinav Manchanda",
+            "name": "Abhinav",
+            "display_name": "Abhinav Manchanda",
+            "job_title": "Trainer, Instructor"
+          },
+          {
+            "_class": "user",
+            "id": 56240730,
+            "title": "Omkar Birade",
+            "name": "Omkar",
+            "display_name": "Omkar Birade",
+            "job_title": "Co-Founder at Interleap"
+          }
+        ],
+        "published_title": "tdd-practices",
+        "tracking_id": "0ShGUfUPQmaeLasXU_AtVg",
+        "completion_ratio": 100,
+        "last_accessed_time": "2022-10-29T12:04:09Z",
+        "enrollment_time": "2021-12-01T09:36:06Z",
+        "num_collections": 1
+      }
+    ]
+  }

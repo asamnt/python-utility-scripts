@@ -1,0 +1,51 @@
+{
+    "count": 206,
+    "next": null,
+    "previous": "https://www.udemy.com/api-2.0/users/me/subscribed-courses/?fields%5Bcourse%5D=completion_ratio%2Cenrollment_time%2Clast_accessed_time%2Cnum_collections%2Cpublished_title%2Ctitle%2Ctracking_id%2Curl%2Cvisible_instructors&fields%5Buser%5D=%40min%2Cjob_title&is_archived=false&ordering=-last_accessed&page=17&page_size=12",
+    "results": [
+      {
+        "_class": "course",
+        "id": 4574556,
+        "title": "Fundamentals of Networking for Effective Backend Design",
+        "url": "/course/fundamentals-of-networking-for-effective-backend-design/learn/",
+        "visible_instructors": [
+          {
+            "_class": "user",
+            "id": 58408772,
+            "title": "Hussein Nasser",
+            "name": "Hussein",
+            "display_name": "Hussein Nasser",
+            "job_title": "Software Engineer, Author"
+          }
+        ],
+        "published_title": "fundamentals-of-networking-for-effective-backend-design",
+        "tracking_id": "Q8ATbwgMTqWrI_Ky7ivOmw",
+        "completion_ratio": 0,
+        "last_accessed_time": null,
+        "enrollment_time": "2022-11-02T05:29:54Z",
+        "num_collections": 0
+      },
+      {
+        "_class": "course",
+        "id": 4953660,
+        "title": "Fundamentals of Backend Communications and Protocols",
+        "url": "/course/fundamentals-of-backend-communications-and-protocols/learn/",
+        "visible_instructors": [
+          {
+            "_class": "user",
+            "id": 58408772,
+            "title": "Hussein Nasser",
+            "name": "Hussein",
+            "display_name": "Hussein Nasser",
+            "job_title": "Software Engineer, Author"
+          }
+        ],
+        "published_title": "fundamentals-of-backend-communications-and-protocols",
+        "tracking_id": "bC3USJ-NRCuCh0O6v_ESWA",
+        "completion_ratio": 0,
+        "last_accessed_time": null,
+        "enrollment_time": "2022-11-04T18:00:21Z",
+        "num_collections": 0
+      }
+    ]
+  }

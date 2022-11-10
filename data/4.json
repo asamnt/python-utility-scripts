@@ -1,0 +1,323 @@
+{
+    "count": 206,
+    "next": "https://www.udemy.com/api-2.0/users/me/subscribed-courses/?fields%5Bcourse%5D=completion_ratio%2Cenrollment_time%2Clast_accessed_time%2Cnum_collections%2Cpublished_title%2Ctitle%2Ctracking_id%2Curl%2Cdescription%2Cvisible_instructors&fields%5Buser%5D=%40min%2Cjob_title&is_archived=false&ordering=-last_accessed&page=5&page_size=12",
+    "previous": "https://www.udemy.com/api-2.0/users/me/subscribed-courses/?fields%5Bcourse%5D=completion_ratio%2Cenrollment_time%2Clast_accessed_time%2Cnum_collections%2Cpublished_title%2Ctitle%2Ctracking_id%2Curl%2Cdescription%2Cvisible_instructors&fields%5Buser%5D=%40min%2Cjob_title&is_archived=false&ordering=-last_accessed&page=3&page_size=12",
+    "results": [
+      {
+        "_class": "course",
+        "id": 1935322,
+        "title": "Testing Spring Boot: Beginner to Guru",
+        "url": "/course/testing-spring-boot-beginner-to-guru/learn/",
+        "visible_instructors": [
+          {
+            "_class": "user",
+            "id": 14788334,
+            "title": "John Thompson • 433,000+ Enrollments Worldwide",
+            "name": "John",
+            "display_name": "John Thompson • 433,000+ Enrollments Worldwide",
+            "job_title": "Spring Framework Guru - Best Selling Instructor"
+          },
+          {
+            "_class": "user",
+            "id": 192919664,
+            "title": "Spring Ahead Code Academy",
+            "name": "Spring Ahead Code",
+            "display_name": "Spring Ahead Code Academy",
+            "job_title": "Spring Ahead with Your Career"
+          }
+        ],
+        "published_title": "testing-spring-boot-beginner-to-guru",
+        "tracking_id": "6NUCmBcOQn-7L5EupcaxYg",
+        "description": "<p>In modern software development having proper automated test coverage is considered a best practice. In this course you will learn how to test Java and Spring Boot applications using highly popular open source tools. </p><p>You will see in the first section of this course, the software testing ecosystem is very diverse. JUnit and Mockito are two of the leading testing libraries for Java. JUnit provides the test execution context, while Mockito give you power mocking capabilities. Together these libraries can be used to write unit tests, integration tests, and functional tests. You will also learn why having proper test coverage is critical to supporting other popular agile practices such as Continuous Integration and Continuous Deployment (aka CI/CD).</p><p>Agile teams all over the world consider Test Driven Development (TDD) a critical technique for producing quality software. This course begins by using JUnit 5 to demonstrate how to use TDD&nbsp;to create a simple Java application, then again using TDD&nbsp;to evolve the application to a higher level of quality and functionality. </p><p>Next, the course takes you into a deep dive of the features and functionality of JUnit 5. You will learn how to write JUnit 5 unit tests for a Java web application. </p><p>The primary focus of this course is on the JUnit 5 release. There are some very notable differences between JUnit 4 and JUnit 5. This course contains a dedicated section showing you how to migrate your JUnit 4 tests to JUnit 5.</p><p>As your testing needs become more complex, you will need to mock dependent objects. </p><p>Not sure what a mock is? It's effectively a test double. An object created for unit testing.</p><p>Mockito is the most popular mocking library used by Java developers. </p><p>If you are writing Spring Framework applications, you're likely to be injecting dependent objects into your classes. You will learn how to use the robust mocking capabilities of Mockito to mock dependent objects in your unit tests.</p><p>The first 11 sections of the course focus heavily on unit testing with JUnit 5 and Mockito. This is to help you establish a strong unit testing foundation before we start testing Spring Boot applications. </p><p>You will have no doubts when it comes to testing Java classes using JUnit 5 and Mockito.</p><p>The Spring Framework itself has some very robust testing capabilities. </p><p>We start learning to test the Spring Framework by adding the Spring Framework Testing context to our tests. </p><p>This allows us to leverage the Spring Framework's Dependency Injection capabilities right in our tests.</p><p>Properly testing Spring MVC&nbsp;controllers can always be a little tricky. You need to test all the things you are expecting the Spring Framework to handle for you around calls to your controllers.</p><p>This is where Spring MVC&nbsp;Test steps in. You will see how you can use Spring MVC&nbsp;Test with JUnit 5 and Mockito to properly test your Spring MVC&nbsp;Controllers. </p><p>The course continues showing you how to use Spring Boot test splices to bring up a minimal Spring Boot configuration for the testing of a Spring MVC&nbsp;RESTful controller.</p><p>Another powerful Spring project is Spring MVC REST Docs. This is a project which allows you to generate API&nbsp;documentation from your Spring Mock MVC&nbsp;tests.</p><p><em>Inside this course you will learn</em>:</p><ul><li><p>JUnit 5</p></li><li><p>AssertJ</p></li><li><p>Hamcrest Matchers</p></li><li><p>Mockito 2</p></li><li><p>Test Driven Development (TDD)</p></li><li><p>Behavior Driven Development (BDD) with Mockito</p></li><li><p>Migrating to JUnit 5 from JUnit 4</p></li><li><p>Running JUnit 5 tests from Maven</p></li><li><p>Running JUnit 5 tests from Gradle </p></li><li><p>Use CircleCI with Maven for Continuous Integration Testing</p></li><li><p>Spring MVC&nbsp;Test</p></li><li><p>JsonPath</p></li><li><p>Wiremock</p></li><li><p>Spring MVC REST Docs</p></li></ul><p><strong>Course Extra - IntelliJ IDEA Ultimate</strong></p><p>Students enrolling in the course can receive a <strong>free 120 day trial license</strong> to IntelliJ&nbsp;IDEA&nbsp;Ultimate! Get hands on experience using&nbsp;the Java IDE&nbsp;preferred by Spring Framework professionals!&nbsp;</p><p><strong>Course Extra - Access to a Private Slack Community</strong></p><p>You're not just enrolling in a course --&gt; <em>You are joining a community learning about testing Spring.</em></p><p>With your enrollment to the course, you can access an exclusive Slack community. Get help from the instructor and other Spring Framework Gurus from around the world - in real time! <em>This community is only available to students enrolled in this course.&nbsp;</em></p><p>This is a very&nbsp;<strong>active</strong> Slack community <em>with over </em><strong><em>1,000</em></strong><em> Spring Framework Gurus!</em></p><p>This is <em>the largest online community</em> of people learning Spring in the world.</p><p>With your enrollment, you can join this <strong>community</strong> of awesome gurus!</p><p><strong>Source Code Access</strong></p><p>All course source code is available in GitHub. When you enroll, refer to the lesson resources for links to GitHub.</p><p><strong>Closed Captioning / Subtitles</strong></p><p>Closed captioning in English&nbsp;is available for all course videos!</p><p><strong>PDF&nbsp;Downloads</strong></p><p>All keynote presentations are available for you to download as PDFs.</p><p><strong>Lifetime Access</strong></p><p>When you purchase this course, you will receive lifetime access! You can login anytime from anywhere to access the course content.</p><p><strong>No Risk - Money Back Guarantee&nbsp;</strong></p><p>You can buy this course with no risk. If you are unhappy with the course, for any reason, you can get a complete refund. The course has a <em>30 day Money Back Guarantee</em>.<br><br>Enroll today and start learning about the latest tools and best practices for testing your Spring Boot applications!&nbsp; </p>",
+        "completion_ratio": 1,
+        "last_accessed_time": "2022-07-13T10:50:31Z",
+        "enrollment_time": "2022-05-25T17:06:42Z",
+        "num_collections": 0
+      },
+      {
+        "_class": "course",
+        "id": 3768806,
+        "title": "Software Architecture & Technology of Large-Scale Systems",
+        "url": "/course/developer-to-architect/learn/",
+        "visible_instructors": [
+          {
+            "_class": "user",
+            "id": 147440380,
+            "title": "NewTechWays - Anurag Yadav",
+            "name": "NewTechWays",
+            "display_name": "NewTechWays - Anurag Yadav",
+            "job_title": "Making knowledge available for everyone"
+          }
+        ],
+        "published_title": "developer-to-architect",
+        "tracking_id": "nyqVXsASTo6OH79obIB3zg",
+        "description": "<p>Architecting software systems is a skill that is in huge demand, but it is not a readily available skill. To understand why this skill is rare to find, let's go through a few lines from Martin Fowler's blog on architecture.</p><p>He says: <strong>Architecture is about the important stuff. Whatever that is</strong>. It means that the heart of thinking architecturally about software is to decide what is important, (i.e. what is architectural), and then expend energy on keeping those architectural elements in good condition. <strong>For a developer to become an architect, they need to be able to recognize what elements are important, recognizing what elements are likely to result in serious problems should they not be controlled.</strong></p><p>It takes a number of years for a developer to learn enough to become an architect. This learning largely depends on the kind of opportunities that you get in your career. Often these opportunities are limited to specific areas of work only.&nbsp; However, to be an architect, you must possess extensive technical knowledge of as many areas as possible. You must understand all the complexities and challenges in different parts of a system. You need the ability to make upfront decisions by understanding various trade-offs. You should be able to foresee or anticipate critical problems that a system can face during its evolution.</p><p>This is where the 'Developer To Architect' course can be very useful for you. It assumes that you already have great development skills, and it builds from there. It extensively covers architecting non-functional properties of a system, handling of large-scale deployments, and internal working of popular open-source products for building software solutions. </p><p>To give you some details of what is specifically covered:</p><ul><li><p>Architecting non-functional properties like Performance, Scalability, Reliability, Security.&nbsp; </p></li><li><p>Large-scale deployment and operations using Docker containers and Kubernetes.</p></li><li><p>Internal working of popular open-source products like Node.js, Redis, Kafka, Cassandra, ELK stack, Hadoop, etc for confidently architecting software solutions. </p></li></ul><p>In short, this course will help you learn everything you need to become a 'true' architect in a very short period of time.</p>",
+        "completion_ratio": 5,
+        "last_accessed_time": "2022-07-12T12:02:52Z",
+        "enrollment_time": "2021-09-17T04:18:15Z",
+        "num_collections": 0
+      },
+      {
+        "_class": "course",
+        "id": 3848212,
+        "title": "Serverless using AWS Lambda for Python Developers",
+        "url": "/course/serverless-using-aws-lambda-for-python-developers/learn/",
+        "visible_instructors": [
+          {
+            "_class": "user",
+            "id": 8735380,
+            "title": "Bharath Thippireddy",
+            "name": "Bharath",
+            "display_name": "Bharath Thippireddy",
+            "job_title": "IT Architect and Best Selling Instructor- 500000+ students"
+          }
+        ],
+        "published_title": "serverless-using-aws-lambda-for-python-developers",
+        "tracking_id": "JYamheBgR-uZfoLybBPliA",
+        "description": "<p>Are you a Python developer&nbsp;interested in learning Serverless Programming in detail then this course is for you .Are you an experienced Python developer who wants to master the fundamentals of AWS&nbsp;Lambda Functions and use them to create Serverless projects then this course is for you as well. </p><p>AWS Lambdas combine Nano Services and Function as a service (FaaS) to deliver Serverless programming model while using various other managed components in AWS. <strong>Look at any project that is on AWS it will be using AWS Lambda functions. This course is designed for developers with some knowledge of AWS and Python Development.</strong></p><p><strong>You will start this course by:</strong></p><ul><li><p>Master the fundamentals of Serverless Programming and AWS&nbsp;Lamdba</p></li><li><p>Create Lambda Function using the AWS console </p></li><li><p>Install the tools required to create and deploy Serverless Projects from your command line</p></li><li><p>Learn the method signature and the data that can be passed to and returned from a Lambda Function</p></li><li><p>Learn the YAML&nbsp;Syntax required to create SAM&nbsp;template files</p></li><li><p>Create Projects using SAM&nbsp;CLI</p></li><li><p>Understand the structure of a Serverless Project</p></li><li><p>Build and deploy Function as Code(FAAS)</p></li><li><p>Test the Functions remotely on the cloud and locally</p></li><li><p>Access the lambda environment information</p></li><li><p>Create and cleanup the entire infrastructure required for your project with a single command</p></li><li><p>Create Serverless APIs using API Gateway , AWS&nbsp;Lambda functions and DynamoDB</p></li><li><p>Learn how to use AWS&nbsp;APIs and SDKs to programatically work with various components</p></li><li><p>Work on a ASync usecase using S3 and SNS&nbsp;as triggers</p></li><li><p>Configure Logging using Log4j</p></li><li><p>Handle Errors gracefully to configure Dead Letter Queues</p></li><li><p>Learn what Cold Starts are </p></li><li><p>Scaling Lambda Functions</p></li><li><p>and more in easy steps</p></li></ul>",
+        "completion_ratio": 0,
+        "last_accessed_time": "2022-06-28T18:07:09Z",
+        "enrollment_time": "2022-03-09T18:01:00Z",
+        "num_collections": 1
+      },
+      {
+        "_class": "course",
+        "id": 1453872,
+        "title": "Java 8 New Features In Simple Way",
+        "url": "/course/java-8-new-features-in-simple-way/learn/",
+        "visible_instructors": [
+          {
+            "_class": "user",
+            "id": 40194854,
+            "title": "DURGASOFT DURGA",
+            "name": "DURGASOFT",
+            "display_name": "DURGASOFT DURGA",
+            "job_title": "Trainer at DURGASOFT"
+          }
+        ],
+        "published_title": "java-8-new-features-in-simple-way",
+        "tracking_id": "KxQAOkObRIKlrM9CSCditg",
+        "description": "<p>Java 8 is one of the major and more prestigious version from Java. In this video tutorials we covered every topic  in detail on the board and on the system with live execution. Definitely you can feel like you are learning in class room directly from the instructor. As the part of this course we are covering     the following 11 topics.</p>\n\n<p>1. Lambda Expressions<br>2. Functional Interfaces<br>3. Default methods in Interface<br>4. Static Methods in Interfaces.<br>5. Predicate<br>6. Function<br>7. Consumer<br>8. Supplier<br>9. Method Reference &amp; Constructor Reference by Double Colon(::) Operator.<br>10. Stream API<br>11. Date &amp; Time API ( Joda API) </p>\n\n\n\n\n\n<p>After completing this video course, we are sure, you will be in a position to give left and right anywhere about these new features.</p>",
+        "completion_ratio": 2,
+        "last_accessed_time": "2022-06-12T19:19:09Z",
+        "enrollment_time": "2022-06-12T19:10:43Z",
+        "num_collections": 0
+      },
+      {
+        "_class": "course",
+        "id": 552508,
+        "title": "Introduction to Collections, Generics & Reflection in Java",
+        "url": "/course/introduction-to-generics-in-java/learn/",
+        "visible_instructors": [
+          {
+            "_class": "user",
+            "id": 837576,
+            "title": "Holczer Balazs",
+            "name": "Holczer",
+            "display_name": "Holczer Balazs",
+            "job_title": "Software Engineer"
+          }
+        ],
+        "published_title": "introduction-to-generics-in-java",
+        "tracking_id": "kvtsfjR8SxSMAXj2ynoAFw",
+        "description": "<p>Learn the basic concepts and functions&nbsp; that you will need to build fully functional programs with the popular programming language, Java.</p><p>This course is about generics in the main. You will lern the basics of generic types, generic methods, type parameters and the theoretical background concerning these topics. This is a fundamental part of Java so it is definitly worth learning.</p><p><strong>Section 1 - Generic and Generic Programming</strong></p><ul><li><p>why to use generics and generic programming</p></li></ul><p><strong>Section 2 - Basic Generics</strong></p><ul><li><p>generic types</p></li><li><p>generic methods</p></li><li><p>fundamentals of generics and generic programming</p></li></ul><p><strong>Section 3 - Bounded Type Parameters</strong></p><ul><li><p>bounded type parameters</p></li></ul><p><strong>Section 4 - Type Inference</strong></p><ul><li><p>what is type inference</p></li></ul><p><strong>Section 5 - Wildcards</strong></p><ul><li><p>what are wildcards?</p></li><li><p>lower bounded wildcards</p></li><li><p>upper bounded wildcards</p></li><li><p>wildcards and bounded type parameters</p></li></ul><p><strong>Section 6 - Type Erasure</strong></p><ul><li><p>what is type erasure?</p></li><li><p>bridge methods and type erasure</p></li></ul><p><strong>Section 7 - Collections Framework</strong></p><ul><li><p>the collections framework</p></li><li><p>measuring the running time of algorithms</p></li><li><p>what are data structures?</p></li></ul><p><strong>Section 8 - Lists</strong></p><ul><li><p>ArrayList and LinkedList</p></li><li><p>performance comparison of LinkedLists and ArrayLists</p></li><li><p>Vectors</p></li><li><p>Stacks</p></li></ul><p><strong>Section 9 - Queues</strong></p><ul><li><p>what are queues?</p></li><li><p>PriorityQueues</p></li><li><p>ArrayDeques</p></li></ul><p><strong>Section 10 - Maps</strong></p><ul><li><p>hashing based data structures and hash-functions</p></li><li><p>HashMaps and LinkedHashMaps</p></li><li><p>balanced binary search trees and red-black trees</p></li><li><p>TreeMaps</p></li></ul><p><strong>Section 11 - Sets</strong></p><ul><li><p>what are sets?</p></li><li><p>HashSets, LinkedHashSets and TreeSets</p></li></ul><p><strong>Section 12 - Sorting Collections</strong></p><ul><li><p>sorting arrays and collections</p></li><li><p>Comparable and Comparator interfaces</p></li><li><p>sorting with lambda expressions</p></li></ul><p><strong>Section 13 - Stream API</strong></p><ul><li><p>streams</p></li><li><p>sequential streams and parallel streams</p></li><li><p>map() and flatMap()</p></li><li><p>reduce()</p></li></ul><p><strong>Section 13 - Reflection</strong></p><ul><li><p>what is reflection?</p></li><li><p>annotations and reflection</p></li><li><p>reflection and frameworks (such as Spring)</p></li></ul><p>Learning the fundamentals of Java is a good choice and puts a powerful and tool at your fingertips. Java is easy to learn as well as it has excellent documentation, and is the base for all object-oriented programming languages.</p><p>Jobs in Java development are plentiful, and being able to learn Java will give you a strong background to pick up other object-oriented languages such as C++, or C# more easily.</p>",
+        "completion_ratio": 2,
+        "last_accessed_time": "2022-06-12T13:51:43Z",
+        "enrollment_time": "2022-05-25T17:06:41Z",
+        "num_collections": 0
+      },
+      {
+        "_class": "course",
+        "id": 3599404,
+        "title": "Event-Driven Microservices: Spring Boot, Kafka and Elastic",
+        "url": "/course/event-driven-microservices-spring-boot-kafka-and-elasticsearch/learn/",
+        "visible_instructors": [
+          {
+            "_class": "user",
+            "id": 24547072,
+            "title": "Ali Gelenler",
+            "name": "Ali",
+            "display_name": "Ali Gelenler",
+            "job_title": "Senior Software Engineer"
+          },
+          {
+            "_class": "user",
+            "id": 200507124,
+            "title": "EA Algorithm",
+            "name": "EA",
+            "display_name": "EA Algorithm",
+            "job_title": "IT Training and Consulting"
+          }
+        ],
+        "published_title": "event-driven-microservices-spring-boot-kafka-and-elasticsearch",
+        "tracking_id": "XQBX4HE0TVaW-ZtgoiZgTQ",
+        "description": "<p>Hi there! My name is Ali&nbsp;Gelenler. I'm here to help you learn event-driven microservices architecture by applying best practices for real-life challenges.</p><p>In this course, you will focus on the development of microservices. With the help of microservices you can independently develop and deploy your application components . You can also easily scale services according to each service's own resource needs, for example you can scale better and create more instances of a service that requires more requests.</p><p>You can always use the latest versions for spring boot, spring cloud and other dependencies in this course. Please just follow the last section's lectures to see the required code and configuration changes for updated versions. Also if you would like to use subtitles during the course, you can turn on the captions on videos as all lectures are updated with hand-written subtitles. I suggest using subtitles to make it easier to follow the lectures.</p><p>When moving from a monolith application to microservices architecture, some challenges will arise as a result of having a distributed application and system. In this course you will learn how to deal with these challenges using event-driven architecture (EDA) architecture with Apache Kafka. </p><p>With an event-driven architecture;</p><ul><li><p> You will truly decouple the services and create resilient services because a service has no direct communication with other services</p></li><li><p> You will use asynchronous/non-blocking communication between services</p></li><li><p> You will use an event/state store&nbsp;(Kafka), and remove the state from the services for better scalability</p><p><br></p></li><li><p><strong><em>Tanima: </em></strong><em>\"This is one of the best course i ever had in udemy, instructor is super responsive and always deals with complex problem during the course, Thank you so much Professor i will always be grateful to you for this course, and will keep eye on your next course release.\"</em></p></li></ul><p>You will develop a microservice architecture from scratch using the most recent software platforms, technologies, libraries and tools, following best practices, applying microservices patterns and using Java, Spring boot, Spring cloud, Spring Security, Kafka and Elasticsearch. We will also cover Event sourcing and Event-driven services using Kafka as the event store.</p><p>The microservices patterns that you will be implementing are:</p><ul><li><p>Externalized configuration with Spring Cloud Config</p></li><li><p>CQRS with Kafka and Elastic search</p></li><li><p>Api versioning for versioning of Rest APIs</p></li><li><p>Service Registration and Discovery with Spring Cloud and Netflix Eureka</p></li><li><p>Api Gateway with Spring Cloud Gateway</p></li><li><p>Circuit breaker with Spring Cloud Gateway and Resilience4j</p></li><li><p>Rate limiting with Spring Cloud Gateway and Redis to use Redis as the Rate limiter</p></li><li><p>Distributed tracing with SLF4J MDC, Spring Cloud Sleuth and Zipkin</p></li><li><p>Log aggregation with ELK stack (Elasticsearch, Logstash and Kibana)</p></li><li><p>Client side load balancing with Spring Cloud Load Balancer</p></li><li><p>Database per Service</p></li><li><p>Messaging between microservices using Kafka</p></li></ul><p>You will also implement Spring Security Oauth 2.0 and OpenID connect protocols for Authentication and Authorization using Keycloak and JWT. The use of Oauth for authorization of services and OpenID&nbsp;connect for authentication is widely used in microservices archictecture with Spring boot security.</p><ul><li><p><strong><em>Oliver Michels:</em></strong><em> \"Amazing course that covers a lot of ground, i.e. Spring Boot, Kafka, Elastic, OAuth/Keycloak, etc. and shows how all those pieces fit together in a nice microservice architecture.\"</em></p></li></ul><p>Another important topic that you will focus on is the monitoring of microservices. You will use Spring boot actuator and Prometheus with Micrometer which can be used to get metrics such as health, number of running threads, number of requests, response time and memory usage. You will also learn to use Grafana to create a nice dashboard to visualize the metrics that you obtained using Spring boot actuator and Prometheus.</p><p>While introducing event-driven microservices, you will understand the basics of Apache Kafka by covering Kafka topics, Kafka partitions, Kafka consumer and producer APIs, Kafka admin client and Avro messaging. </p><ul><li><p><strong><em>Emre Demir: </em></strong><em>\"This is not only a software tutorial. It is an advanced computer engineering course. The examples and descriptions are excellent. Full-stack and Back-end developers must take.\"</em></p></li></ul><p>To communicate between microservices, apart from using Kafka messaging, I will also introduce Kafka Streams and show how to use Kafka Streams to create a temporary state store with the accumulated streaming data. This temporary data source will then be consumed by another microservice.</p><p>To communicate with the data stores in microservices I will use different Spring Data dependencies, such as Spring Data JPA with PostgreSQL, Spring Data Elasticsearch and Spring Kafka.</p><p>For the Api documentation, I will use Open Api 3 specification which implements Swagger 3.0. Open Api will create a RESTful interface for an API and help you to easily develop and consume a Rest API.</p><p>You will also learn how to use Hateoas (Hypermedia as the Engine of Application State) in a Rest Api with Spring Hateoas. Hateoas will provide&nbsp; links to resources on the server, and update the REST&nbsp;API response with these links to interact with the client dynamically. This will enable developing level 3 Rest APIs.</p><ul><li><p><strong><em>Sidhartha Mallik: </em></strong>\"This course is to the point - and great one for every level, strongly recommend\"</p></li></ul><p>There is also a reactive development section in this course which demonstrates querying elasticsearch reactively with Reactive Spring, WebFlux, WebClient and Reactive Thymeleaf. In this section you will learn how to use Spring Webflux and Spring reactive components to create an asynchronous flow between microservices.</p><p>You will use Spring boot and Spring cloud along with Docker for developing cloud ready microservices. Docker is a containerization platform and it enables to package applications into containers. These containers can later run in any environment that docker is running. In this course you will create the docker images of the microservices that you have developed. Then use docker compose to run all the containers of microservices together, along with the other dependencies such as Kafka, Elasticsearch, Keycloak, Redis, Prometheus, Grafana and Zipkin . In the end a single 'docker-compose up' command will be enough to run all microservices architecture together with the required dependencies. Having these docker images will enable you to deploy your application to any cloud vendor easily.</p><ul><li><p><strong><em>Mohammed O. Tillawy: </em></strong><em>\"</em>amazing course, but prepare yourself, very intense, and tons of info, needs focus and patience.<em>\"</em>&nbsp; </p></li></ul><p>You will be following a hands-on approach and be developing a project from scratch in which you will have multiple microservices surrounded with multiple modules to accomplish the specific tasks. So you will need to make your hands dirty in this course where I will be guiding you from start to finish. You will also find multiple choice quizes in each section to check your progress throughout the course. </p><p>At the end of the course you will not only understand the real life challenges of a distributed application with multiple services and components, but also you will be able to apply solutions to this challenges.</p><p>You can download the source code in each lecture separately and run them easily using your IDE&nbsp;or docker.</p><ul><li><p><strong><em>Ido Charar:</em></strong><em> \"</em>This course by Ali Gelenler is outstanding. It is not just about Spring Cloud with kafka and elastic. This course gives you much more knowledge around technologies related to Spring Cloud in particular and Cloud Computing in general. Among them are technologies like reactive programming, streaming, linux OS, security, Design Patterns and much much more. All the information is given in succinct but ingestable form, which allows you broaden your skills in shortest possible time. Very appreciate the investment in material, lecturer involvement, constant assistance and help to the students. Will recommend to take this course everyone who want to level up her/his skills.<em>\"</em></p></li></ul><p>For more detailed information on the progress of this course, you can check the introductory video and free lessons, and if you decide to enroll in this course, you are always welcome to ask and discuss the concepts and implementation details on Q/A and messages sections. I will guide you from start to finish to help you successfully complete the course and gain as much knowledge and experience as possible from this course.</p>",
+        "completion_ratio": 5,
+        "last_accessed_time": "2022-06-12T13:51:30Z",
+        "enrollment_time": "2022-03-07T18:18:03Z",
+        "num_collections": 1
+      },
+      {
+        "_class": "course",
+        "id": 1692036,
+        "title": "Modern Java - Learn Java 8 features by coding it",
+        "url": "/course/modern-java-learn-java-8-features-by-coding-it/learn/",
+        "visible_instructors": [
+          {
+            "_class": "user",
+            "id": 11626826,
+            "title": "Pragmatic Code School",
+            "name": "Pragmatic Code",
+            "display_name": "Pragmatic Code School",
+            "job_title": "Technology Enthusiast, Online Instructor"
+          }
+        ],
+        "published_title": "modern-java-learn-java-8-features-by-coding-it",
+        "tracking_id": "hG5GN89LRoykmCv4__Qggg",
+        "description": "<p>Learn the new <strong>Java 8 </strong>Features by coding it. This is a pure coding course and you will get a complete understanding of all the <strong>Java 8</strong> features by coding it.</p><p><strong>Why Should I take this course ?</strong></p><ul><li><p>This course will help the <strong>Java</strong> developers to build their knowledge on the new <strong>Java 8</strong> features.</p></li><li><p>All the new features such as <strong>Lambdas, Streams , Optionals, Functional Interfaces and Parallel Programming</strong> will be explained via code.</p></li><li><p>This course will give you the confidence on implementing new <strong>Java 8</strong> features in real <strong>Java</strong> projects.</p></li><li><p>By the end of this course you will have a complete understanding of new Java 8 functional features.</p></li></ul><p><strong>Course Overview : </strong></p><p><strong>Section 1 - Getting Started:</strong></p><ul><li><p>This section explains about what will be covered in this course.</p></li></ul><p><strong>Section 2 - Why Java-8 ?:</strong></p><ul><li><p>This section covers <strong>Why Java 8 </strong>is important?.</p></li><li><p>This section explains about difference between I<strong>mperative Programming and Declarative Programming. </strong></p></li></ul><p><strong>Section 3 - WorkSpace Setup - Mac/Windows:</strong></p><ul><li><p>This section covers the installation of <strong>Java</strong> and <strong>IntelliJ</strong> in <strong>Mac and Windows</strong>.</p></li></ul><p><strong>Section 4: Introduction to Lambda</strong></p><ul><li><p>This section covers the Why Lambda is needed , Lambdas Syntax and How to implement Lambdas ?</p></li><li><p>Implement the Runnable interface using Lambdas.</p></li><li><p>Implement the Comparator interface using Lambdas.</p></li></ul><p><strong>Section 5: Lambdas and Functional Interfaces</strong></p><ul><li><p>This section covers the new Functional Interfaces that got introduced as part of Java 8.</p><ul><li><p><strong>Consumer</strong> Functional Interface</p></li><li><p><strong>Predicate</strong> Functional Interface</p></li><li><p><strong>Function</strong> Functional Interface</p></li><li><p><strong>Supplier</strong> Functional Interface.</p></li></ul></li></ul><p><strong>Section 6 : Constructor and Method References</strong></p><ul><li><p>This section covers the new Method Reference and the Constructor Reference.</p><ul><li><p>How <strong>Method Reference</strong> simplifies the code.</p></li><li><p>How to use Method reference along with Lambdas.</p></li><li><p>How to use <strong>Constructor Reference </strong>to create new objects. </p></li></ul></li></ul><p><strong>Section 7 : Lambdas and Local variables ( Effectively Final )</strong></p><ul><li><p>This section covers the  local variable and how it should used in Lambdas.</p></li><li><p>Definition of <strong>Effectively Final</strong> scope of a variable.</p></li></ul><p><strong>Section 8 : Streams API</strong></p><ul><li><p>This section covers the Streams API which is one of the important feature that got introduced as part of <strong>Java8</strong>.</p></li><li><p>How the Stream API Works Internally ?</p></li><li><p>How <strong>Collections are different from Streams</strong> ?</p></li><li><p>How to <strong>debug</strong> a Stream ?</p></li></ul><p><strong>Section 9 : Streams API Operations</strong></p><ul><li><p>This section covers different Streams API operations that can be used in Streams to achieve an objective.</p></li><li><p>Streams Operations such as :</p><ul><li><p>map()</p></li><li><p>flatMap()</p></li><li><p>distinct()</p></li><li><p>count()</p></li><li><p>filter()</p></li><li><p>reducer()</p></li><li><p>Map, Filter and Reduce pattern.</p></li><li><p>max()</p></li><li><p>min()</p></li><li><p>limit()</p></li><li><p>skip()</p></li><li><p>allMatch(), anyMatch() and noneMatch()</p></li><li><p>findAny() and findFirst()</p></li></ul></li><li><p>Explanation of Stream operations that are Short Circuit operations.</p></li></ul><p><strong>Section 10 : Streams API - Factory Methods</strong></p><ul><li><p>This section covers different Streams API factory method that can be used to create Streams.</p></li></ul><p><strong>Section 11: Numeric Streams</strong></p><ul><li><p>This section covers the Introduction to Numeric Streams which can be used to perform some numeric related operations.</p></li></ul><p><strong>Section 12: Terminal Operations Streams</strong></p><ul><li><p>This section covers different way to collect the data from the <strong>Streams Pipeline</strong>.</p></li><li><p>Terminal Operations such as :</p><ul><li><p>joining()</p></li><li><p>counting()</p></li><li><p>mapping()</p></li><li><p>max(), min()</p></li><li><p>sum()</p></li><li><p>average()</p></li><li><p>groupingBy()</p></li><li><p>partitioningBy()</p></li></ul></li></ul><p><strong>Section 12: Streams API - Parallel Processing</strong></p><ul><li><p>This section covers how to perform the Parallel processing using Streams.</p></li><li><p>How Parallel Programming makes use of the processors in your machine to perform concurrency operations? </p></li><li><p>How Parallel Programming works internally ?</p></li><li><p>How to check the <strong>performance between the sequential and parallel programming </strong>?</p></li><li><p>Scenarios when not to use parallel programming.</p></li></ul><p><strong>Section 12: Optional</strong></p><ul><li><p>This section covers What is Optional  and the benefits of Optional.</p></li><li><p>How Optional can help you avoid Null Pointer exception.</p></li><li><p>Exploring the different operations that are part of Optional such as :</p><ul><li><p>empty()</p></li><li><p>ofNullable()</p></li><li><p>of()</p></li><li><p>orElse()</p></li><li><p>orElseGet()</p></li><li><p>orElseThrow()</p></li><li><p>isPresent()</p></li><li><p>ifPresent()</p></li><li><p>map()</p></li><li><p>flatMap()</p></li><li><p>filter()</p></li></ul></li></ul><p><strong>Section 12: New Date/Time Libraries</strong></p><ul><li><p>This section covers new Date/Time Libraries such as <strong>LocalDate</strong>, <strong>LocalTime</strong>, <strong>LocalDateTime</strong>.</p></li><li><p>How to create/edit the LocalDate,LocalTime and  LocalDateTime instances using different approaches.</p></li><li><p>How to find the difference between the LocalDate, LocalTime and LocalDateTime using <strong>Period, Duration</strong>.</p></li><li><p>How to represent the time in the Machine Readable Format using <strong>Instant</strong>.</p></li><li><p>How to use the TimeZone using the <strong>ZonedDateTime</strong>.</p></li><li><p>How to Format the Date using the <strong>DateTimeFormatter</strong>.</p></li></ul><p>By the end of this course you will have a complete understanding of all the Java 8 features and implement it in real Java projects.</p>",
+        "completion_ratio": 1,
+        "last_accessed_time": "2022-06-11T12:06:32Z",
+        "enrollment_time": "2022-01-01T03:46:57Z",
+        "num_collections": 0
+      },
+      {
+        "_class": "course",
+        "id": 2259748,
+        "title": "Java Collections from basics to Advanced",
+        "url": "/course/collections-and-concurrent-collection-video-lectures-and-tutorials/learn/",
+        "visible_instructors": [
+          {
+            "_class": "user",
+            "id": 62846716,
+            "title": "Basics Strong",
+            "name": "Basics",
+            "display_name": "Basics Strong",
+            "job_title": "Team of technocrats and Programming lovers"
+          }
+        ],
+        "published_title": "collections-and-concurrent-collection-video-lectures-and-tutorials",
+        "tracking_id": "rCnCsRqNQHOk9fH3Hjsfyg",
+        "description": "<p><strong>BEST in Class course for Java Collections, underlying implementation of Data Structures used in Collections, Advanced Java Collections,Concurrent Collections, Java Generics , Java Lambda and Streams to deal with any kind of data.</strong></p><p>This course will empower you to solve any data structure problem using Java.</p><p>This course will not only cover Java way to deal with data - Java Collection Framework and Advanced Java Collection APIs but also cover the Modern way of dealing with data in Java by covering Lambda and Streams APIs to make your life easier.</p><p>We will also explain the underlying data structure before coming to any collection implementation. </p><p><strong>We will cover all the below topics in detail :</strong></p><p>Arrays  - Basics Java Construct all Data structures are directly indirectly built upon arrays   </p><p>Generics - Type safe and reuable Collections  would not have been possible without it.</p><p>Collections - Yeah! Most of the data structures Java already supplies in form of Collections.</p><p>Concurrent Collections - Collections  in multi threading environment,</p><p>Lambda Expression - New Java way of writing code</p><p>Streams - Give sppeed to your collections and write clean and small code to do a lot of things.</p><p><strong>Details :</strong></p><p><strong>Arrays </strong></p><p>01 -Arrays and Single D Arrays</p><p>02- MultiDArrays</p><p>03- Declaration and initialization,creation of Arrays</p><p>04- Playing with Syntax</p><p>05- Traversing Arrays,Length of Array</p><p>06- Types of Array based on elements it holds</p><p>07- Assigning and Reassigning Array Objects to Array References</p><p>08- Anonymous arrays</p><p><strong>Collections</strong> -  <strong>Deep Dive ... we have broken this into multiple sections.</strong></p><p><strong>List </strong></p><p> 01 - List interface</p><p> 02 - Array Lists</p><p> 03 - Linked Lists</p><p> 04 - Vector</p><p> 05 - Stack</p><p> 06 - Cursors to travesrse the data...</p><p> Then we will cover set under collections...</p><p>01 - HashSet</p><p>02 - LinkedHashSet</p><p>03 - SortedSet</p><p>04 - NavigableSet</p><p>05 - TreeSet</p><p>05 - Comparable and Comparator</p><p>Then we will move to MAP - and this a very important we have explained this in very very detail ...</p><p>Belive me if you want to know a Data Structure make sure you know Map.... the complexity of searching and placing an element in Map is O(1).</p><p>In Map we will cover...</p><p> 01-HashMap and its internal Working</p><p> 02-Difference bw HashMap and HashTable</p><p> 03-Linked HashMap</p><p> 04 - IdentityHashMap</p><p> 05 - WeakHashMap</p><p> 06 - Sorted Map</p><p> 07 - NavigableMap</p><p> 08 - TreeMap</p><p> 09- Summary Of Map</p><p> Then we will move to the next section ... Concurrent Collections... and this section is also very detailed.. </p><p>01 Section Introduction</p><p>02 Need of Concurrent Collections</p><p>03 Concurrent Modification Exception</p><p>04 How Concurrent Collection Solved the problems</p><p>05 ConncurentHashMap Heirarchy and Methods</p><p>06 ConncurentHashMap internal Implementation</p><p>07 ConncurentHashMap in Multithreading Envoirnment Program Demo</p><p>09 CopyonWrite ArrayList</p><p>10 CopyOnWriteArrayList - Constctuctors and Methods</p><p>11 CopyOnWriteArraySet</p><p><br></p><p>After That we will start Lambda Expression the efficient may to write code started in Java 8 , we will also show you how you will be able to simplify your collection code using ... Lambda..</p><p>01 - Lambda Introduction</p><p>02 - Write Lambda Expression</p><p>03 - Functinoal Interfaces</p><p>04 - Invoke Lambda</p><p>05-few more Examples of invoking Lambda</p><p>06 Lambda Summary</p><p>07 Lambda With Collections</p><p>08  comparator - Lambda</p><p>09 Sorting a List Without Lambda and With Lambda</p><p>10 predefined Functional Interfaces - Predicates</p><p>11  Predicates Example</p><p>12 function</p><p>13 consumer</p><p>14 Supplier</p><p>15 Double Colun Operator Method reference </p><p>16 Double Colun Operator Constructor reference</p><p>After that we will start Streams i think the most important concept to learn if you are using Java 8 and Beyond, this can process your data not simply but efficiently.</p><p>01- Streams basics code to get familiar with Syntax</p><p>02- stream in Detail - Filter() and Map() Methods</p><p>04- More on Methods in Streams</p><p>05- More on Streams</p><p>06 - Parallel Streams</p><p>07 - Sequential vs Parallel streams performance Comparison</p><p>08- Summary Of Streams and what we learned</p><p><br></p><p>We will keep on covering Collections best Practice and common pitfalls</p><p>By End of this course you will start fall in Love in collections and with your data. You will also love Java's modern way of dealing with data using lambda and streams.</p><p>We have covered each and every topic in very much detail.</p><p>Last but not least : This course comes with a 30 days money back guarantee if it does not fit in your needs,  and we are always available to answer your questions.</p><p><strong>HAPPY LEARNING</strong></p><p>Basics Strong</p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p>               </p><p><br></p><p><br></p><p><br></p><p><br></p>",
+        "completion_ratio": 1,
+        "last_accessed_time": "2022-06-10T02:02:58Z",
+        "enrollment_time": "2022-05-25T17:06:40Z",
+        "num_collections": 0
+      },
+      {
+        "_class": "course",
+        "id": 2365836,
+        "title": "Elasticsearch 8 and the Elastic Stack: In Depth and Hands On",
+        "url": "/course/elasticsearch-7-and-elastic-stack/learn/",
+        "visible_instructors": [
+          {
+            "_class": "user",
+            "id": 13148312,
+            "title": "Sundog Education by Frank Kane",
+            "name": "Sundog Education",
+            "display_name": "Sundog Education by Frank Kane",
+            "job_title": "Founder, Sundog Education. Machine Learning Pro"
+          },
+          {
+            "_class": "user",
+            "id": 32164746,
+            "title": "Frank Kane",
+            "name": "Frank",
+            "display_name": "Frank Kane",
+            "job_title": "Founder, Sundog Education"
+          },
+          {
+            "_class": "user",
+            "id": 117534130,
+            "title": "Coralogix Ltd.",
+            "name": "Coralogix",
+            "display_name": "Coralogix Ltd.",
+            "job_title": "Logging Built For CI/CD"
+          },
+          {
+            "_class": "user",
+            "id": 168079506,
+            "title": "Sundog Education Team",
+            "name": "Sundog Education",
+            "display_name": "Sundog Education Team",
+            "job_title": "Sundog Education Team"
+          }
+        ],
+        "published_title": "elasticsearch-7-and-elastic-stack",
+        "tracking_id": "G7ZXrLg5Rsq0ZjFwTSVe_g",
+        "description": "<p><strong>Elasticsearch </strong>and&nbsp; the <strong>Elastic Stack </strong>are important tools for managing massive data. You need to know the problems it solves and how it works to design the best systems, and be the most valuable engineer you can be.</p><p><strong>Elasticsearch 8 </strong>is a powerful tool for analyzing big data sets in a matter of milliseconds! It’s increasingly popular technology for powering search and analytics on big websites, and a valuable skill to have in today's job market. This course covers it all, from installation to operations. Learn how to use Elasticsearch 8 and implement it in your work within the next few days.</p><p>We've teamed up with <strong>Coralogix </strong>to co-produce the most comprehensive Elastic Stack course we've seen— with <strong>over</strong> <strong>100 lectures</strong> including <strong>15 hours</strong> of video.</p><p>We'll show you how to set up search indices on an <strong>Elasticsearch 8</strong> cluster (if you need Elasticsearch 6 or 7 - we have other courses on that), and query that data in many different ways. Fuzzy searches, partial matches, search-as-you-type, pagination, sorting - you name it. And it's not just theory, every lesson has hands-on examples where <strong>you'll practice each skill</strong> using a virtual machine running Elasticsearch on your own PC.</p><p>We'll explore <strong>what's new in Elasticsearch 8 </strong>and illustrate all the new syntax requirements of Elasticsearch commands, now that things deprecated through the Elasticsearch 7 have been removed. Almost every hands-on activity has been re-recorded to ensure compatibility with Elasticsearch 8.</p><p>We cover, in depth, the often-overlooked problem of <strong>importing data</strong> into an Elasticsearch index. Whether it's via raw RESTful queries, scripts using Elasticsearch API's, or integration with other \"big data\" systems like Spark and Kafka - you'll see many ways to get Elasticsearch started from large, existing data sets at scale. We'll also stream data into Elasticsearch using <strong>Logstash </strong>and <strong>Filebeat</strong> - commonly referred to as the \"<strong>ELK Stack</strong>\" (Elasticsearch / Logstash / Kibana) or the \"<strong>Elastic Stack</strong>\".</p><p>Elasticsearch <strong>isn't just for search anymore</strong> - it has powerful <strong>aggregation </strong>capabilities for structured data, which allows you to glean new insights from your indexed data. We'll bucket and analyze data using Elasticsearch, and visualize it using the Elastic Stack's web UI, <strong>Kibana</strong> and<strong> Kibana Lens</strong>.</p><p>You'll learn how to manage <strong>operations</strong> on your Elastic Stack, monitoring your cluster's health, and how to perform operational tasks like scaling up your cluster, and doing rolling restarts. We'll also spin up Elasticsearch clusters in the cloud using <strong>Amazon Opensearch Service</strong> and the <strong>Elastic Cloud</strong>.</p><p>Elasticsearch is positioning itself to be a much faster alternative to Hadoop, Spark, and Flink for many common data analysis requirements.&nbsp; It's an important tool to understand, and it's easy to use! Dive in with me and I'll show you what it's all about.</p>",
+        "completion_ratio": 5,
+        "last_accessed_time": "2022-06-06T11:43:59Z",
+        "enrollment_time": "2022-05-25T17:06:40Z",
+        "num_collections": 0
+      },
+      {
+        "_class": "course",
+        "id": 2337212,
+        "title": "Java Exception Handling For Certification & Interviews",
+        "url": "/course/java-exception-handling-for-certification-interviews/learn/",
+        "visible_instructors": [
+          {
+            "_class": "user",
+            "id": 69503326,
+            "title": "DURGASOFT DURGA",
+            "name": "DURGASOFT",
+            "display_name": "DURGASOFT DURGA",
+            "job_title": "Software Training Organization"
+          }
+        ],
+        "published_title": "java-exception-handling-for-certification-interviews",
+        "tracking_id": "Fps4fqLtT16nesl9Tg9fnw",
+        "description": "<p><strong>The student can get complete knowledge on the following topics:</strong></p><p><strong>1. Introduction to Exception Handling</strong></p><p><strong>2. Runtime Stack Mechanism</strong></p><p><strong>3. Default Exception Handling </strong></p><p><strong>4. Exception Heirarchy and Difference between Exception and Error</strong></p><p><strong>5. Difference between Checked and Unchekced Exceptions </strong></p><p><strong>6. Difference between Fully-Checked and Partially-Checked Exceptions</strong></p><p><strong>7. Customized Exception Handling By using try-catch</strong></p><p><strong>8. Control-Flow inside try-catch</strong></p><p><strong>9. Methods to print exception information</strong></p><p><strong>10. Exception Handling:try with multiple catch blocks</strong></p><p><strong>11. Exception Handling:Purpose and speciality of finally block</strong></p><p><strong>12. Exception Handling:finally block vs return statement</strong></p><p><strong>13. Exception Handling:finally block vs System.exit()</strong></p><p><strong>14. Control-Flow in try-catch-finally</strong></p><p><strong>15. Nested try-catch-finally</strong></p><p><strong>16. Control-Flow in nested try-catch-finally</strong></p><p><strong>17. Various Possible combinations of try-catch-finally</strong></p><p><strong>18. Need of throw keyword</strong></p><p><strong>19. Important cases related to throw keyword</strong></p><p><strong>20. Need and Usage of throws keyword</strong></p><p><strong>21. throws keyword across multiple methods</strong></p><p><strong>22. Important cases related to throws keyword</strong></p><p><strong>23. Exception Handling Keywords summary and various possible compile time errors</strong></p><p><strong>24. Difference between final, finally and finalize()</strong></p><p><strong>25. User Defined or Customized Exception</strong></p><p><strong>26. How to define and use User Defined or Customized Exception</strong></p><p><strong>27. Top - 10 Exceptions </strong></p><p><strong>28. Try with Resources</strong></p><p><strong>29. Important Conclusions about Try with Resources</strong></p><p><strong>30. Multi Catch Block</strong></p><p><strong>31. Exception Propagation and Re throwing an Exception</strong></p><p><strong>32. Exception Handling 9 Practice Questions &amp; Explanation</strong></p><p><br></p>",
+        "completion_ratio": 0,
+        "last_accessed_time": "2022-05-21T08:21:13Z",
+        "enrollment_time": "2021-09-30T14:46:08Z",
+        "num_collections": 1
+      },
+      {
+        "_class": "course",
+        "id": 2829896,
+        "title": "MongoDB with Java Spring Boot & Spring Framework",
+        "url": "/course/mongodb-with-spring-boot-spring-data-mongorepository-mlab-cloudfoundry/learn/",
+        "visible_instructors": [
+          {
+            "_class": "user",
+            "id": 4132674,
+            "title": "Infybuzz Learning",
+            "name": "Infybuzz",
+            "display_name": "Infybuzz Learning",
+            "job_title": "50,000+ students around world with reach to 156 Countries"
+          }
+        ],
+        "published_title": "mongodb-with-spring-boot-spring-data-mongorepository-mlab-cloudfoundry",
+        "tracking_id": "fOD0sy0NS-SkMAEHR4wDvw",
+        "description": "<p><strong>***** Some Reviews From Students *****</strong></p><ul><li><p><strong><em>I really like the way you explained everything. Thank you so much for your clear elaborations.</em></strong></p></li><li><p><strong><em>Very helpfull course for basic intro into SpringData with MongoDb.</em></strong></p></li><li><p><strong><em>Excellent course so far, it has valuable content, good topic organization and useful tools taught.</em></strong></p></li><li><p><strong><em>Good course to learn MongoDB with Spring Boot</em></strong></p></li></ul><p><br></p><p><strong>***** Course Updates*****</strong></p><p><strong><em>April 2021 - Course Updated with latest version of MongoDB and MongoDB Compass UI Tool.</em></strong></p><p><br></p><p><strong>In this course you are going to learn MongoDB which is most widely used NoSQL database in the world.</strong></p><p>MongoDB is a cross platform document-oriented database program. MongoDB Stores data in the format of JSON.</p><p><br></p><p>This course covers MongoDB starting from its installation with wide range queries including CRUD operations. You will learn MongoDB with Studio 3T UI Connector which is used to run queries over MongoDB database.</p><p><strong>MongoDB Compass is an official UI tool to execute queries and you will earn that as well in this course.</strong></p><p><br></p><p><strong>Now a days Spring framework is widely used among Java Developers and specifically Spring Boot is in high demand. So in the later part of the course you will learn to use MongoDB with Spring Boot App using Spring Data MongoDB with help of MongoRepository.</strong></p><p><strong>We are in the era of cloud and who doesn't want to have applications in the cloud. In this course you will learn to deploy your Spring Boot Application to Pivotal Cloud Foundry (PCF) which is Platform As A Service (PaaS) cloud provider.</strong></p><p><strong>There you will learn to use mLab which provides MongoDB on cloud. It is Database As A Service (DBaaS).</strong></p><p><strong>So by end of this course you will learn MongoDB in detail and you Spring Boot and MongoDB both will be on cloud. Isn't it Amazing.</strong></p><ul><li><p>You will Learn CRUD ( Created, Read, Update and Delete ) Operations in MongoDB and in the later part of the course you will learn CRUD operations in Spring Boot App using Spring Data MongoDB.</p></li><li><p>You will Learn to implement Pagination and Sorting in MongoDB and in the later part of the course you will learn to implement in Spring Boot App using Spring Data MongoDB.</p></li><li><p>You will Learn AND, OR, IN, Like and Starts With Query in MongoDB and in the later part of the course you will learn AND, OR, IN, Like and Starts With Query in Spring Boot App using Spring Data MongoDB.</p></li><li><p>You will Learn to write Native MongoDB With Spring Data MongoDB using @Query Annotation.</p></li><li><p>You will Learn MongoDB with Java.</p></li></ul><p>Let's begin journey towards NoSQL with MongoDB by enrolling in this course...</p>",
+        "completion_ratio": 25,
+        "last_accessed_time": "2022-05-06T01:31:16Z",
+        "enrollment_time": "2022-04-27T11:07:28Z",
+        "num_collections": 0
+      },
+      {
+        "_class": "course",
+        "id": 524990,
+        "title": "Software Architecture (SOLID) & Design Patterns in Java",
+        "url": "/course/basics-of-software-architecture-design-in-java/learn/",
+        "visible_instructors": [
+          {
+            "_class": "user",
+            "id": 837576,
+            "title": "Holczer Balazs",
+            "name": "Holczer",
+            "display_name": "Holczer Balazs",
+            "job_title": "Software Engineer"
+          }
+        ],
+        "published_title": "basics-of-software-architecture-design-in-java",
+        "tracking_id": "aHBr_VBbSAiCyJLwvBQfww",
+        "description": "<p>This course is about software architecture and design patterns. We will talk about two man topics: <strong>SOLID principles</strong> and <strong>design patterns</strong>. We are going to implement the problems in Java, but the theoretical background is language-independent. I highly recommend typing out the implementations several times on your own in order to get a good grasp of it.</p><p><strong>Section 1 - SOLID&nbsp;Principles</strong></p><ul><li><p>what are SOLID principles?</p></li><li><p>single responsibility principle</p></li><li><p>open closed principle</p></li><li><p>Liskov's substitution principle</p></li><li><p>interface segregation principle</p></li><li><p>dependency inversion principle</p></li><li><p>what is dependency injection?</p></li></ul><p><strong>Section 3 - Creational Design Patterns</strong></p><ul><li><p>what are creational design patterns?</p></li><li><p>singleton pattern</p></li><li><p>factory pattern</p></li><li><p>abstract factory pattern</p></li><li><p>builder pattern </p></li><li><p>prototype pattern</p></li></ul><p><strong>Section 2 - Behavioral Design Patterns</strong></p><ul><li><p>what are behavioral design patterns?</p></li><li><p>strategy pattern</p></li><li><p>observer pattern</p></li><li><p>command pattern</p></li><li><p>iterator pattern</p></li><li><p>template pattern and null object pattern</p></li><li><p>visitor pattern</p></li></ul><p><strong>Section 3 - Structural Design Patterns</strong></p><ul><li><p>what are structural design patterns?</p></li><li><p>decorator pattern</p></li><li><p>flyweight pattern</p></li><li><p>facade pattern</p></li><li><p>adapter pattern</p></li></ul><p><strong>Section 4 - Model-View-Controller (MVC) Pattern</strong></p><ul><li><p>the model-view-controller (MVC) model</p></li><li><p>an application with Java Swing</p></li></ul><p>In the first part of the course we are going to learn about the<strong> SOLID principles</strong>. We are going to talk about the theory as well as the implementations.</p><p>The second part of the course is about <strong>design patterns</strong>. We should have a deep understanding of these patterns in order to be able to write reusable software components. These techniques are becoming more and more important as applications are getting more and more complex, so - in my opinion - these topics are good to know.</p><p>Thank for joining the course, <strong>let's get started!</strong></p>",
+        "completion_ratio": 0,
+        "last_accessed_time": "2022-05-01T15:05:30Z",
+        "enrollment_time": "2021-11-18T19:28:57Z",
+        "num_collections": 0
+      }
+    ]
+  }

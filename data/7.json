@@ -1,0 +1,307 @@
+{
+    "count": 206,
+    "next": "https://www.udemy.com/api-2.0/users/me/subscribed-courses/?fields%5Bcourse%5D=completion_ratio%2Cenrollment_time%2Clast_accessed_time%2Cnum_collections%2Cpublished_title%2Ctitle%2Ctracking_id%2Curl%2Cdescription%2Cvisible_instructors&fields%5Buser%5D=%40min%2Cjob_title&is_archived=false&ordering=-last_accessed&page=8&page_size=12",
+    "previous": "https://www.udemy.com/api-2.0/users/me/subscribed-courses/?fields%5Bcourse%5D=completion_ratio%2Cenrollment_time%2Clast_accessed_time%2Cnum_collections%2Cpublished_title%2Ctitle%2Ctracking_id%2Curl%2Cdescription%2Cvisible_instructors&fields%5Buser%5D=%40min%2Cjob_title&is_archived=false&ordering=-last_accessed&page=6&page_size=12",
+    "results": [
+      {
+        "_class": "course",
+        "id": 2334812,
+        "title": "Microservices: Designing Highly Scalable Systems",
+        "url": "/course/introduction-to-microservices/learn/",
+        "visible_instructors": [
+          {
+            "_class": "user",
+            "id": 69436942,
+            "title": "Sean Campbell",
+            "name": "Sean",
+            "display_name": "Sean Campbell",
+            "job_title": "Software Engineer"
+          }
+        ],
+        "published_title": "introduction-to-microservices",
+        "tracking_id": "39V29ubwR4OMG8FnAuZ_Ww",
+        "description": "<p>The goal of this course it to equip you with all the knowledge required to design a robust, highly scalable microservices architecture.&nbsp; </p><p>If you know nothing about Microservices<strong>, this course is ideal for you! </strong>You will get a <strong>fast, yet comprehensive introduction</strong> into the world of microservices! </p><p>Upon completion of this course, you will know <strong>how to manage data and distributed transactions in a microservices-based </strong>system. You will also learn <strong>how to secure microservices</strong>, and <strong>how microservices interact with each other through asynchronous event-driven communication</strong> while maintaining autonomy and independence. </p><p>At the conclusion of this course, you will<strong> learn how to convert a monolithic application into microservices</strong>.</p><p><br></p><p><strong>What students are saying about this course?</strong></p><p><strong>5-Stars</strong>: By far one of the most concise explanations of microservices that I've heard so far. This was a great introduction and the sections helped to fill in some knowledge gaps about the tools that I've been using. A great breakdown of the \"what\" and \"why\" of microservices - <em>Miguel Malcolm</em></p><p><strong>5-Stars</strong>: Simple and easy to understand introduction but high level approach to microservices architecture. I will recommend this to any one who wants to get into microservices architecture. - <em>Michael Gyekye</em></p><p><strong>5-Stars</strong>: Brilliant course. Great overview of what constitutes a microservices architecture. Well done Sean. - <em>Akoni Tee</em></p><p><strong>5-Stars</strong>: Concentrated information about all aspects of microservice architerture - <em>Vyacheslav Kolotiy</em></p><p><strong>5-Stars</strong>: Great course for understanding Microservices principles. - <em>Andrew Rosenbaum</em></p><p><strong>5-Stars</strong>: Excellent starter course. Great overview of microservice. - <em>Ann</em></p><p><strong>5-Stars</strong>: Exactly at the level of detail I was looking for. It kept it high level at the architectural level, while going into enough detail to touch on the key architectural concepts. It's a great class to get oriented in the space and the reading list at the end is very helpful. Thank you for making this class. - <em>Peter Cordone</em></p><p><strong>5-Stars</strong>: Very Simple, to the point. A full meal of microservices explained very neatly in a short time. Highly recommend for any who wants to start working on microservice or already working on microservice to learn some new patterns and technologies. - <em>Raghavendra Shapur Chandraiah Setty</em></p>",
+        "completion_ratio": 0,
+        "last_accessed_time": "2022-03-11T07:39:07Z",
+        "enrollment_time": "2021-11-18T19:28:57Z",
+        "num_collections": 0
+      },
+      {
+        "_class": "course",
+        "id": 2304734,
+        "title": "The Complete Guide to Becoming a Software Architect",
+        "url": "/course/the-complete-guide-to-becoming-a-software-architect/learn/",
+        "visible_instructors": [
+          {
+            "_class": "user",
+            "id": 29720180,
+            "title": "Memi Lavi",
+            "name": "Memi",
+            "display_name": "Memi Lavi",
+            "job_title": "Senior Software Architect & Consultant"
+          }
+        ],
+        "published_title": "the-complete-guide-to-becoming-a-software-architect",
+        "tracking_id": "2-Fnmf2VSG6UdgeerMRtWw",
+        "description": "<p><strong>Congratulations!&nbsp;You're going to be a Software Architect!</strong></p><p>Becoming a Software Architect is the holy grail for almost all developers.</p><p>Great salary, working with management, dealing with the up-to-date technologies and patterns, working with variety of projects and teams - all these make the Software Architect <strong>one of the most desired positions in the software industry.</strong></p><p>But becoming a Software Architect is not easy. There is no academic course for that, and no formal training. </p><p>You might assume that being a great developer is enough to become a great Software Architect - but that's not the case.</p><p>A&nbsp;great Software Architect employs a mix of great technical skills, the ability to take a high-level look, and great interpersonal skills.</p><p>You may find other courses that will teach you programming skills, project management skills and even software design skills. But <strong>no course covers all the bases as this one</strong>.</p><p>Here is what we will discuss in this comprehensive, 115 lectures length, course:</p><p>- <strong>What is a Software Architect </strong>and <strong>why you want to become one</strong></p><p>- What are the steps you should take in the <strong>Architecture Process</strong></p><p>- What are <strong>System Requirements</strong> and why they are so important for the architecture</p><p>- A proven, tested way of <strong>selecting the technology stack</strong></p><p>- How to design the system's <strong>components architecture</strong></p><p>- What are <strong>design patterns</strong> and why does it matter</p><p>- How to design the overall <strong>system architecture</strong></p><p><strong>- </strong>What is <strong>architecture document</strong> and why it's so important</p><p>- Super important <strong>soft skills</strong> every architect should possess</p><p>- Some <strong>advanced architecture patterns</strong> you should keep in mind</p><p>- And lots more...</p><p><br></p><p>But wait, <strong>that's not all!</strong></p><p>One of the cornerstones of the architect's work is the architecture document. This document contains all the information regarding the architecture designed by the architect, including requirements, technology stack. component's architecture, system architecture and lots more.</p><p>Creating the architecture document is a daunting task, that can take months of hard work.</p><p>But if you take this course - your life will be much easier!</p><p>Towards the end of this course, we'll work together on a <strong>real-world case study</strong>, one that stems from other projects I've worked on. After discussing the case study, and designing its architecture,&nbsp; you'll have an opportunity to <strong>download a real-world, full blown architecture document</strong>, complete with all the information related to the case study. In fact, <strong>this is an industry-grade document, </strong>which I&nbsp;used in dozens of systems I've worked on.</p><p>And the best part? <strong>It's yours to use!</strong> Feel free to take this document, modify the parts that are relevant to your project, and submit it to your client! </p><p>Again - you're going to give your client<strong> a professional looking, modern, methodical documen</strong>t that covers all the bases, and makes a great impression.</p><p><strong>No other course provides such a document</strong>, and that's because I'm fully confident in the document's contribution to your work and reputation, as I&nbsp;used it extensively in the past years.</p><p><br></p><p>------------------------------------------------------------</p><p><strong>What do my students have to say about the course?</strong></p><p>------------------------------------------------------------</p><p>\"well done - The course was <strong>very practical</strong>\" - Sam </p><p>\"Good explanation on the topics covered, \"Soft Skills\" section is <strong>a great addition</strong> of topics\" - Sergio </p><p>\"[The course] <strong>given me the confidence</strong> to go out to the market and advertise myself as such [an Architect]\" - Mathew</p><p>And lots more...</p><p><br></p><p>------------------------------------------------------------</p><p><strong>Who is this course for?</strong></p><p>------------------------------------------------------------</p><p>Actually, any person who is involved in software development, even system analyst, can profit from this course. </p><p>However, the best candidate for this course is a developer with some experience, preferably 2 years. This experience will help mainly in understanding the terminology used in this course.</p><p>If you're not sure if this course is for you - drop me a note!</p><p><br></p><p>------------------------------------------------------------</p><p><strong>About Me</strong></p><p>------------------------------------------------------------</p><p>I've been a Software Architect for more than 17 years, working with a variety of clients - Fortune 100 enterprises, start-ups, govt. entities, defense, telco, banking, and lots more.</p><p>I'm an avid speaker and trainer, having trained thousands of students in various courses in the past.</p><p>I love what I&nbsp;do, and my greatest passion (well, besides my family...) is designing modern, practical, and reliable systems for my clients.</p>",
+        "completion_ratio": 0,
+        "last_accessed_time": "2022-03-11T07:36:27Z",
+        "enrollment_time": "2021-11-18T19:28:57Z",
+        "num_collections": 0
+      },
+      {
+        "_class": "course",
+        "id": 2064941,
+        "title": "SOLID Principles of Object-Oriented Design and Architecture",
+        "url": "/course/solid-principles-object-oriented-design-architecture/learn/",
+        "visible_instructors": [
+          {
+            "_class": "user",
+            "id": 36299058,
+            "title": "Vasiliy Zukanov",
+            "name": "Vasiliy",
+            "display_name": "Vasiliy Zukanov",
+            "job_title": "Professional Android developer, Blogger, Educator"
+          }
+        ],
+        "published_title": "solid-principles-object-oriented-design-architecture",
+        "tracking_id": "ndUDin7XTUauOABEdVLisg",
+        "description": "<p>In this course you'll master <strong>SOLID principles</strong> - a set of guidelines for designing clean and maintainable software systems. By learning SOLID principles, you'll gain a deeper understanding into the magnificent world of software architecture.</p><p>SOLID&nbsp;principles embody more than 40 years of academic research and industry experience, distilled by several generations of software developers. Therefore, by mastering SOLID principles, you learn universal, time-proven tools for delivering high-quality software to your users.</p><p>SOLID is an acronym that stands for five&nbsp;principles:</p><ul><li><p>Single Responsibility Principle</p></li><li><p>Open Closed Principle</p></li><li><p>Liskov Substitution Principle</p></li><li><p>Interface Segregation Principle</p></li><li><p>Dependency Inversion Principle</p></li></ul><p>In this course, you will learn SOLID principles in detail and understand their importance. You will discover how SOLID principles make your code flexible, extensible and readable. Eventually, you will discover that <strong>SOLID&nbsp;code is simply a joy to work with</strong>!</p><p>In addition to in-depth discussion of software architecture and SOLID, I will also share many interesting historical facts about the people behind these principles. This short historical detour will allow you to see the bigger picture and will make the course more colorful and interesting.</p><p>The topics covered in this course are complex, but important to learn. It's not an overstatement to say that understanding SOLID&nbsp;principles will give you a new level of insight into software architecture and object-oriented programming in general.</p><p>So, if you're a professional developer and you're serious about clean and maintainable code, this course is for you!</p>",
+        "completion_ratio": 0,
+        "last_accessed_time": "2022-03-11T07:35:30Z",
+        "enrollment_time": "2021-11-18T19:28:57Z",
+        "num_collections": 0
+      },
+      {
+        "_class": "course",
+        "id": 2249104,
+        "title": "Domain Driven Design: Complete Software Architecture Course",
+        "url": "/course/domain-driven-design-complete-software-architecture-course/learn/",
+        "visible_instructors": [
+          {
+            "_class": "user",
+            "id": 21178878,
+            "title": "Binary Brain",
+            "name": "Binary",
+            "display_name": "Binary Brain",
+            "job_title": "Coding Expert with 10+ years development expertise"
+          }
+        ],
+        "published_title": "domain-driven-design-complete-software-architecture-course",
+        "tracking_id": "m_st596BSVKVZzGkwN_7-Q",
+        "description": "<p>In this course, you will learn in detail&nbsp;the technical skills and techniques required to design and develop a system using domain-driven design (DDD) including:</p><ul><li><p>DDD building blocks</p></li><li><p>Design modeling skills</p></li><li><p>Design assignment - with model answers that are explained via video tutorial and feedback on your assignment from others if you'd like.</p></li><li><p>Design patterns</p></li><li><p>Component architecture</p></li><li><p>Coding assignment - with model answers that are explained in detail via video tutorial and <strong>downloadable code in C#, Java and Python so that you can follow explanations</strong>!</p><p><br></p></li></ul><p>The course is structured around both video tutorials explaining different techniques and architecture patterns, and (optional) assignments to&nbsp;help make sure you're understanding what we're learning.</p><p>I'm also available to answer any queries you may have regarding any course material which you didn't understand or would like further detail on.&nbsp;</p><p>_______</p><p>Just in case you're still not convinced if you should take this course, here are a couple of positive reviews from the hundreds I have received on my bestselling, top-rated&nbsp;Udemy courses:&nbsp;</p><p>\"<em>The course is&nbsp;</em><strong><em>comprehensive</em></strong><em>&nbsp;and&nbsp;</em><strong><em>well explained through clear and concise examples</em></strong><em>, and shows that the instructor is highly experienced in their field. Overall this course is excellent and highly appropriate for software developers looking to improve their architectural and programming skills, both beginners as well as more advanced programmers. I will be looking forward to more courses by the author in the future.</em>\" - J. Fusselberg</p><p>\"<strong><em>High quality videos, lectures are clear and to the point</em></strong><em>. This course is highly recommended for any developer who wants to move on to a senior position or software architect role. However, it will also be a good start for beginners to introduce them to proper coding practices early on</em>.\" -&nbsp; Roberto de Souza</p><p>I look forward to seeing you in my course and hearing how the course has helped you progress in your career!</p>",
+        "completion_ratio": 0,
+        "last_accessed_time": "2022-03-11T07:34:05Z",
+        "enrollment_time": "2021-11-18T19:28:57Z",
+        "num_collections": 0
+      },
+      {
+        "_class": "course",
+        "id": 2521572,
+        "title": "SOLID Principles: Introducing Software Architecture & Design",
+        "url": "/course/solid-design/learn/",
+        "visible_instructors": [
+          {
+            "_class": "user",
+            "id": 37215988,
+            "title": "Sujith George",
+            "name": "Sujith",
+            "display_name": "Sujith George",
+            "job_title": "A Software Engineer With A Passion For Teaching!"
+          }
+        ],
+        "published_title": "solid-design",
+        "tracking_id": "eoII-CknSWCVbqMGs7yMiQ",
+        "description": "<p>&nbsp; &nbsp; &nbsp;Anyone can code. But what differentiates a professional software engineer from a hobbyist coder is how well-designed and well-coded the final product is. Code quality is hard to come by. Unfortunately, most coders start straight without understanding basic concepts of software design. This course will help a budding coder, as well as an established programmer who wants to learn better design and write quality code. </p><p>&nbsp; &nbsp; &nbsp;It is really important that you grasp the core concepts of SOLID thoroughly. Once you get the fundamentals right, writing quality code will come naturally to you.There are tons of free YouTube videos on SOLID, but they try to teach you in bits and pieces, and don't pick the right analogies and code snippets. What you need is a holistic picture, which is what this course aims to provide. I have spent considerable time and effort to come up with the content for this course. Each and every concept, each and every analogy, each and every code example has been meticulously picked in such a way the design principles stick to your mind. I have used graphical illustrations and real world analogies wherever possible to drive home the point.</p><p>&nbsp; &nbsp; &nbsp; Something else that is special about this course - The subtitles are hand-scripted and accurate. I have even checked the timings to guarantee accuracy. Most courses come with subtitles that are auto-generated using a Speech-To-Text Engine, the accuracy of which is fairly low. But not mine! I have taken pains to script my course to perfection and include the subtitles too. So if you are at work, and you want to put me on mute, please feel free, although I would like you to hear my voice narration. If you want to put me on mute, just enable the subtitles in Udemy and play!</p>",
+        "completion_ratio": 0,
+        "last_accessed_time": "2022-03-11T07:33:38Z",
+        "enrollment_time": "2021-11-18T19:28:57Z",
+        "num_collections": 0
+      },
+      {
+        "_class": "course",
+        "id": 3592312,
+        "title": "The Complete Design Interview Course",
+        "url": "/course/the-complete-design-interview-course/learn/",
+        "visible_instructors": [
+          {
+            "_class": "user",
+            "id": 42088110,
+            "title": "Abhijeet Desai",
+            "name": "Abhijeet",
+            "display_name": "Abhijeet Desai",
+            "job_title": "Software Professional with 7 years experience"
+          }
+        ],
+        "published_title": "the-complete-design-interview-course",
+        "tracking_id": "gGuAoPPtQSC53DXy2crKJw",
+        "description": "<p><strong>Udemy's Bestseller course for a reason! Join the course to know more!</strong></p><p><br></p><p>See what our student <strong>Jerald Macachor</strong> has to say.</p><p><strong><em>\"Great content. Excellent instructor. Very organized. System Design is somewhat daunting, this courses makes it more approachable. Highly recommended.\"</em></strong></p><p><br></p><p>System Design or High level system design - </p><p>Almost all the companies ask for the design of various systems in their System design interviews. Mainly the system design round is for experienced people but top companies like Google, Facebook, Microsoft, Amazon, etc are keen on asking the designs to even freshers. There is a dedicated one to two hours round for system design. The system design round has multiple purposes, the interviewer want to know your breadth of knowledge, they want to understand how do you approach an open ended problem and how do you handle stressful situations.</p><p>System Design is also known as High Level Design. High level design is nothing but deciding on what components we will be needing in our system, how all the components will communicate with each other as well as external systems and what we be the capacity of our system. These are important things while designing any system to make it reliable, available, consistent and efficient.</p><p>This course is designed in an incremental fashion, for the purpose of understanding. Initially, all the concepts and components of system design are discussed. A full proof step by step procedure is explained to tackle any system design problem. All the case studies are given in comprehensive manner and are designed by following these steps. </p><p><br></p><p>Low level design - Object oriented design</p><p>A detailed explanation of SOLID principles for you to become a better programmer. Learn to write quality code using </p><p>S - Single responsibility Principle</p><p>O - Open-closed Principle</p><p>L - Liskov's Substitution Principle</p><p>I - Interface Segregation Principle</p><p>D - Dependency Inversion Principle </p><p>and level up your Object oriented interviews.</p><p><br></p><p><strong>Following are the promised outputs of this course:</strong></p><p>1. You will get confidence about High Level System Design.</p><p>2. You will be able to solve any system design problem with the given procedure.</p><p>3. You will know the how to approach any problem in front of you before jumping into the design.</p><p>4. You will get better understanding of all the components of system design.</p><p>5. You will be able to participate and give your opinions in system design related discussions.</p><p>6. Your breadth of knowledge will be enlarged.</p><p>7. You can brag in front of your peers and share your knowledge.</p><p><br></p>",
+        "completion_ratio": 0,
+        "last_accessed_time": "2022-03-11T07:32:18Z",
+        "enrollment_time": "2021-11-18T19:28:56Z",
+        "num_collections": 0
+      },
+      {
+        "_class": "course",
+        "id": 1748446,
+        "title": "Preparing for the System Design Interviews V2 - End to End",
+        "url": "/course/preparing-for-system-design-interviews/learn/",
+        "visible_instructors": [
+          {
+            "_class": "user",
+            "id": 878102,
+            "title": "Tekshila Software",
+            "name": "Tekshila",
+            "display_name": "Tekshila Software",
+            "job_title": "Engineers & Trainers"
+          }
+        ],
+        "published_title": "preparing-for-system-design-interviews",
+        "tracking_id": "hyvlNbeKS8q5yhuEMZTuWg",
+        "description": "<p><strong>[September 2021 Update]:</strong> We are working on new case studies and code for existing case studies.</p><p><strong>Note: Only course that includes actual code with System Design case studies.</strong></p><p>System design interviews are very common in big software firms. They are different from coding interviews or data structure and algorithm interviews but can be harder. They require a broad set of knowledge. Almost all the top software companies, be it google, amazon, uber have one or two rounds of system design interviews. After clearing the data structures and algorithm interviews if you do well in these system design interviews you can expect a very good offer from these firms.</p><p>This is a course to help students to prepare for system design interviews. Using this you will <strong>learn system design by seeing demos, building software, understanding complex topics.&nbsp; It is both a theory and code along course with real world case studies and demos to give you in-depth knowledge rather than learning few case studies that might or might not come in an interview.</strong></p><p>&nbsp; <strong>It is an actively developed course with the aim to impart correct and good knowledge on building large scale systems. Aim is to get the student ready for a system design interview even when they have not faced a similar case study before.</strong></p><p>Some sample questions for system design interviews :</p><p>1. How would you go about designing an e-commerce website at scale ?</p><p>2. How would you go about designing the e-commerce website using microservices, how will you handle transactions ?</p><p>3. Design a chat messenger application like any famous chat messenger you have used ?</p><p>4. Create an autocomplete feature like word suggestions on search engines ? Scale it to millions of users ?</p><p>5. How would you go about creating a feed postings in a social network ? ( - Similar Patient Feed in Course with Code)</p><p>6. How would you build a large scale machine learning backend system to generate video recommendations like on Netflix ?</p><p>7. How would you build a mobile app to track your day to day health, exercise routine and sleep patterns and give you recommendations based on the stats recorded ?</p><p>8. How would you build your own CDN ?</p><p>-----------------------------------------------------------------------------------------------</p><p><strong><em>TOP&nbsp;REVIEWS :</em></strong></p><p><strong><br>Sid Hicks</strong></p><p>Rating: 5.0 out of 55 months ago</p><p>The amount of information delivered in this course is amazing. Thank you for organizing into chunks. This makes it easy to understand. Well Done!</p><p><strong><br>Rohit Dhawan</strong></p><p>Rating: 4.5 out of 58 months ago</p><p>I also went through the grokking the system design, which is mostly a reading material and the steps are the same as the ones covered here. For max bang of bucks, learning and understanding, I liked this one over the other one.</p><p><br></p><p><strong>Karthik Chinni</strong></p><p>Rating: 5.0 out of 53 months ago</p><p>I agree that the sound quality was not good in a few places. But, content delivered is really great. Was upto the point and crisp. Keep the good work going on. Cheers.</p><p><br></p><p><strong><br>Abhishek Aman</strong></p><p>Rating: 5.0 out of 56 months ago</p><p>Yes, it was really good. Could you please create more content on system design which includes more of scenario based designing rather than going behind a use case. So when I say scenario based, I mean we choose this component if the we want to serve 1m users from one box. Something of this sort.</p><p>I might sound very noob as I am stillnew to system design and learning pretty fast, but yes please take note of my request.</p><p><br></p><p><strong>Monimoy Deb Purkayastha</strong></p><p>Rating: 5.0 out of 55 months ago</p><p>I have learnt lot of system design approaches and case studies. This is very useful an well structured course</p><p><br></p><p><strong>Ahlem Mustapha</strong></p><p>Rating: 5.0 out of 55 months ago</p><p>It is a good course for anyone who has no prior knowledge about system design and who wants to start by knowing the big pictures , later in chapters there is different explanations and concepts to know. I also liked the different suggestions about the materials and resources that someone can use in order to learn more about the topic. a suggestion to add subtitles and scripts to your videos !! :)</p><p>thank you a lot</p><p>advice for improvement is: improve the voice sometimes there is echo , also write a script so people could follow with you while talking. overall thanks a lot I am halfway the course and it is so great so far</p>",
+        "completion_ratio": 2,
+        "last_accessed_time": "2022-03-11T07:26:20Z",
+        "enrollment_time": "2021-11-18T19:28:56Z",
+        "num_collections": 0
+      },
+      {
+        "_class": "course",
+        "id": 2579842,
+        "title": "Software Architecture: REST API Design - The Complete Guide",
+        "url": "/course/rest-api-design-the-complete-guide/learn/",
+        "visible_instructors": [
+          {
+            "_class": "user",
+            "id": 29720180,
+            "title": "Memi Lavi",
+            "name": "Memi",
+            "display_name": "Memi Lavi",
+            "job_title": "Senior Software Architect & Consultant"
+          }
+        ],
+        "published_title": "rest-api-design-the-complete-guide",
+        "tracking_id": "usu-eQSLQcGlJj-0qpchQw",
+        "description": "<p><strong>Every Software Architect is going to design REST API these days.</strong></p><p>REST API is the de-facto standard of the Web API&nbsp;world, and all the major websites are having it - Twitter,&nbsp;Amazon, Facebook, Google and lots and lots more.</p><p>If you're designing a web app - the developers using it will <strong>expect it to have a REST&nbsp;API.</strong></p><p>But, how can you make your REST&nbsp;API <strong>stand out</strong>? How can you convince the API&nbsp;users to actually use the API, and not just take a quick look at it and go away?</p><p>In today's world, where everyone expose REST API, it's not easy to attract developers. And if no developer will come - usage and monetization will be a problem.</p><p>The key to make your API&nbsp;stand out is to design a <strong>well thought-of API</strong>, one that is:</p><p>1. Easy to use</p><p>2. Easy to understand</p><p>3. Consistent</p><p>4. Performant</p><p>5. Just Works</p><p><br></p><p>A good Software Architect must be able to design such an API. In fact, <strong>designing the API is one of the most important tasks of the Software Architect</strong>.</p><p>In this comprehensive course, you'll get all the knowledge required for designing great, professional, REST API, using the techniques used by all industry-leading APIs.</p><p>Here are some of the topics discussed in this course:</p><p>- <strong>What is API, and what is Web API</strong></p><p>- The <strong>inner structure</strong> of REST Request and Response</p><p>- Tools that can help you simulate REST&nbsp;API calls, such as <strong>Postman </strong>and <strong>Beeceptor</strong></p><p>- The special role of <strong>HTTP&nbsp;Verbs</strong> </p><p>- How a REST API&nbsp;<strong>URL&nbsp;</strong>should look like</p><p>- What are <strong>Response Codes</strong> and why do they matter</p><p>- How to give your API&nbsp;a <strong>professional looking documentation</strong></p><p><strong>- </strong>How to add <strong>authentication and authorization</strong> to your API</p><p>- <strong>Performance techniques </strong>to improve your API responsiveness</p><p>- <strong>Monitoring</strong>&nbsp; and its importance</p><p>- And lots more...</p><p><br></p><p><strong>But that's not all...</strong></p><p>At the end of this course, you'll be able to download the <strong>REST&nbsp;API&nbsp;Checklist</strong>, a comprehensive checklist that will guide you through the process of creating the most professional and attractive REST&nbsp;API. This checklist is your go-to-guide whenever you'll design REST&nbsp;API, and as a Software Architect - you'll design a lot of REST&nbsp;API...</p><p><br></p><p>This course takes you from the absolute basics of API to the most advanced topics, known only to few. Completing this course will give you all the knowledge required for building professional REST API, and, as a bonus, will put you in a great position when looking for your next job.</p><p><strong>No other course covers this topic in such a comprehensive and thorough way</strong>. I've put all my 20+ years of experience with hundreds of clients in this course, and I'm sure you will greatly benefit of it.</p><p><br></p><p>------------------------------------------------------------</p><p><strong>What do my students have to say about my courses?</strong></p><p>------------------------------------------------------------</p><p>\"well done - The course was <strong>very practical</strong>\" - Sam </p><p>\"Good explanation on the topics covered, \"Soft Skills\" section is <strong>a great addition</strong> of topics\" - Sergio </p><p>\"[The course] <strong>given me the confidence</strong> to go out to the market and advertise myself as such [an Architect]\" - Mathew</p><p>\"<strong>Life Changing</strong>\" - Arivazhagan</p><p>And lots more...</p><p><br></p><p>------------------------------------------------------------</p><p><strong>Who is this course for?</strong></p><p>------------------------------------------------------------</p><p>Any person who is involved in web development, even system analyst, can profit from this course. </p><p>That includes:</p><p>- Junior developers</p><p>- Senior developers</p><p>- Architects</p><p>- Anyone else involved in web development</p><p>If you're not sure if this course is for you - drop me a note!</p><p><br></p><p>------------------------------------------------------------</p><p><strong>What are the prerequisites for this course?</strong></p><p>------------------------------------------------------------</p><p>In this course we'll use tools simulating REST&nbsp;API server and client (Beeceptor and Postman), so no actual coding is required.</p><p>Students are expected, however, to be able to understand simple coding snippet (there are a few), and to know how the internet is working (HTTP&nbsp;protocol, Request / Response model, and so on).</p><p>------------------------------------------------------------</p><p><strong>About Me</strong></p><p>------------------------------------------------------------</p><p>I've been in the software industry for more than 20 years, and a Software Architect for more than 17 years, working with a variety of clients - Fortune 100 enterprises, start-ups, govt. entities, defense, telco, banking, and lots more.</p><p>I'm an avid speaker and trainer, having trained thousands of students in various courses.</p><p>I love what I&nbsp;do, and my greatest passion (well, besides my family...) is designing modern, practical, and reliable systems for my clients, using the best possible API.</p>",
+        "completion_ratio": 0,
+        "last_accessed_time": "2022-03-11T07:25:04Z",
+        "enrollment_time": "2021-11-18T19:28:57Z",
+        "num_collections": 0
+      },
+      {
+        "_class": "course",
+        "id": 1159654,
+        "title": "How To Become An Outstanding Solution Architect",
+        "url": "/course/how-to-become-an-outstanding-solution-architect/learn/",
+        "visible_instructors": [
+          {
+            "_class": "user",
+            "id": 8931822,
+            "title": "Mark Farragher",
+            "name": "Mark",
+            "display_name": "Mark Farragher",
+            "job_title": "Microsoft Certified Trainer"
+          }
+        ],
+        "published_title": "how-to-become-an-outstanding-solution-architect",
+        "tracking_id": "Au1gsjXHTOK5_gjki-273g",
+        "description": "<p><strong>Last updated on November 21, 2017 - added homework results</strong></p>Are you a developer, or a lead developer, or a solution architect in an IT project team? Would you like to learn how to become an <strong>outstanding</strong> solution architect? <br>\n\n\n\n\n\n\n\n\n\n\n\n<p>The solution architect is the person who creates the high-level <strong>abstract technical design</strong> of the entire solution, and this design is then handed over to the the development team for implementation. The architect is responsible for all technology decisions in the project. This is an extremely important role. </p>\n\n\n\n\n\n\n\n\n\n\n\n<p>The job also has a really nice pay, it comes with a lot of responsibility, and you get to talk to pretty much everybody in the organization, including the executives and the CEO. This is an extremely high-level and important function to be in. </p>\n\n\n\n\n\n\n\n\n\n\n\n<p>Would you like to learn how to become an outstanding architect? </p>\n\n\n\n\n\n\n\n\n\n\n\n<p><strong>Let me help you!</strong></p>\n\n\n\n\n\n\n\n\n\n\n\n<p>I will teach you all the skills you need to become an outstanding solution architect. I will not only teach you how to create an awesome architecture design, but I will also teach you all the <strong>soft skills</strong> you will need to really shine in this role and make an impression on your peers.</p>\n\n\n\n\n\n\n\n\n\n\n\n<p>This course contains a lot of material to get you on your way. We'll cover how the architect operates in an IT team, which soft skills are required to become an outstanding architect, and which extra responsibilities you can take on to really make an impression on your peers.</p>\n\n\n\n\n\n\n\n\n\n\n\n<p>I will teach you how to create great architectures, we will discuss all common <strong>architecture design patterns</strong>, and I will also show you how to design these patterns in <strong>UML</strong>. And we're going to look at all important quality attributes and architecture concerns. Finally, we'll take a closer look at caching, exception management, and deployment scenarios.  </p>\n\n\n\n\n\n\n\n\n\n\n\n<p><strong>Why should you take this course?</strong></p>\n\n\n\n\n\n\n\n\n\n\n\n<p>Are you preparing for a job interview? Or are you in a large IT project right now? Are you the lead developer and do you wish to become a solution architect? Or are you already an architect and want to take your skills to the next level? Then this is the course for you! </p>\n\n\n\n\n\n\n\n\n\n\n\n<p><strong>30 day money-back guarantee</strong>\n</p>\n\n\n\n\n\n\n\n\n\n\n\n<p><em>This course comes with an unconditional, Udemy backed, 30-day money-back guarantee. If you are dissatisfied with the course for any reason, simply request a refund and get your full purchase amount back, no questions asked.</em></p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n<p><strong>Act now</strong></p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n<p>This course today contains over 7 hours of video content. Enroll now to benefit from the current price and get free lifelong access to all of the content.</p>",
+        "completion_ratio": 2,
+        "last_accessed_time": "2022-03-11T07:22:29Z",
+        "enrollment_time": "2021-11-18T19:28:56Z",
+        "num_collections": 0
+      },
+      {
+        "_class": "course",
+        "id": 1485968,
+        "title": "Setup Development Environment for Python 3 and Pyspark 3",
+        "url": "/course/draft/1485968/learn/",
+        "visible_instructors": [
+          {
+            "_class": "user",
+            "id": 22663786,
+            "title": "Durga Viswanatha Raju Gadiraju",
+            "name": "Durga Viswanatha Raju",
+            "display_name": "Durga Viswanatha Raju Gadiraju",
+            "job_title": "CEO at ITVersity and CTO at Analytiqs, Inc"
+          }
+        ],
+        "published_title": "python-and-spark-setup-development-environment",
+        "tracking_id": "ZY6X4wK-QWqkN2jSe18S7Q",
+        "description": "<p>As part of the course, you will learn step by step process of how to set up a local development environment to develop Python-based Spark applications using a remote development extension pack. You will be leveraging wsl that comes out of the box with Windows 10 or 11 along with tools like Visual Studio code. Here is the basic outline of what you are going to learn as part of this hands-on course. By the end of this free course, you will have a proper development environment on your Windows 10 or 11 PC.</p><ul><li><p>Overview of IDEs and Visual Studio Code</p></li><li><p>Download and Install Visual Studio Code</p></li><li><p>Add Remote Development Extension Pack to Visual Studio Code</p></li><li><p>Validate HDFS on Multi-Node Hadoop and Spark Cluster from Gateway Node</p></li><li><p>Validate Hive on Hadoop and Spark Multinode Cluster</p></li><li><p>Review Hadoop HDFS and YARN Property Files on Hadoop and Spark Cluster</p></li><li><p>Review Hadoop HDFS and YARN Property Files using Visual Studio Code Editor</p></li><li><p>Review Hive Property Files on Multi-node Hadoop and Spark Cluster</p></li><li><p>Review Spark 2 Property Files and Important Properties</p></li><li><p>Validate Spark Shell CLI using Spark 2</p></li><li><p>Validate Pyspark CLI using Spark 2</p></li><li><p>Validate Spark SQL CLI using Spark 2</p></li><li><p>Review Spark 3 Property Files and Important Properties</p></li><li><p>Validate Spark Shell CLI using Spark 3</p></li><li><p>Validate Pyspark CLI using Spark 3</p></li><li><p>Validate Spark SQL CLI using Spark 3</p></li><li><p>Setup Project for Spark Application using VS Code Remote Development</p></li><li><p>Develop Application using Spark Data Frame APIs</p></li><li><p>Run and Validate Application using Spark Submit</p></li><li><p>Conclusion and resources to learn Spark 3 using Python 3</p></li></ul><p>By the end of the free course, one will be able to set up a development environment to develop Spark3 applications using Python3.</p>",
+        "completion_ratio": 0,
+        "last_accessed_time": "2022-03-11T07:21:23Z",
+        "enrollment_time": "2021-11-17T06:30:10Z",
+        "num_collections": 0
+      },
+      {
+        "_class": "course",
+        "id": 2682210,
+        "title": "AWS Certified Data Analytics Specialty Practice Exams",
+        "url": "/course/aws-certified-data-analytics-specialty-practice-exams-amazon/learn/",
+        "visible_instructors": [
+          {
+            "_class": "user",
+            "id": 116422,
+            "title": "Jon Bonso | AWS Certified Solutions Architect Professional",
+            "name": "Jon",
+            "display_name": "Jon Bonso | AWS Certified Solutions Architect Professional",
+            "job_title": "10x AWS Certified Solutions Architect Professional"
+          },
+          {
+            "_class": "user",
+            "id": 47074526,
+            "title": "Tutorials Dojo | AWS Certified Cloud Practitioner, AWS Certified Solutions Architect, AWS Certified Developer",
+            "name": "Tutorials Dojo | AWS Certified Cloud Practitioner,",
+            "display_name": "Tutorials Dojo | AWS Certified Cloud Practitioner, AWS Certified Solutions Architect, AWS Certified Developer",
+            "job_title": "AWS Certifications, Azure Certifications, Google Cloud"
+          },
+          {
+            "_class": "user",
+            "id": 69427166,
+            "title": "Carlo Acebedo | AWS Certified Developer Associate | AWS Professional",
+            "name": "Carlo",
+            "display_name": "Carlo Acebedo | AWS Certified Developer Associate | AWS Professional",
+            "job_title": "Cloud Engineer, Content Creator"
+          },
+          {
+            "_class": "user",
+            "id": 120353310,
+            "title": "Tutorials Dojo Support",
+            "name": "Tutorials Dojo",
+            "display_name": "Tutorials Dojo Support",
+            "job_title": "Answering All Your Technical Questions"
+          }
+        ],
+        "published_title": "aws-certified-data-analytics-specialty-practice-exams-amazon",
+        "tracking_id": "uYWKPc-8SFe3c9zxYBCfyA",
+        "description": "<p>The <strong>AWS Certified Data Analytics Specialty</strong> ( DAS-C01 ) exam is intended for individuals who perform in a data analytics-focused role. This exam validates an examinee’s comprehensive understanding of using AWS services to design, build, secure, and maintain analytics solutions that provide insight from data. Take your career and salary to the next level with an <strong>AWS Certified Data Analytics Specialty</strong> certification! </p><ul><li><p><strong>100 TOP-NOTCH Questions</strong> - has 1 Diagnostic Test, 1 Full Test, and 4 Domain-based Tests in Timed Mode.</p></li></ul><ul><li><p><strong>FREE EXCLUSIVE 3-MONTH ACCESS TO THE TUTORIALS DOJO PORTAL - EXAM SIMULATOR</strong> (registration required) - An optional feature that contains a Review Mode that lets you see the answers right away as you go through each question!</p></li></ul><ul><li><p><strong>SIMULATES ACTUAL EXAM ENVIRONMENT</strong> - mimics the actual, and the latest AWS Certified Data Analytics Specialty exam to help you pass and even ace the AWS exam!</p></li></ul><ul><li><p><strong>DETAILED EXPLANATIONS, REFERENCE LINKS, AND CHEAT SHEETS</strong> - our answer keys at the end of each set have full and detailed explanations along with complete reference links so you can check and verify yourself that the answers are correct. Plus bonus cheat sheets to help you better understand the concepts.</p></li></ul><ul><li><p><strong>EXAM STUDY GUIDE</strong> - this is added as a reference in the explanations in the practice tests. They are based on our own exam experience and intense research on the most important topics and most helpful resources to help you pass the exam.</p></li></ul><ul><li><p><strong>ACTIVE Q&amp;A DISCUSSION BOARD</strong> - with inputs from the instructors and exam feedback from our students, our Q&amp;A board gives you the opportunity to <strong>know which topics recently appeared on the exam</strong> and better understand the AWS services and concepts covered in the test.</p></li></ul><ul><li><p><strong>VERY RESPONSIVE INSTRUCTORS</strong> - our friendly team of AWS experts is able to address all your issues and questions within 3-5 business days.</p></li></ul><ul><li><p><strong>CONTAINS A TEST REPORT</strong> - to track your progress and show you which Knowledge Areas you need improvement.</p></li></ul><ul><li><p><strong>MOBILE-COMPATIBLE</strong> - so you can conveniently review everywhere, anytime with your smartphone!</p></li></ul><ul><li><p><strong>HAS BETTER VALUE THAN OFFICIAL AWS PRACTICE TEST</strong> - which is worth about $20 but only contains about 20 - 40 questions.</p></li></ul><ul><li><p><strong>CLEAR AND ERROR-FREE QUESTIONS</strong> - Each item has a reference link that can validate the answer but you can also post to the QA section so we can discuss any issues.</p></li></ul><ul><li><p><strong>Prepared by AWS Certified Data Analytics </strong>professionals<strong> </strong>who actually passed the AWS Data Analytics Specialty exam! (Please see our LinkedIn profile to view our AWS Certificates)</p></li></ul><p><br></p><p>We also offer FREE access to the Exam Simulator in our Tutorials Dojo portal just as mentioned above. This unique Exam Simulator contains additional features that are currently not present in the Udemy platform including a <strong>Review Mode </strong>where you can <strong>see the answers right away </strong>as you go through each question, plus BONUS flashcards which are visual aids containing some important concepts that you need to know before taking the exam. </p><p><strong>NOTE:</strong> You will find the link to the exam simulator as well as the access details via our Welcome Message, which you will receive once you enroll in our course. If you can't see our Welcome Message, kindly send us a direct/private message here on&nbsp;Udemy to request access. Someone from our team will respond with details on how to access the Exam Simulator within 3-5 business days. Also note that this is just an <strong>optional</strong> feature and registration is required in the Tutorials Dojo portal (using your name and email address) once you receive your access details. </p><p><br>Some people are using brain dumps for the <strong>AWS DAS-C01</strong> exam which is totally absurd and highly unprofessional because these dumps will not only hinder you from attaining an in-depth AWS knowledge, these can also result with you failing the actual AWS certification exam since Amazon regularly updates the exam coverage.</p><p>Please also note that these <strong>AWS practice tests</strong> are not exam dumps and since Amazon shuffles the actual exam content from a question bank with hundreds of questions, it is nearly impossible to match what you can see here with the actual tests. Again, the key to passing the AWS certification exam is a good understanding of AWS services and this is what our <strong>AWS Certified Data Analytics Specialty</strong> practice tests are meant to do.</p><p>These <strong>AWS Data Analytics Specialty practice exams</strong> are designed to focus on the important exam domains such as Processing and Storage and Data Management, hence, the aforementioned topics have more questions than the other domains/knowledge areas. The number of questions on each topic was carefully selected based on the domains listed in the official AWS DAS exam guide.</p><p>There are a lot of existing <strong>AWS Practice Tests</strong> in the market, however, most of them contain both technical and grammatical errors that may cause you to fail the actual exam. There are also official certification practice exams provided by AWS but these only have 20 or 40 questions and cost 20 or 30 USD -- a price that is comparable with having these 100 Unique and Timed Amazon Web Services practice questions! </p><p>We gave a considerable amount of effort to create and publish these <strong>AWS Certified Data Analytics Specialty</strong> practice tests, including the laborious task of checking each item for any errors. We are confident that this will significantly help you pass your Data Analytics Specialty exam. All the best!</p><p><br></p><p><strong>IMPORTANT NOTE</strong> </p><p>These AWS Certified Data Analytics Specialty practice exams have a passing score of 75% but we highly encourage you to repeat taking these exams again and again until you consistently reach a score of 85% or higher on each exam. </p><p>Remember that using this product alone does not guarantee you will pass the exam as you still need to do your own readings and hands-on exercises in AWS. Nonetheless, these Data Analytics practice exams provide a comprehensive assessment on which knowledge area you need improvement on and even help you achieve a higher score!</p>",
+        "completion_ratio": 0,
+        "last_accessed_time": "2022-03-11T07:21:09Z",
+        "enrollment_time": "2021-10-18T05:24:50Z",
+        "num_collections": 0
+      },
+      {
+        "_class": "course",
+        "id": 856526,
+        "title": "The Build a SAAS App with Flask Course",
+        "url": "/course/the-build-a-saas-app-with-flask-course/learn/",
+        "visible_instructors": [
+          {
+            "_class": "user",
+            "id": 16148498,
+            "title": "Nick Janetakis",
+            "name": "Nick",
+            "display_name": "Nick Janetakis",
+            "job_title": "Developer / Docker Captain / Teacher"
+          }
+        ],
+        "published_title": "the-build-a-saas-app-with-flask-course",
+        "tracking_id": "9n7TJ2NGRgy4kRadnpLyWw",
+        "description": "<p><strong>Do you want to create an awesome web application but aren’t sure where to start?</strong></p>\n\n<p>Hi, I’m Nick and for the last year I've been teaching thousands of happy\nstudents how to deploy web applications with Docker.</p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<p><strong>Now I want to teach you how to develop PRODUCTION READY web applications with\nconfidence.</strong></p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<p>Most learning material out there only teaches you how to build <em>toy examples</em>\nand throw out lines like “you wouldn’t want to do this in production…”, <strong>but\nthen they never tell you the REAL way to do it</strong>.</p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<p>Imagine how awful you’d feel after spending your time and hard earned money but\nstill had to do a ton of research to complete your project. I’ve been there,\ndone that and it’s not fun.</p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<p>Instead, <strong>a large portion of the code base in my course is battle hardened from running in production on multiple projects</strong>.</p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<p>I’ll be at your side explaining my thought process along the way while we build\nup a multi thousand line application together.</p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<p>You’re going to walk away with everything you need to <strong>feel confident building\nyour own web applications.</strong></p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<p><em>\"Wow, what an amazing resource you've made. The app source is amazingly concise (clearly years of experience distilled). Honestly, it's the handsomest web app code base I've ever seen. - David N.\"</em></p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<br><strong></strong>\n\n\n\n\n\n\n\n\n\n\n\n<strong>Here’s just some of what you’ll learn by taking my course:</strong>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<ul><li>Learn how to use Docker to “Dockerize” a web application</li><li>Learn what Flask is and how to use its features in your applications</li><li>Learn how to create a Python 2 and 3 compatible code base</li><li>Learn how to use PostgreSQL, Redis and Celery with Flask</li><li>Create a full blown user management system</li><li>Create a flexible custom admin interface</li><li>Accept both recurring and microtransaction credit card payments</li><li>Deal with both HTML template and JSON responses</li><li>Logging, middleware and error handling</li><li>Database migrations and internationalization (i18n)</li></ul>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<p><br></p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<p><em>\"I have been working with Flask for the past 3 years and have been a technical reviewer on the Mastering Flask Packt book, even so, I am learning so much form you! - Pedro B.\"</em><br></p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<br><strong></strong>\n\n\n\n\n\n\n\n\n\n\n\n<strong>What makes Flask awesome?</strong>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<ul><li>Based on one of the most popular computer languages in the world (Python)</li><li>Minimalistic and easy to get started</li><li>Lightning fast (Pinterest’s API serves 12+ billion requests / day with Flask)</li><li>Vibrant community and ecosystem (hundreds of high quality extensions)</li><li>Profitable for freelancing and consulting</li></ul>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<strong>Why is Docker worth using?</strong>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<ul><li>Saves you from a ton of headaches when setting up development environments</li><li>Easily move an application across environments or servers</li><li>Prevents issues such as “well, it worked on my machine!”</li><li>Makes developing with teams a much more pleasant experience</li><li>You won’t need expensive hosting to deploy your web applications</li></ul>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<p><br></p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<p>You won’t just become a Flask master by taking my course but you’ll also gain the confidence in developing web applications so that <strong>you can command the hourly rates\nyou deserve as a software developer</strong>.</p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<p>This could be done through increasing your rates as a freelancer or negotiating\na higher salary at your job. In my years working as a consultant and talking to\na lot of developers, I discovered that most developers are not confident in their\nability to fulfill work that is requested of them.</p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<p><strong>Some of them are even afraid to bid on or accept contract work.</strong></p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<p>This is actually a very common problem and is described as “Impostor Syndrome”.\nI’ve suffered from it for a long time and it has cost me tens of thousands of\ndollars and now I want to save you the hardship of making the same mistake.</p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<p><strong>You might be thinking “Nick, how in the world is a course on Flask going to let\nme raise my rates?”</strong> and that’s a great question but before I answer that, let’s\njust play around with a few numbers:</p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<ul><li>If you work 20 hours a week for the next year at $30/hour then you would stand to make $31,200.</li><li>After you double your rate then you would make $62,400 instead.</li></ul>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<p><br></p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<p>Wouldn’t you want an extra 30k in your pocket every year? You know, the only\nreal difference between a $30/hour and $60/hour developer is their mindset.</p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<p>One of them believes they can fulfill the job, while the other struggles to\nbelieve in themselves.</p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<p><strong>How will Build a SAAS App with Flask help you generate more income?</strong></p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<p>Simple, you’re going to get a battle hardened web application that you can use\nas a bulletproof base for your next project. You won’t have to sit there second\nguessing yourself while researching everything on your own.</p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<p>You’re getting well tested code that’s been running in production. <strong>Tons of\nedge cases have been ironed out</strong>, and <strong>features were added due to real life\nneeds</strong>. Not only that, but I’ll be at your side explaining everything to you\nwhile you make your way through the course.</p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<p>You’re going to <strong>see how the application gets built up from a single file,\nall the way to a 4,000+ line project</strong> that spans across dozens of files and folders.</p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<p>If that’s not enough, I’ll be available to answer any questions you have in the\ncourse’s forums and <strong>all of my courses come with an unbeatable 30 day guarantee</strong>\nthat’s 100% RISK FREE. If you don’t love the course then I insist you get a\n100% refund – no questions asked.</p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<p><em>\"Definitely delivers on hours and sanity saved! Comprehensive and well worth it. - B.C.\"<br></em></p>",
+        "completion_ratio": 0,
+        "last_accessed_time": "2022-03-11T07:20:10Z",
+        "enrollment_time": "2020-11-20T04:51:52Z",
+        "num_collections": 1
+      }
+    ]
+  }

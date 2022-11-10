@@ -1,0 +1,315 @@
+{
+    "count": 206,
+    "next": "https://www.udemy.com/api-2.0/users/me/subscribed-courses/?fields%5Bcourse%5D=completion_ratio%2Cenrollment_time%2Clast_accessed_time%2Cnum_collections%2Cpublished_title%2Ctitle%2Ctracking_id%2Curl%2Cdescription%2Cvisible_instructors&fields%5Buser%5D=%40min%2Cjob_title&is_archived=false&ordering=-last_accessed&page=9&page_size=12",
+    "previous": "https://www.udemy.com/api-2.0/users/me/subscribed-courses/?fields%5Bcourse%5D=completion_ratio%2Cenrollment_time%2Clast_accessed_time%2Cnum_collections%2Cpublished_title%2Ctitle%2Ctracking_id%2Curl%2Cdescription%2Cvisible_instructors&fields%5Buser%5D=%40min%2Cjob_title&is_archived=false&ordering=-last_accessed&page=7&page_size=12",
+    "results": [
+      {
+        "_class": "course",
+        "id": 946194,
+        "title": "Tableau 2022 Advanced: Master Tableau in Data Science",
+        "url": "/course/tableau10-advanced/learn/",
+        "visible_instructors": [
+          {
+            "_class": "user",
+            "id": 2364054,
+            "title": "Kirill Eremenko",
+            "name": "Kirill",
+            "display_name": "Kirill Eremenko",
+            "job_title": "Data Scientist"
+          },
+          {
+            "_class": "user",
+            "id": 27129696,
+            "title": "Ligency I Team",
+            "name": "Ligency I",
+            "display_name": "Ligency I Team",
+            "job_title": "Helping Data Scientists Succeed"
+          },
+          {
+            "_class": "user",
+            "id": 150405524,
+            "title": "Ligency Team",
+            "name": "Ligency",
+            "display_name": "Ligency Team",
+            "job_title": "Helping Data Scientists Succeed"
+          }
+        ],
+        "published_title": "tableau10-advanced",
+        "tracking_id": "QtQpuY0VR32AG0kQNuBgCw",
+        "description": "<p>Tableau 2022 Advanced Training: Master Tableau in Data Science</p><p>Master Tableau 2022 in Data Science by solving Real-Life Analytics Problems. Learn Visualisation and Data Mining by doing!</p><p>Ready to take your Tableau skills to the next level?</p><p>Want to truly impress your boss and the team at work?</p><p><strong>This course is for you!</strong></p><p>Hours of professional Tableau Video training, unique datasets designed with years of industry experience in mind, engaging exercises that are both fun and also give you a taste for <strong>Analytics of the REAL WORLD.</strong></p><p>In this course you will learn:</p><ul><li><p>How to use Groups and Sets to increase your work efficiency 10x</p></li><li><p>How to use Dynamic Sets</p></li><li><p>How to Control Sets With Parameters</p></li><li><p>Everything about Table Calculations and how to use their power in your analysis</p></li><li><p>How to perform Analytics and Data Mining in Tableau</p></li><li><p>How to create Animations in Tableau</p></li><li><p>And much, much more!<br></p></li></ul><p>Each module is independent so you can <strong>start learning from wherever you see fit. </strong>The more you learn the better you will get. However, you can stop at any time you will still have a strong set of skills to take with you.</p><p>Each module is based on a unique case study, where you will need to apply Tableau in a practical way and learn theory by doing.</p><p><br></p><p><br></p><p><br></p>",
+        "completion_ratio": 0,
+        "last_accessed_time": "2022-03-11T07:17:59Z",
+        "enrollment_time": "2019-12-31T17:53:09Z",
+        "num_collections": 0
+      },
+      {
+        "_class": "course",
+        "id": 1311030,
+        "title": "Process Flowcharts & Process Mapping - The Beginner's Guide",
+        "url": "/course/process-mapping-process-flowcharts/learn/",
+        "visible_instructors": [
+          {
+            "_class": "user",
+            "id": 14738472,
+            "title": "The BA Guide | Jeremy Aschenbrenner",
+            "name": "The BA Guide",
+            "display_name": "The BA Guide | Jeremy Aschenbrenner",
+            "job_title": "Business Analysis Trainer, Best Selling Instructor"
+          }
+        ],
+        "published_title": "process-mapping-process-flowcharts",
+        "tracking_id": "vPA5y84yRyO9flWYuO5h2w",
+        "description": "<p><strong>LEARN HOW TO EFFICIENTLY AND EFFECTIVELY FIND THE PROBLEM AREAS IN YOUR ORGANIZATION’S BUSINESS PROCESSES – AND THEN SOLVE THEM.</strong></p><p><strong>Discover how to model process flowcharts that bring business processes to life, mapping them out clearly, enabling lower costs and improved efficiency for the organization.</strong></p><p>When a problem arises in a business it isn’t always easy to see <em>why </em>that problem is happening – often, all you end up seeing are the symptoms.</p><p>One of the core requirements of any successful Business Analyst is using Business Analysis techniques to create practical process maps and process flowcharts.</p><p>Having clearly set-out visual tools makes it easier to read and understand exactly what <em>should</em> be happening, as well as who is responsible for each task. Thus, allowing organizations to react to problems that come up and changes in the marketplace.</p><p><em>Course enrollment grants you lifetime access, with no expiration, to all the course lectures, activities, handouts, and quizzes. In addition, you’ll also receive 1-on-1 support for any questions or uncertainties that come up. And this all comes with a </em><strong><em>money-back guarantee</em></strong><em>. You have nothing to lose and so much to gain.</em></p><p><em>Note - All of the teaching, templates, and solutions in the flowchart courses make use of Draw io – a free online flowcharting tool – instead of a paid program, in order to ensure all students are able to follow along with activities.</em></p><p><strong><em>Looking to get ECBA&nbsp;certified? - This course qualifies for 3.5 hours of Professional Development</em></strong></p><p><br></p><p><strong>What’s included in this course?</strong></p><p>This course will teach you from the ground up, dealing with everything from flowcharting concepts, various symbols and their uses, flow chart levels, and beyond.</p><ul><li><p><strong>High-Quality Video Lectures </strong>explain the complex terms and confusing jargon to ensure you get a concrete understanding of the concepts being discussed</p></li><li><p><strong>Downloadable Handouts </strong>enhance your understanding further</p></li><li><p><strong>Quizzes and over a dozen different activities </strong>validate your learning and increase information retention as well as understanding.</p></li><li><p><strong>1-on-1 Support </strong>means that any confusion or questions you have can be addressed and cleared up easily (no more frantically googling trying to figure out what your course instructor means).</p></li><li><p><strong>Lifetime Access with NO Expiration </strong>so you can learn at your own pace, and come back at any time you feel unsure or need a refresher</p></li></ul><p>This is <strong>the most comprehensive process mapping course on the market</strong>, and it’ll walk you through, step-by-step, everything you need to know in a practical and easy to understand way.</p><p>Each lesson and subsequent activities build upon the previous skills you’ve learned, so by the end, you’ll be completely comfortable creating flowcharts for any business processes you encounter.</p><p><br></p><p><strong>Just ask the students who’ve already taken this course:</strong></p><p> \" I thought I had a good understanding of flowcharts, I was incorrect. It's more than knowing what shapes to use. This course taught me what I need to know, especially for organizing the shapes into a meaningful flowchart. I really love that I'll be able to use and understand swim lanes (I didn't even know what they were called).” <strong>- Jamie</strong></p><p> “Very informative and easy to understand. For someone who has not experienced any lessons on flowcharts, I seem to have grasped how flowcharts can be made and how it can impact certain business processes.” <strong>– Rouel</strong></p><p> “This course is very insightful and at the right speed for beginners wanting to know basics in process mapping. The activities are very helpful and at the right difficulty level where you do learn things and it is not just a very simple exercise that you could have done without the course.” <strong>– Maria</strong></p><p><br></p><p><strong>The BA Guide’s TEACH, SHOW, DO technique</strong></p><p>This course makes use of <strong>The BA Guide’s TEACH, SHOW, DO </strong>technique – a method I’ve developed over my years of experience in the industry training and managing Business Analysts. This technique will help ensure you with total comprehension of the topic at hand and maximum information retention long after the course is finished.</p><ul><li><p><strong>TEACH – </strong>You first learn the concept, in detail, from the ground up. But I won’t simply teach you the concept in isolation – you’ll learn HOW and WHEN to use it too.</p></li><li><p><strong>SHOW –</strong> Once you fully understand the concept, we enhance that by walking you step-by-step through real-world examples – so you can see exactly how the concept would pan out if you were to apply it in the real world.</p></li><li><p><strong>DO –</strong> Firmly cement everything you’ve learned so far and put your new knowledge to the test by completing the included activities and quizzes. Validate you’ve fully understood the concept and greatly increase your ability to retain the information you’ve learned.</p></li></ul><p>“Tell me and I forget. Teach me and I remember. Involve me and I learn” – <em>Benjamin Franklin</em></p><p><br></p><p><strong>What bonuses are included?</strong></p><p>As anyone who has studied one of my courses before will know, it simply wouldn’t be a course by The BA Guide if I didn’t include some value-packed bonus material!</p><ul><li><p>Draw io Process Flowchart Template</p></li><li><p>Draw io Process Flowchart Template – Multi-Levels</p></li><li><p>PowerPoint Slide decks (in PDF form)</p></li><li><p>Source files for activity solutions</p></li><li><p>And more… <strong>(seriously! There are like 40 downloads for this course!)</strong></p></li></ul><p>In addition to all the tools you’ll need to start modeling process flowcharts, you’ll also get a foot into the industry by way of an <strong>industry expert</strong>…</p><p>I’m not just the instructor who wrote this course, I will also act as both a resource and a mentor to guide you to a long and rewarding career in Business Analysis!</p><p><br></p><p><strong>You will love this course, just like these students did!</strong></p><p> \"He has a very good way to explain things, and also thinking in not native English speakers like me, he has a very understandable accent. I enjoyed very much this course, I'm going to apply what I learned here in a real project. This is the perfect first course to learn process mapping, and I'm sure after this I'm going to be able to learn more just reading about process mapping.” <strong>– Marcos</strong></p><p> \"Jeremy does what many instructors in Udemy fail: explains concepts thoroughly without being repetitive or boring. I really enjoyed this course. Some say that you know you had a great learning session when you end up with more questions. I do, and I would like to know many more concepts that the course did not explore, but now I feel confident on how to approach further into Process Flowcharts. I even used it for my job. Cannot recommend it highly enough.” <strong>- Jose</strong></p><p><br></p><p><strong>Why should I enroll?</strong></p><p>Process flowcharting is an essential part of business at any level – since you will be seeing and working with process flowcharts no matter your role, this course will be useful to you even if you are not a Business Analyst.</p><p>If you’re an aspiring Business Analyst these skills will <strong>give your resume a huge boost </strong>as well as provide you with the knowledge to <strong>confidently answer any related interview questions.</strong></p><p>For current Business Analysts, these skills will result in <strong>more effective problem solving</strong>. Any issues that arise in your organization’s business processes will be easily dealt with thanks to the <strong>clear and comprehensive process charts you’ve produced for them.</strong></p><p>Finally, I believe in respecting my students’ time – and I want to teach you what you need to know to successfully utilize these models <strong>without bogging you down in unnecessary details or theory</strong>. That’s why the process flowchart modeling techniques taught in this course are taught with <strong>no fluff added</strong>.</p><p><br></p><p><strong>Still not convinced?</strong></p><p>And if you’re <strong><em>still </em></strong>not sure – here’s my promise to you:</p><p>This course comes with a <strong>30-day money-back guarantee! </strong>That means, if you aren’t completely satisfied with your purchase, I’ll give you a refund – no questions asked!</p><p><strong>By the end of this course, you’ll understand the fundamentals of creating process flowcharts to give you a clear overview of how your organization’s business processes work – allowing you easily spot problems or inefficiencies, and deal with them effectively.</strong></p><p>So, if you’re ready to save your organization time and money and be known as the go-to problem-solving Business Analyst who has a knack for finding out <em>exactly </em>what’s gone wrong <em>every time</em>, then <strong>enroll today </strong>and start learning how best to map process flowcharts.</p>",
+        "completion_ratio": 0,
+        "last_accessed_time": "2022-03-11T07:15:15Z",
+        "enrollment_time": "2020-07-29T06:36:25Z",
+        "num_collections": 0
+      },
+      {
+        "_class": "course",
+        "id": 1919064,
+        "title": "The Complete Hands-On Introduction to Apache Airflow",
+        "url": "/course/the-complete-hands-on-course-to-master-apache-airflow/learn/",
+        "visible_instructors": [
+          {
+            "_class": "user",
+            "id": 4949880,
+            "title": "Marc Lamberti",
+            "name": "Marc",
+            "display_name": "Marc Lamberti",
+            "job_title": "Apache Airflow Expert, Big Data Engineer"
+          }
+        ],
+        "published_title": "the-complete-hands-on-course-to-master-apache-airflow",
+        "tracking_id": "keE7uuWLRj-vZP8vTqjZbg",
+        "description": "<p>Apache Airflow is an open-source&nbsp; platform to programmatically author, schedule and monitor workflows. If you have many ETL(s) to manage, Airflow is a must-have.</p><p>In this course you are going to learn everything you need to start using Apache Airflow through theory and pratical videos. Starting from very basic notions such as, what is Airflow and how it works, we will dive into advanced concepts such as, how to create plugins and make real dynamic pipelines.</p>",
+        "completion_ratio": 0,
+        "last_accessed_time": "2022-03-11T07:15:01Z",
+        "enrollment_time": "2021-07-06T02:31:16Z",
+        "num_collections": 1
+      },
+      {
+        "_class": "course",
+        "id": 1699208,
+        "title": "The Flask Mega-Tutorial (Python Web Development)",
+        "url": "/course/flask-mega-tutorial/learn/",
+        "visible_instructors": [
+          {
+            "_class": "user",
+            "id": 48487934,
+            "title": "Miguel Grinberg",
+            "name": "Miguel",
+            "display_name": "Miguel Grinberg",
+            "job_title": "Software Engineer"
+          }
+        ],
+        "published_title": "flask-mega-tutorial",
+        "tracking_id": "nDngRi2fS8y-XvqpZtL_ew",
+        "description": "<p>The Flask Mega-Tutorial is an overarching tutorial for Python beginner and intermediate developers that teaches web development with the <span>Flask</span> framework. The tutorial was born as a series of blog articles, and has been thoroughly revised, updated and expanded as a result of a successful <span>Kickstarter campaign</span>. The concepts that are covered go well beyond Flask, including a wide range of topics Python web developers need to know when writing their own applications.</p>\n\n<p>The goal of the course is to build a nicely featured social blogging web application. Chapter 1 begins with a very simple version of this application that has just a few lines of code. Then, each successive chapter adds a new feature to it. The 23 chapters in this course can be roughly split into two parts: the first 12 chapters are focused on basic web development concepts, while the remaining 11 chapters cover intermediate and advanced techniques. All the code featured in this tutorial is open source, and is available on <span>GitHub</span>. You are welcome to use any of it for your own projects!</p>\n\n<p>This edition of the tutorial includes over 11 hours of video showing how to perform all the steps in detail. For added context, the blog articles from where this tutorial originated are available on Miguel Grinberg's blog.</p>",
+        "completion_ratio": 10,
+        "last_accessed_time": "2022-03-11T07:13:51Z",
+        "enrollment_time": "2020-11-20T04:51:52Z",
+        "num_collections": 1
+      },
+      {
+        "_class": "course",
+        "id": 970600,
+        "title": "REST APIs with Flask and Python in 2022",
+        "url": "/course/rest-api-flask-and-python/learn/",
+        "visible_instructors": [
+          {
+            "_class": "user",
+            "id": 766460,
+            "title": "Jose Salvatierra",
+            "name": "Jose",
+            "display_name": "Jose Salvatierra",
+            "job_title": "Founder of Teclado and Software Engineer"
+          },
+          {
+            "_class": "user",
+            "id": 56052134,
+            "title": "Teclado by Jose Salvatierra",
+            "name": "Teclado",
+            "display_name": "Teclado by Jose Salvatierra",
+            "job_title": "Software Development For Everyone"
+          }
+        ],
+        "published_title": "rest-api-flask-and-python",
+        "tracking_id": "TuWVz4MWQaui_Db3-7Welw",
+        "description": "<p><strong>Are you tired of boring, outdated, incomplete, or incorrect tutorials?</strong> I say no more to copy-pasting code that you don’t understand.</p><p>Welcome to the bestselling REST&nbsp;API course on Udemy! I'm Jose. I'm a software engineer, here to help you truly understand and develop your skills in web and REST&nbsp;API development with Python, Flask, and Docker.<br></p><p><strong>Production-ready REST&nbsp;APIs with Flask</strong></p><p>This course will guide you in creating <strong>simple, intermediate, and advanced</strong> REST APIs including <strong>authentication</strong>, <strong>deployments</strong>, <strong>databases</strong>, and <strong>much more</strong>.</p><p>We'll start with a Python refresher that will take you from the very basics to some of the most advanced features of Python—that's all the Python you need to complete the course.</p><p>Using <strong>Flask</strong> and popular extensions <strong>Flask-Smorest</strong>, <strong>Flask-JWT-Extended</strong>, and <strong>Flask-SQLAlchemy</strong> we will dive right into developing complete, solid,&nbsp;production-ready REST&nbsp;APIs.</p><p>We will also look into essential technologies like <strong>Git</strong> and database migrations with <strong>Alembic</strong>.</p><p><br></p><p><strong>You'll be able to...</strong></p><ul><li><p>Create resource-based, production-ready REST&nbsp;APIs using Python, Flask, and popular Flask extensions;</p></li><li><p>Handle secure user registration and authentication with Flask.</p></li><li><p>Using SQLAlchemy and Flask-SQLAlchemy to easily and efficiently store resources to a database; and</p></li><li><p>Understand the complex intricacies of deployments of Flask REST&nbsp;APIs.</p></li><li><p>Use Docker to simplify running and deploying your REST&nbsp;APIs.</p></li></ul><p><br></p><p><strong>But what is a REST&nbsp;API anyway?</strong></p><p>A REST&nbsp;API is an application that accepts data from clients and returns data back. For example, a REST&nbsp;API could accept text data from the client, such as a username and password, and return whether that is a valid user in the database.</p><p>When developing REST&nbsp;APIs, our clients are usually web apps or mobile apps. That's in contrast to when we make websites, where the clients are usually the users themselves.</p><p>Together we'll develop a REST&nbsp;API that not only allows clients to authenticate but also to store and retrieve any data you want from a database. Learning this will help you develop any REST&nbsp;API that you need for your own projects!</p><p><br></p><p>I pride myself on providing <strong>excellent support and feedback</strong> to every single student. I am <strong>always available to guide you and answer your questions</strong>.</p><p>I'll see you on the inside. Take your first step towards REST&nbsp;API mastery!</p>",
+        "completion_ratio": 0,
+        "last_accessed_time": "2022-03-11T07:13:35Z",
+        "enrollment_time": "2020-07-29T06:48:22Z",
+        "num_collections": 1
+      },
+      {
+        "_class": "course",
+        "id": 1546884,
+        "title": "Python and Flask Bootcamp: Create Websites using Flask!",
+        "url": "/course/python-and-flask-bootcamp-create-websites-using-flask/learn/",
+        "visible_instructors": [
+          {
+            "_class": "user",
+            "id": 9685726,
+            "title": "Jose Portilla",
+            "name": "Jose",
+            "display_name": "Jose Portilla",
+            "job_title": "Head of Data Science at Pierian Training"
+          }
+        ],
+        "published_title": "python-and-flask-bootcamp-create-websites-using-flask",
+        "tracking_id": "tMbJsgpsTHacg4Q0CqS5UA",
+        "description": "<p><strong>Welcome to the best online resource for learning how to create websites with Python and Flask!</strong></p>\n\n<p>I'm Jose Portilla and I've created this course to help you develop a true understanding of the ins and outs of creating amazing websites with the latest technologies in Python and Flask! I teach over 500,000 students online and I'm happy to get the chance to help others learn the amazing power of programming!</p>\n\n<p>This course will be your complete definitive guide for developing fully functional websites with the Flask web framework. We'll start with crash courses in the basic front end technologies for HTML, CSS, and Boostrap 4. Once you have a good understanding of the basics of these front end technologies, we'll begin our journey with Python and Flask. The course includes a complete Python refresher that starts with the very basics and quickly takes you through the advanced features, including functions, decorators, object oriented programming, and more!</p><p>Once we understand HTML, CSS, Bootstrap 4, and Python we're ready to tackle Flask and learn about all the amazing features it has! We'll create basic landing pages with Flask and Python, then show you how to connect templates to Flask do you can connect your Flask Application to HTML, CSS, and Bootstrap based templates. We'll also cover how to use the Jinja template engine to directly connect your flask application to your front end files to customize your websites.</p><p>Then we'll learn how to create forms to accept user information, how to save that information to a SQL database, and relay it back to the user.</p><p>This course includes a <strong>fully complete Social Network project</strong> that includes, User Logins, Followers, Authentication, Blueprints, Templates, SQL Databases, and more!</p>\n\n<p>In this course we'll cover everything you need to know, including:</p>\n\n<ul><li>Crash Course on HTML</li><li>Crash Course on CSS</li><li>Crash Course on Bootstrap 4</li><li>Complete Overview of Python 3</li><li>Utilizing Flask Basics </li><li>Creating Templates with Flask and Jinja</li><li>Creating Forms with Flask and WTForms</li><li>Creating Databases with SQL and connecting them to Flask</li><li>Structuring Large Flask Applications with Blueprints</li><li>Creating User Login, Registration, and Authentication</li><li>Creating Full Applications, including a Social Network Project</li><li>REST APIs with Flask </li><li>Accepting Payments with Stripe</li><li>and much more!</li></ul>\n\n<p>So what are you waiting for? <strong>Sign up today</strong> and begin your journey to creating amazing websites with the power of programming with Flask and Python!</p><p>I will see you inside the course!</p>",
+        "completion_ratio": 0,
+        "last_accessed_time": "2022-03-11T07:11:03Z",
+        "enrollment_time": "2020-11-20T04:51:52Z",
+        "num_collections": 1
+      },
+      {
+        "_class": "course",
+        "id": 2504438,
+        "title": "Apache Airflow: The Hands-On Guide",
+        "url": "/course/the-ultimate-hands-on-course-to-master-apache-airflow/learn/",
+        "visible_instructors": [
+          {
+            "_class": "user",
+            "id": 4949880,
+            "title": "Marc Lamberti",
+            "name": "Marc",
+            "display_name": "Marc Lamberti",
+            "job_title": "Apache Airflow Expert, Big Data Engineer"
+          }
+        ],
+        "published_title": "the-ultimate-hands-on-course-to-master-apache-airflow",
+        "tracking_id": "MNP9y3GzRRWnSip2RNluQQ",
+        "description": "<p>Apache Airflow is a platform created by community to programmatically author, schedule and monitor workflows.</p><p>It is <strong>scalable</strong>, <strong>dynamic</strong>, <strong>extensible</strong> and <strong>modulable</strong>. </p><p>Without any doubts, mastering Airflow is becoming a <strong>must-have</strong> and an attractive skill for anyone working with data.</p><p>What you will learn in the course:</p><ul><li><p><strong>Fundamentals of Airflow are explained</strong> such as what is Airflow, how the scheduler and the web server works</p></li><li><p><strong>The Forex Data Pipeline project is incredible way to discover many operators</strong> in Airflow and deal with Slack, Spark, Hadoop and more</p></li><li><p><strong>Mastering your DAGs </strong>is a top priority and you will be able to play with <strong>timezones</strong>, <strong>unit testing your DAGs</strong>, <strong>how to structure your DAG folder</strong> and much more</p></li><li><p><strong>Scaling Airflow</strong> through different executors such as the<strong> Local Executor</strong>, the <strong>Celery Executor</strong> and the <strong>Kubernetes Executor</strong> will be explained in details. You will discover <strong>how to specialise your workers</strong>,<strong> how to add new workers</strong>, <strong>what happens when a node crashes</strong>.</p></li><li><p>A <strong>Kubernetes cluster of 3 nodes</strong> will be set up with <strong>Rancher</strong>, <strong>Airflow</strong> and the <strong>Kubernetes Executor</strong> in local to run your data pipelines.</p></li><li><p><strong>Advanced concepts</strong> will be shown through practical examples such as <strong>templatating your DAGs</strong>, <strong>how to make your DAG dependent of another</strong>, what are <strong>Subdags and deadlocks</strong>, and more.</p></li><li><p>You will set up a <strong>Kubernetes cluster in the cloud </strong>with <strong>AWS EKS and Rancher</strong>&nbsp; in order to use Airflow along with the <strong>Kubernetes Executor</strong></p></li><li><p><strong>Monitoring Airflow is extremely important</strong>! That's why you will know how to do it with <strong>Elasticsearch</strong> and <strong>Grafana</strong>.</p></li><li><p><strong>Security</strong> will be also addressed in order to make your Airflow instance compliant with your company. <strong>Specifying roles and permissions for your users with RBAC</strong>, <strong>Prevent from accessing the Airflow UI with authentication and password,</strong>&nbsp; <strong>data</strong> <strong>encryption</strong> and more.</p></li></ul><p>In addition:</p><ul><li><p><strong>Many practical exercises</strong> are given along the course so that you will have occasions to apply what you learn.</p></li><li><p><strong>Best practices</strong> are stated when needed to give you the best ways of using Airflow</p></li><li><p><strong>Quiz</strong> are available to assess your comprehension at the end of each section.</p></li><li><p><strong>Answering fast your questions</strong> is my top-priority and I will do my best for you.</p></li></ul><p>I put a lot of effort in order to give you the best content and I hope you will enjoy it as much as I enjoyed doing it. </p><p>At the end of the course you will more confident than ever to use Airflow</p><p>Wish you a great success!</p><p>Marc Lamberti</p>",
+        "completion_ratio": 1,
+        "last_accessed_time": "2022-03-11T07:08:28Z",
+        "enrollment_time": "2021-07-05T17:48:31Z",
+        "num_collections": 1
+      },
+      {
+        "_class": "course",
+        "id": 2327536,
+        "title": "The Ultimate Flask Course",
+        "url": "/course/the-ultimate-flask-course/learn/",
+        "visible_instructors": [
+          {
+            "_class": "user",
+            "id": 41550034,
+            "title": "Anthony Herbert",
+            "name": "Anthony",
+            "display_name": "Anthony Herbert",
+            "job_title": "Founder of Pretty Printed"
+          }
+        ],
+        "published_title": "the-ultimate-flask-course",
+        "tracking_id": "NEJaaIPtQU6u98_uTFKIdA",
+        "description": "<p>Welcome to The Ultimate Flask Course. This course is designed to teach you everything you need to know to get started building your own Python-based web apps using the Flask framework. I will teach you the basics of Flask and show you some examples of how to build apps using only the features of the Flask framework itself. Then I will teach you various useful extensions that you can use to make adding more powerful features to your Flask apps much easier and show you example apps using those extensions.</p><p><strong>You'll learn:</strong></p><ul><li><p>How to build Python web apps with Flask</p></li><li><p>How to use the Jinja template language to create the look of your apps</p></li><li><p>How to use the SQLite database to start development</p></li><li><p>How to use other databases with Flask by using Flask-SQLAlchemy</p></li><li><p>Using Flask to process incoming request data</p></li><li><p>How to build an API with Flask</p></li><li><p>Handle user sessions</p></li><li><p>How to build working apps with six app examples</p></li></ul><p>In this course, we'll cover popular Flask extensions, including:</p><ul><li><p>Flask-SQLAlchemy</p></li><li><p>Flask-WTF</p></li><li><p>Flask-Bootstrap</p></li><li><p>Flask-Mail</p></li><li><p>Flask-Migrate</p></li><li><p>Flask-Uploads</p></li><li><p>Flask-Login</p></li><li><p>Flask-Admin</p></li><li><p>Flask-User</p></li><li><p>Flask-Babel</p></li><li><p>Flask-Restless</p></li><li><p>Flask-SocketIO</p></li><li><p>Flask-Security</p></li></ul><p><strong>What do you need to know before starting the course?</strong></p><p>As long as you have some basic experience with Python, you are ready to take the course. It's helpful to know some basics of HTML as well.</p><p>I look forward to seeing you in the course and hearing your thoughts.</p>",
+        "completion_ratio": 0,
+        "last_accessed_time": "2022-03-11T07:00:06Z",
+        "enrollment_time": "2020-11-20T04:51:52Z",
+        "num_collections": 1
+      },
+      {
+        "_class": "course",
+        "id": 2692016,
+        "title": "LeetCode In Python: 50 Algorithms Coding Interview Questions",
+        "url": "/course/leetcode-in-python-50-algorithms-coding-interview-questions/learn/",
+        "visible_instructors": [
+          {
+            "_class": "user",
+            "id": 56716370,
+            "title": "Bit Punch",
+            "name": "Bit",
+            "display_name": "Bit Punch",
+            "job_title": "Software Engineer ( Ex-Googler )"
+          }
+        ],
+        "published_title": "leetcode-in-python-50-algorithms-coding-interview-questions",
+        "tracking_id": "TH5ofUcZQHOb3-ycFmeWww",
+        "description": "<ul><li><p><strong>Getting ready for your software engineering coding interview? </strong>This is the place for you.<br></p></li><li><p><strong>Want to learn about the most popular problem-solving techniques, patterns, data structures, and algorithms used in those difficult interviews?</strong> Come on in<br></p></li><li><p><strong>Want a <em>step by step explanation</em> of 50 of the most popular interview questions in the industry? </strong>You got it.<br></p></li><li><p><strong>Want to get better at competitive programming?</strong> Enjoy the ride</p></li></ul><p><br></p><p><strong>Welcome to the course!</strong></p><p>In this course, <strong>you'll have a</strong> <strong>detailed, step by step explanation of 50 hand-picked LeetCode questions</strong> where you'll learn about the most popular techniques and problems used in the coding interview, <strong>This is the course I wish I had when I was doing my interviews. </strong>and it comes with a <strong><em>30-day money-back guarantee</em></strong></p><p><br></p><p><strong>What is LeetCode?</strong></p><p><em>LeetCode</em> is essentially a huge repository of <strong>real</strong> <strong>interview questions</strong> asked by the most popular tech companies ( <em>Google, Amazon, Facebook, Microsoft, and more</em> ).</p><p>The problem with <em>LeetCode</em> is also its advantage, IT'S HUGE, so huge in fact that interviewers from the most popular companies often directly ask questions they find on <em>LeetCode</em>, So it's hard to navigate through the huge amount of problems to <strong><em>find those that really</em> <em>matter,</em></strong> this is what this course is for.<br><br><strong>I spent countless hours on <em>LeetCode</em> and I'm telling you that you don't have to do the same and still be able to get a job at a major tech company.</strong><br><br><strong>Course overview :</strong></p><p>In this course, <strong>I compiled 50 of the most important and the most popular interview questions </strong>asked by these major companies and I <em>explain</em> them, in a<strong> true STEP BY STEP fashion</strong> to help you understand exactly how to solve these types of questions.</p><p>The problems are <em>handpicked</em> to ensure <strong>complete coverage</strong> of the <strong>most popular techniques, data structures, and algorithms</strong> used in interviews so you can <strong>generalize the patterns</strong> you learn here on other problems.</p><p><br></p><p><strong>Each problem gets 2 videos</strong> :</p><ul><li><p><strong>Explanation video</strong>: we do a <strong>detailed explanation of the problems and its solution</strong>, this video will be longer because we will do a <em>step by step</em> explanation for the problems.</p></li></ul><ul><li><p><strong>Coding video</strong>: where we code the solution discussed in the explanation video together.</p></li></ul><p><br>We will use <em>basic</em> python for this course to code our solutions, previous knowledge in python is preferred but <strong>NOT</strong> required for the coding part of the course.</p><p><br>The problems are categorized for easier navigation and will be <em>regularly updated</em> with more popular and interesting problems.</p><p><br></p><p><strong>Some of the stuff this course will cover are :</strong></p><p><br></p><ul><li><p><strong>Arrays and Strings interview questions.</strong></p><p><br></p></li><li><p><strong>Searching interview questions and algorithms.</strong></p><p><br></p></li><li><p><strong>Dynamic Programming interview questions.</strong></p><p><br></p></li><li><p><strong>Backtracking interview questions </strong>(<strong>&nbsp; With step by step visualization </strong> ).</p><p><br></p></li><li><p><strong>Trees and Graphs interview questions and algorithms.</strong></p><p><br></p></li><li><p><strong>Data structures Like Stacks, Queues, Maps, Linked Lists<em>, and more.</em></strong></p></li></ul><p><br></p><p><strong>In other words, this course is your one-stop-shop for your dream job.</strong></p><p><br></p><p><br></p>",
+        "completion_ratio": 1,
+        "last_accessed_time": "2022-03-11T06:58:19Z",
+        "enrollment_time": "2021-07-07T04:34:52Z",
+        "num_collections": 0
+      },
+      {
+        "_class": "course",
+        "id": 3634866,
+        "title": "Pragmatic System Design",
+        "url": "/course/pragmatic-system-design/learn/",
+        "visible_instructors": [
+          {
+            "_class": "user",
+            "id": 97917066,
+            "title": "Alexey Soshin",
+            "name": "Alexey",
+            "display_name": "Alexey Soshin",
+            "job_title": "Solutions Architect @Depop"
+          }
+        ],
+        "published_title": "pragmatic-system-design",
+        "tracking_id": "vruwfSUOT-mK2cDUfRp02w",
+        "description": "<p>This course aims to prepare you for<strong> system design interviews</strong>, as well as discusses how you could apply this knowledge in your day to day job.</p><p>In real world, most of the engineers don't get to design new systems often. Some don't get to design them at all. In many companies architecture is something only a few individuals do regularly. But when it comes to interviewing, we suddenly expect everyone to be master in system design. This course tries to cover some of the basic topics, as well as provide you with my approach to some of the most common system design interview questions.</p><p>Second purpose of this course is to provide senior engineers with an alternative view to system design. What I see in the industry is that we don't discuss design among ourselves much. It becomes a sensitive topic, because no real world design is perfect. And that's something I hope to change.</p><p>There are two ways I suggest to consume the course. If you have plenty of time, just watch it start to finish. I tried to construct it in a logical order, so you will accumulate more and more confidence as you go.</p><p>Alternatively, if you are short on time, or if you aren't preparing actively for interviews at the moment, you can start with the design videos, and if you aren't familiar with one of the topics I discuss, there should be either a video for that or a link to a relevant article.</p><p>The goal of system design interview is usually to cover multiple topics. It evaluates the breath of knowledge first, depth of knowledge second. For that reason, I&nbsp;tried to keep the theoretical part on each topic rather brief. That is - it's as deep as I&nbsp;expect as an interviewer from my candidates. </p><p>Finally, I will repeat myself and say that <strong>no design is perfect</strong>. There are always <strong>tradeoffs</strong>, there are always <strong>compromises </strong>that you must make. And each design is personal. It depends on what are your areas of expertise. When you watch my videos, please don't treat them as the ultimate way I would design a system, but more as a collection of ideas of how to approach the topic.</p><p><br></p><p>If there are more system design interview questions you'd like me to solve or additional topics you'd like me to cover, let me know!</p>",
+        "completion_ratio": 5,
+        "last_accessed_time": "2022-03-11T06:57:57Z",
+        "enrollment_time": "2021-10-18T05:24:51Z",
+        "num_collections": 0
+      },
+      {
+        "_class": "course",
+        "id": 1535678,
+        "title": "Java Programming for Complete Beginners",
+        "url": "/course/java-programming-tutorial-for-beginners/learn/",
+        "visible_instructors": [
+          {
+            "_class": "user",
+            "id": 13363166,
+            "title": "in28Minutes Official",
+            "name": "in28Minutes",
+            "display_name": "in28Minutes Official",
+            "job_title": "DevOps, Azure, GCP, Docker, Kubernetes, Java & Spring Boot"
+          }
+        ],
+        "published_title": "java-programming-tutorial-for-beginners",
+        "tracking_id": "2lK5--lxQJWDIAyGZgJowA",
+        "description": "<p><strong>LEARN JAVA PROGRAMMING WRITING 200+ JAVA PROGRAMS, PUZZLES &amp; EXERCISES.</strong></p><p>RECOMMENDED for <strong>absolute beginners</strong> to Java and Programming! </p><p><strong>BONUS</strong> - Learn to <strong>Build REST API</strong> with <strong><em>Spring, Spring Boot, and JPA</em></strong></p><p><br></p><p><strong>7 Things</strong> YOU need to know <strong>about </strong>this<strong> JAVA PROGRAMMING Course</strong></p><p><strong>#1: 150,000+ Learners</strong> - One of the highest-rated Java Courses on Udemy!</p><p><strong>#2: </strong>Designed for ABSOLUTE BEGINNERS to Java Programming (Core +&nbsp;Advanced)</p><p><strong>#3: HANDS-ON</strong> - Write 100+ Programs - The best way to learn Java Programming is to get your hands dirty! </p><p><strong>#4: PUZZLES</strong>&nbsp;and <strong>EXERCISES</strong> to help reinforce your learning</p><p><strong>#5: </strong>One of the first courses to be updated to <strong>JAVA 16</strong>. Covers all new features in Java 9, Java 10, Java 11, Java 12, Java 13, Java 14, Java 15, and Java 16.</p><p><strong>#6: FREE 150 Page</strong> Course Companion Web Site</p><p><strong>#7: BONUS</strong> - Learn to Build <strong>REST API </strong>with <strong>Spring, Spring Boot, and JPA (Hibernate)</strong></p><p><br></p><p><strong>WHAT OUR LEARNERS ARE SAYING:</strong></p><p><strong>5 STARS -</strong> The <strong>best Java course</strong> out there for Beginners. Highly recommended.</p><p><strong>5 STARS -</strong> This course <strong>exceeded all my expectations</strong>. HIGHLY RECOMMENDED!</p><p><strong>5 STARS -</strong> Great mix of theory and exercises!</p><p><strong>5 STARS -</strong> What a great course!!!</p><p><strong>5 STARS&nbsp;- </strong><em>This is the </em><strong><em>best Java course</em></strong><em> I've come across. It's straight to the point without any missing details. You can get an idea of what you're getting into working with Java fast with this course. I really like it.</em></p><p><strong>5 STARS&nbsp;- <em>Never thought taking an online course will be so helpful</em></strong><em>. The instructor is quite engaging, gives a good amount of exercises.</em></p><p><strong>5 STARS&nbsp;- <em>This course is wonderful!</em></strong><em> I really enjoy it. It really is for beginners, so it's very helpful for people which don't know anything about programming.</em></p><p><strong>5 STARS&nbsp;- </strong>It's <strong>very well thought out</strong>. I enjoy the <strong>constant exercises and the challenge they present</strong> to make things happen.</p><p><br></p><p><strong>COURSE&nbsp;OVERVIEW</strong></p><p>Java is one of the most popular programming languages. Java offers both object-oriented and functional programming features.</p><p>We take a hands-on approach using a combination of JShell and Eclipse as an IDE to illustrate more than <strong>200 Java Coding Exercises, Puzzles, and Code Examples</strong>. <strong>This course assumes no previous ( beginner ) programming or Java experience.</strong> If you’ve never programmed a computer before, or if you already have experience with another programming language and <strong>want to quickly learn Java</strong>, this is a perfect course for you.</p><p>In more than 250 Steps, we explore the most important Core Java Programming Language Features</p><ul><li><p>Basics of Java Programming - Expressions, Variables, and Printing Output</p></li><li><p>Java Operators - Java Assignment Operator, Relational and Logical Operators, Short Circuit Operators</p></li><li><p>Java Conditionals and If Statement</p></li><li><p>Methods - Parameters, Arguments, and Return Values</p></li><li><p>Object-Oriented Programming - Class, Object, State, and Behavior</p></li><li><p>Basics of OOPS - Encapsulation, Abstraction, Inheritance, and Polymorphism</p></li><li><p>Basics about Java Data Types - Casting, Operators, and More</p></li><li><p>Java Built-in Classes - BigDecimal, String, Java Wrapper Classes</p></li><li><p>Conditionals with Java - If Else Statement, Nested If Else, Java Switch Statement, Java Ternary Operator</p></li><li><p>Loops - For Loop, While Loop in Java, Do While Loop, Break and Continue</p></li><li><p>Immutability of Java Wrapper Classes, String and BigDecimal</p></li><li><p>Java Dates - Introduction to LocalDate, LocalTime and LocalDateTime</p></li><li><p>Java Array and ArrayList - Java String Arrays, Arrays of Objects, Primitive Data Types, toString and Exceptions</p></li><li><p>Introduction to Variable Arguments</p></li><li><p>Basics of Designing a Class - Class, Object, State and Behavior. Deciding State and Constructors.</p></li><li><p>Understanding Object Composition and Inheritance</p></li><li><p>Java Abstract Class and Interfaces. Introduction to Polymorphism.</p></li><li><p>Java Collections - List Interface(ArrayList, LinkedList and Vector), Set Interface (HashSet, LinkedHashSet and TreeSet), Queue Interface (PriorityQueue) and Map Interface (HashMap, HashTable, LinkedHashMap and TreeMap() - Compare, Contrast and Choose</p></li><li><p>Generics - Why do we need Generics? Restrictions with extends and Generic Methods, WildCards - Upper Bound and Lower Bound.</p></li><li><p>Functional Programming - Lambda Expression, Stream and Operations on a Stream (Intermediate Operations - Sort, Distinct, Filter, Map and Terminal Operations - max, min, collect to List), Functional Interfaces - Predicate Interface, Consumer Interface, Function Interface for Mapping, Method References - static and instance methods</p></li><li><p>Introduction to Threads and MultiThreading - Need for Threads</p></li><li><p>Implementing Threads - Extending Thread Class and Implementing Runnable Interface</p></li><li><p>States of a Thread and Communication between Threads</p></li><li><p>Introduction to Executor Service - Customizing the number of Active Threads. Returning a Future, invokeAll, and invokeAny</p></li><li><p>Introduction to Exception Handling - Your Thought Process during Exception Handling. try, catch, and finally. Exception Hierarchy - Checked Exceptions vs Unchecked Exceptions. Throwing an Exception. Creating and Throwing a Custom Exception - CurrenciesDoNotMatchException. Try with Resources - New Feature in Java 7.</p></li><li><p>List files and folders in Directory with Files list method, File walk method and find methods. Read and write from a File.</p></li></ul><p><strong>Start Learning Now.</strong> Hit the Enroll Button!</p><p><br></p>",
+        "completion_ratio": 20,
+        "last_accessed_time": "2022-03-11T06:57:34Z",
+        "enrollment_time": "2021-06-22T18:34:44Z",
+        "num_collections": 1
+      },
+      {
+        "_class": "course",
+        "id": 1733972,
+        "title": "Monitoring and Alerting with Prometheus",
+        "url": "/course/monitoring-and-alerting-with-prometheus/learn/",
+        "visible_instructors": [
+          {
+            "_class": "user",
+            "id": 14145628,
+            "title": "Edward Viaene",
+            "name": "Edward",
+            "display_name": "Edward Viaene",
+            "job_title": "DevOps, Cloud, Big Data Specialist"
+          },
+          {
+            "_class": "user",
+            "id": 13584060,
+            "title": "Jorn Jambers",
+            "name": "Jorn",
+            "display_name": "Jorn Jambers",
+            "job_title": "Co-Founder in4it"
+          }
+        ],
+        "published_title": "monitoring-and-alerting-with-prometheus",
+        "tracking_id": "wblAqVjrRji1yNIQF-2JEg",
+        "description": "<p>If you're in a <strong>DevOps, Cloud or SRE&nbsp;role</strong>, you'll <strong>understand how important monitoring &amp;&nbsp;alerting</strong> is. You cannot build a successful application, or run a company without having a system that monitors your systems and applications and reports when something goes wrong. <strong>You need instrumentation</strong> <strong>in order to be</strong> <strong>successful</strong>. </p><p><strong>Prometheus is the leading open-source monitoring system</strong> that can collect metrics from all your systems, including Linux servers, Windows Servers, Database Servers and any application you have written. It's <strong>inspired on Google's Borgmon</strong>, which uses time-series data as a datasource, to then send alerts based on this data. </p><p>This course will show you <strong>how to install and configure Prometheus </strong>on a Linux server. This course will use a VM&nbsp;on DigitalOcean, but you can install Prometheus on any modern Linux OS. We'll show you how to make visualizations (graphs) using Grafana. When building these graphs, you'll get to know PromQL, the language to query Prometheus and get meaningful data displayed. You'll also learn how to setup alerts to receive notifications when something goes wrong. Lastly, we have a section on use-cases to showcase you some real world examples.</p><p>You get a&nbsp;<strong>$100 DigitalOcean coupon</strong>&nbsp;when you enter a valid payment method to be able to install Prometheus&nbsp;on DigitalOcean.</p><p>We have both worked in the <strong>Tech/Finance industry in San Fransisco, New York City and London</strong>. We now run a consultancy business where we help our clients implement&nbsp;their Cloud &amp;&nbsp;DevOps strategy. Using our expertise, we can deliver you this great training with real world examples and guide you when you have questions.</p><p>Enroll in this course now and install, configure and use Prometheus. <strong>Become great at monitoring your infrastructure!</strong></p>",
+        "completion_ratio": 46,
+        "last_accessed_time": "2022-03-11T06:52:46Z",
+        "enrollment_time": "2020-07-31T01:53:20Z",
+        "num_collections": 0
+      }
+    ]
+  }

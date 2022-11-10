@@ -1,0 +1,307 @@
+{
+    "count": 206,
+    "next": "https://www.udemy.com/api-2.0/users/me/subscribed-courses/?fields%5Bcourse%5D=completion_ratio%2Cenrollment_time%2Clast_accessed_time%2Cnum_collections%2Cpublished_title%2Ctitle%2Ctracking_id%2Curl%2Cdescription%2Cvisible_instructors&fields%5Buser%5D=%40min%2Cjob_title&is_archived=false&ordering=-last_accessed&page=13&page_size=12",
+    "previous": "https://www.udemy.com/api-2.0/users/me/subscribed-courses/?fields%5Bcourse%5D=completion_ratio%2Cenrollment_time%2Clast_accessed_time%2Cnum_collections%2Cpublished_title%2Ctitle%2Ctracking_id%2Curl%2Cdescription%2Cvisible_instructors&fields%5Buser%5D=%40min%2Cjob_title&is_archived=false&ordering=-last_accessed&page=11&page_size=12",
+    "results": [
+      {
+        "_class": "course",
+        "id": 1560080,
+        "title": "JavaScript for beginners - Quick JavaScript Fundamentals",
+        "url": "/course/learn-javascript-fundamentals/learn/",
+        "visible_instructors": [
+          {
+            "_class": "user",
+            "id": 5581552,
+            "title": "Laurence Svekis",
+            "name": "Laurence",
+            "display_name": "Laurence Svekis",
+            "job_title": "Instructor, GDE, Application Developer"
+          }
+        ],
+        "published_title": "learn-javascript-fundamentals",
+        "tracking_id": "RAis_pKJQtSE7AZxgOcHEw",
+        "description": "<p>JavaScript is the technology that makes things happen online.  Learn how to create Dynamic and Interactive web pages applying JavaScript.  This course covers all the core fundamental concepts like variables, arrays, objects, functions, loops, conditions, Document Object Model Basics and more.</p>\n\n<p>JavaScript is Fast and Responsive relatively easy language to get started with.   All you need is a browser and you are ready to create JavaScript.  Learn JavaScript to HTML web pages works across browser.</p>\n\n\n\n<p>JavaScript is powerful extending the functionality of web pages.</p>\n\n\n\n<p>Executed on the front-end</p>\n\n\n\n<p>This course covers the core fundamentals of JavaScript, so that you can get started or refresh your knowledge of how JavaScript work quickly.  Designed as a fast paced informative course that guides you to learn and practice JavaScript.</p>\n\n\n\n<ul><li>Learn how to create variables, objects and Arrays</li><li>Explore functions how local and global scope work and how to return values and pass arguments into functions</li><li>See how to apply logic with conditions and ternary statements</li><li>Save time with loops do while and for loops</li><li>Interact with your web elements connect via the Document Object Model</li></ul>\n\n\n\n<p>Taught by an instructor with over 19 years of web development experience,  ready to help your learn more about JavaScript.</p>",
+        "completion_ratio": 0,
+        "last_accessed_time": "2019-03-13T02:39:27Z",
+        "enrollment_time": "2018-03-14T19:00:46Z",
+        "num_collections": 0
+      },
+      {
+        "_class": "course",
+        "id": 584648,
+        "title": "Advanced Databases and SQL Querying",
+        "url": "/course/advanced-tsql-querying-using-sql-2014/learn/",
+        "visible_instructors": [
+          {
+            "_class": "user",
+            "id": 9912714,
+            "title": "Rakesh Gopalakrishnan",
+            "name": "Rakesh",
+            "display_name": "Rakesh Gopalakrishnan",
+            "job_title": "Over 600,000 Students"
+          }
+        ],
+        "published_title": "advanced-tsql-querying-using-sql-2014",
+        "tracking_id": "SKv0tpGoRxyyhmIGtmyQpg",
+        "description": "<p>This course is an advanced TSQL Querying course. The course expects that student are already aware of basic database concepts and are comfortable writing basic TSQL queries like SELECT, JOINS etc. Students are expected to have taken my previous course (Introduction to databases and Querying). This course cover advanced concepts like Views, Triggers, Dynamic Queries etc. The TSQL Scripts for all demos are uploaded. The course about 2+hours and has assignments at the end of each concept. </p><p>If you looking for your next database job or trying to improving your existing database knowledge and apply in your projects, this is the course for you.</p>",
+        "completion_ratio": 12,
+        "last_accessed_time": "2018-11-24T09:20:40Z",
+        "enrollment_time": "2018-11-24T09:13:00Z",
+        "num_collections": 0
+      },
+      {
+        "_class": "course",
+        "id": 419318,
+        "title": "AngularJS 1.0 Masterclass - Deep Dive & Understand AngularJS",
+        "url": "/course/angularjs-masterclass/learn/",
+        "visible_instructors": [
+          {
+            "_class": "user",
+            "id": 578322,
+            "title": "Sandip Gautam",
+            "name": "Sandip",
+            "display_name": "Sandip Gautam",
+            "job_title": "Full Stack Architect & Web Developer"
+          }
+        ],
+        "published_title": "angularjs-masterclass",
+        "tracking_id": "tga8sgijTomrXsoxwCnXEg",
+        "description": "<p><strong>[COURSE UPDATED on 30 April 2015]</strong></p><p>  \t<strong>Why AngularJS?</strong>  </p>  <p>  \t        AngularJS is the most popular JavaScript framework out there in the market backed by Google. AngularJS helps you in creating complex web applications in less time. It's gonna add value to your resume and even help in getting good salary job.  </p>  <p>  \t<strong>Why You Should Take This Course?</strong>  </p>  <p>  \t        This course is gonna help you make complex web application in AngularJS. This course will not only help you learn AngularJS, but to understand it, as it covers lot of JavaScript, HTML, Clean Coding, Design Pattern concepts, which you should understand to know better about AngularJS. This course uses AngularJS Version 1.3.  </p>  <p>  \t<strong>What's Inside This Course?</strong>  </p>  <ul>  \t<li>Why You Should Know AngularJS?</li>  \t<li>AngularJS Core Concepts along with JavaScript, HTML, Design Patterns &amp; Clean Code Concepts.</li>  \t<li>Using Directives &amp; Filters to Make Views</li>  \t<li>How to Keep Data in Scope &amp; Business Logic in Controllers</li>  \t<li>AngularJS Built in Services Which Includes Server Side Interaction Using Mongo Lab API &amp; Creating Your Own Custom Services</li>  \t<li>Create Single Page Application Using Routing</li>  \t<li>Create Custom Directives &amp; Custom Filters</li>  \t<li>Hands on With Practical Application</li>  \t<li>And More Contents to Come…</li>  </ul>  <p>  \t<strong>Exercise Files:</strong>  </p>  <p>  \t<em>This course contains all the exercise files, divided into two folders, one as starting folder and other one as completed folder.</em>  </p>",
+        "completion_ratio": 7,
+        "last_accessed_time": "2018-07-21T16:25:23Z",
+        "enrollment_time": "2018-03-14T18:45:26Z",
+        "num_collections": 0
+      },
+      {
+        "_class": "course",
+        "id": 1329100,
+        "title": "Progressive Web Apps (PWA) - The Complete Guide",
+        "url": "/course/progressive-web-app-pwa-the-complete-guide/learn/",
+        "visible_instructors": [
+          {
+            "_class": "user",
+            "id": 31926668,
+            "title": "Academind by Maximilian Schwarzmüller",
+            "name": "Academind by Maximilian",
+            "display_name": "Academind by Maximilian Schwarzmüller",
+            "job_title": "Online Education"
+          },
+          {
+            "_class": "user",
+            "id": 13952972,
+            "title": "Maximilian Schwarzmüller",
+            "name": "Maximilian",
+            "display_name": "Maximilian Schwarzmüller",
+            "job_title": "AWS certified, Professional Web Developer and Instructor"
+          }
+        ],
+        "published_title": "progressive-web-app-pwa-the-complete-guide",
+        "tracking_id": "pFJU0Ew4RGKZy7l1jpADUw",
+        "description": "<p><strong>Progressive Web Apps</strong> (PWAs) are the next big thing in web development as they bring <strong>mobile-app-like experiences</strong> to your users without requiring them to install an app from the app store/&nbsp;play store.</p><p>You still create a web application (HTML,&nbsp;CSS, JavaScript)&nbsp;but this course will teach you how to add features such as <strong>camera access, service workers for offline support, push notifications and more</strong>. This combines the best of both worlds:&nbsp;You deliver fast, engaging and reliable experiences whilst still having the reach and accessibility of a web page.</p><p>\"Progressive Web App\" simply is a term summarizing all the features allowing you to deliver mobile-like experiences. The topic is <strong>highly trending and it also is a topic&nbsp;which is here to stay</strong>!&nbsp;Not only is it strongly promoted by Google (actually a lot of talks at Google I/O 2017, Google's developer conference, were devoted to PWAs), it's also quickly being adopted by big companies like <strong>Twitter</strong> or the <strong>Washington Post</strong>.</p><p>Having the skills to build and optimize these kind of web apps is already an&nbsp;important and highly demanded skill for modern web developers, a trend which is only going to accelerate! Therefore, learning how to build PWAs will give you a competitive edge!</p><p>In detail, this course will cover <strong>everything you need </strong>to build amazing PWAs - leading to a score of 100 (out of 100)&nbsp;in Google's PWA&nbsp;auditing tool \"Lighthouse\":</p><ul><li><p>Detailed <strong>explanation </strong>about what&nbsp;a PWA&nbsp;exactly is</p></li><li><p>How to use an app manifest to make your web app&nbsp;<strong>installable on device homescreens</strong></p></li><li><p>Using <strong>service workers</strong> to offer <strong>offline </strong>support by caching assets</p></li><li><p>Advanced service worker usage and<strong> caching strategies</strong></p></li><li><p>A refresher on <strong>Promises</strong> and the <strong>Fetch API </strong>as both concepts are heavily used in PWAs</p></li><li><p>How to improve user engagement by adding<strong> push notifications</strong></p></li><li><p>A way to <strong>synchronize data</strong> in the background, even if connection is lost</p></li><li><p>How to access native device features like the <strong>camera </strong>or <strong>geolocation</strong></p></li><li><p>Using <strong>Workbox </strong>to make service worker management easier</p></li><li><p>Explanations on how to turn your next <strong>SPA&nbsp;project into a PWA</strong></p></li><li><p>And more</p></li></ul><p>All these things are of course put into practice by building a<strong> course project</strong>. To ensure that you can apply the knowledge to ANY&nbsp;of your projects, the course project doesn't assume any JavaScript framework but focuses on the core features mentioned above!</p><p><strong>So this course has a lot to offer, how do you tell if it's for you though?</strong></p><p>It definitely is the right choice if ...</p><ul><li><p>... you already are a web developer (no matter if experienced or still new to the business)&nbsp;and want to prepare for the future</p></li><li><p>... you enjoy working with HTML,&nbsp;CSS&nbsp;and JavaScript and want to leverage the full power the web and browser technologies have to offer</p></li><li><p>... you want to deliver the best possible experiences to your users, using technologies like web push&nbsp;notifications or offline support</p></li></ul><p><strong>What do you need to know to get the most out of the course?</strong></p><ul><li><p>You need to know at least the basics of HTML,&nbsp;CSS&nbsp;and JavaScript</p></li><li><p>No advanced knowledge of these technologies required though</p></li><li><p>You DON'T need to know any JavaScript framework like Angular or React - PWAs work with ANY JavaScript app, even if you don't use a framework at all&nbsp;(actually, that's what we'll build in the course!)</p></li></ul><p>I'd be very happy to welcome you on board of this course and start this journey together with you!</p><p>Max</p>",
+        "completion_ratio": 0,
+        "last_accessed_time": "2018-04-15T16:52:52Z",
+        "enrollment_time": "2018-04-15T16:51:13Z",
+        "num_collections": 0
+      },
+      {
+        "_class": "course",
+        "id": 577248,
+        "title": "Python for Beginners with Examples",
+        "url": "/course/ardit-sulce-python-for-beginners/learn/",
+        "visible_instructors": [
+          {
+            "_class": "user",
+            "id": 717783,
+            "title": "Ardit Sulce",
+            "name": "Ardit",
+            "display_name": "Ardit Sulce",
+            "job_title": "Python Programmer. Founder and Author, PythonHow."
+          }
+        ],
+        "published_title": "ardit-sulce-python-for-beginners",
+        "tracking_id": "w04O7SvBQPWEHtjzg131GA",
+        "description": "<p>This Python course has everything you need to know to start coding in Python and not even that, by the end of the course, you will know how to build complete programs and also build graphical user interfaces for your programs so you can impress your employer or your friends. I will guide you step by step, starting from the basics and always assuming you don't have previous programming experience or a computer science degree. In fact, most people who learn Python come from a wide variety of careers.</p><p>This course is designed to teach you Python and give you a real feel of how to use Python in a real environment. You will get this real-world Python experience by gaining free access to a remote server where Python is already installed. You will write and run Python programs directly on that remote computer in an easy fashion by simply using your internet browser. This will also allow you to run Python programs 24/7 on that server and let the apps do interesting tasks while you sleep. That will make you understand Python's real power in a real server environment, and I&nbsp;will guide you through the entire process.</p><p>The course is ideal for those who haven't programmed before. It also works for experienced programmers who don't know Python because the course offers you a training package so dense with information and practical activities you will not need to look further. </p><p>Besides videos, you will also find a lot of Python exercises in the course. These are interactive exercises that you can solve directly on the Udemy exercise interface. The course also contains quizzes that will help you constantly check the knowledge you get during the videos. This variety of learning material will help you solidify your Python skills and give you a fun learning experience.</p><p>This course has all you need to get you started. After you take it, you will be ready to go to the next level of specializing in one of the Python fields, such as data science or web development. Python is one of the most needed skills nowadays. Sign up today!</p>",
+        "completion_ratio": 0,
+        "last_accessed_time": "2018-03-23T15:34:00Z",
+        "enrollment_time": "2016-09-02T08:28:52Z",
+        "num_collections": 1
+      },
+      {
+        "_class": "course",
+        "id": 949766,
+        "title": "The Complete Python 3 Course: Go from Beginner to Advanced!",
+        "url": "/course/learn-python-3-from-beginner-to-advanced/learn/",
+        "visible_instructors": [
+          {
+            "_class": "user",
+            "id": 10843730,
+            "title": "Ermin Kreponic",
+            "name": "Ermin",
+            "display_name": "Ermin Kreponic",
+            "job_title": "IT Expert"
+          },
+          {
+            "_class": "user",
+            "id": 17969846,
+            "title": "Aldin Omerdic",
+            "name": "Aldin",
+            "display_name": "Aldin Omerdic",
+            "job_title": "IT Expert, Entrepreneur"
+          },
+          {
+            "_class": "user",
+            "id": 9150270,
+            "title": "Suppoman ™",
+            "name": "Suppoman",
+            "display_name": "Suppoman ™",
+            "job_title": "Superhero Instructor! I teach 400,000 Students in 30 courses"
+          }
+        ],
+        "published_title": "learn-python-3-from-beginner-to-advanced",
+        "tracking_id": "0iI2ri8-TR-AkeRKZgROkw",
+        "description": "<p>=========================<strong> TESTIMONIALS </strong>=========================</p>\n\n<p><em>\"Everything is explained <strong>perfectly!</strong>\" - Mouheb</em><br></p>\n\n\n\n\n\n\n\n\n\n<p><em>\"Great Teacher. <strong>I like his teaching style, step by step approach</strong>, easy to follow him. Lectures is <strong>very engaging.</strong> <strong>Well </strong><strong>structured</strong> and <strong>organized</strong> course content\" - Faisal</em></p>\n\n\n\n\n\n\n\n\n\n<p><em>\"Overall, this is a <strong>very high quality</strong> course. Taking the course has <strong>*shown* me what is possible</strong> even before I thought of searching for it.\" - Kevin</em></p>\n\n\n\n\n\n\n\n\n\n<p><em>\"<strong>Great course</strong> overall! I started off as a complete beginner and <strong>feel much more confident about coding with Python</strong>\" - Frank S</em></p>\n\n\n\n\n\n\n\n\n\n<p><em>\"<strong>Great set of Python Tutorials</strong>. The instructor <strong>walks you through</strong> the classes and materials in an <strong>easy to understand </strong>manor. A++\" - Mirko</em><br></p>\n\n\n\n\n\n\n\n\n\n<p><em>\"Just <strong>did my first program</strong> very early on, which was <strong>exciting</strong>\" - Chloe</em></p>\n\n\n\n\n\n\n\n\n\n<p>===============================================================</p>\n\n\n\n\n\n\n\n\n\n<p>If you want to learn Python to advance your skills, then this is the course for you!</p>\n\n\n\n\n\n\n\n\n\n<p>If you have no previous knowledge or experience in Python, you will like that the course begins with Python basics. Even if you have some experience in programming in Python, this course can help you learn some new information you had missed before. Each section of the course is linked to the previous one in terms of utilizing what was already learned and each topic is supplied with lots of examples which will help students in their process of learning. Upon the completion of this course, you should be able to write programs that have real-life applications.</p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<p>What I think is the best about this course is that you can search questions others have had, post your own questions, and get answers to challenges you are currently facing in learning and using Python.  You get paid Python expert technical support in this course here to answer every single question you ask!</p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<p>If you have any suggestions on topics that have not been covered,\n you can send them via private message. I will do my best to cover them \nas soon as possible.</p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<p>Thank you for reading this. I hope to see you in the course soon and I hope you will enjoy your time learning as much as I have!</p>",
+        "completion_ratio": 0,
+        "last_accessed_time": "2018-03-14T18:43:02Z",
+        "enrollment_time": "2018-03-14T18:42:26Z",
+        "num_collections": 1
+      },
+      {
+        "_class": "course",
+        "id": 13034,
+        "title": "Operations Management",
+        "url": "/course/operations-management/learn/",
+        "visible_instructors": [
+          {
+            "_class": "user",
+            "id": 105107,
+            "title": "Gad Allon",
+            "name": "Gad",
+            "display_name": "Gad Allon",
+            "job_title": "Kellogg School of Management, Northwestern University"
+          }
+        ],
+        "published_title": "operations-management",
+        "tracking_id": "smXLYmUWTM6OnlvPWs_zXA",
+        "description": "<p>A Faculty Project Course - Best Professors Teaching the World</p>  <p>This course provides a general introduction to operations management. This course aims to (1) familiarize you with the major operational problems and issues that confront managers, and (2) provide you with language, concepts, insights and tools to deal with these issues in order to gain competitive advantage through operations.</p>  <p>This course should be of particular interest to people aspiring a career in designing and managing business processes, either directly (V.P. of Ops, COO) or indirectly (e.g. management consulting). The course should also be of interest to people who manage interfaces between operations and other business functions such as finance, marketing, managerial accounting and human resources. Finally, a working knowledge of operations, which typically employs the greatest number of employees and requires the largest investment in assets, is indispensable for general managers and entrepreneurs.</p>  <p>We will see how different business strategies require different business processes, and vice versa, how different operational capabilities allow and support different strategies to gain competitive advantage. A process view of operations will be used to analyze different key operational dimensions such as capacity management, flow time management, supply chain management, and quality management. We will also discuss developments such as lean operations, just-in-time operations, and time-based competition.</p>  <p></p>  <p><strong>Class is now in session! Enroll now and join in on a discussion with Prof. Allon.</strong></p>",
+        "completion_ratio": 24,
+        "last_accessed_time": "2017-01-12T15:18:42Z",
+        "enrollment_time": "2017-01-12T15:18:22Z",
+        "num_collections": 0
+      },
+      {
+        "_class": "course",
+        "id": 17534,
+        "title": "Entrepreneurship -- From Idea to Launch",
+        "url": "/course/draft/17534/learn/",
+        "visible_instructors": [
+          {
+            "_class": "user",
+            "id": 152949,
+            "title": "Jeff Cornwall",
+            "name": "Jeff",
+            "display_name": "Jeff Cornwall",
+            "job_title": "Professor of Entrepreneurship / Author"
+          }
+        ],
+        "published_title": "entrepreneurship-from-idea-to-launch",
+        "tracking_id": "OEW_ICJERuGYIWAaBSAoMA",
+        "description": "<p>A Faculty Project Course - Best Professors Teaching the  World</p><p>Successful entrepreneurs understand that entrepreneurship is  a process that can be learned and improved upon with experience.&nbsp; This Entrepreneurship course provides a series of  lectures that can guide an aspiring entrepreneur through the steps that will  greatly increase their chances for successfully turning their idea into a  successful business.&nbsp; The Entrepreneurship Course  is designed to be viewed as an overview for those who want to learn what  entrepreneurship is really all about.&nbsp;  Or, this course can can be used as a step by step manual to walk an  entrepreneur through the process of launching a venture.&nbsp; Therefore it can be viewed over a few hours,  or it can be staggered over time.&nbsp; So  whether you are thinking about becoming an entrepreneur, or you are actively  trying to launch a new business, this Entrepreneurship course will offer you important  information that will bring you a better chance of success.</p><p>        </p><p>Take this ultimate Entrepreneurship Course  now and learn how  to become a successful entrepreneur.</p>  <p></p>  ",
+        "completion_ratio": 7,
+        "last_accessed_time": "2015-03-06T07:33:51Z",
+        "enrollment_time": "2015-03-06T07:33:33Z",
+        "num_collections": 0
+      },
+      {
+        "_class": "course",
+        "id": 1589888,
+        "title": "Deep Learning: An Introduction",
+        "url": "/course/draft/1589888/learn/",
+        "visible_instructors": [
+          {
+            "_class": "user",
+            "id": 33880438,
+            "title": "AkaSkills! 35,000+ Students",
+            "name": "AkaSkills!",
+            "display_name": "AkaSkills! 35,000+ Students",
+            "job_title": "IT Skills for Everyone"
+          }
+        ],
+        "published_title": "deep-learning-an-introduction",
+        "tracking_id": "S24-hhnkTOiiFxoMbEajjQ",
+        "description": "<p><strong>Deep Learning</strong> is the most exciting, highly sought and one of the fastest-growing field nowadays. If you want to pursue a career in <strong>Artificial Intelligence</strong>, Deep Learning will help you do so. </p>\n\n<p>Actually Deep Learning is a subfield of <strong>Machine learning</strong> concerned with algorithms inspired by <strong>artificial neural networks </strong>i.e the structure and function of the brain.</p>\n\n<p>DL is a key enabler of AI powered technologies being developed across the globe.</p>\n\n<p>DL training can help professionals to build a solid career in a rising technology domain and get the best jobs in top organizations.</p>\n\n<p>Deep Learning is a definite way to advance your career </p>\n\n<p>Join in, As for getting Deep Learning,  this course is the authority and equally important you will get a certification of completion that validates your skills.<br></p><p>Feel forward to have a look at course description and demo videos and we look forward to see you inside.</p>",
+        "completion_ratio": 0,
+        "last_accessed_time": null,
+        "enrollment_time": "2018-03-14T18:58:07Z",
+        "num_collections": 0
+      },
+      {
+        "_class": "course",
+        "id": 775330,
+        "title": "30 Days of Python | Unlock your Python Potential",
+        "url": "/course/30-days-of-python/learn/",
+        "visible_instructors": [
+          {
+            "_class": "user",
+            "id": 128598,
+            "title": "Justin Mitchel",
+            "name": "Justin",
+            "display_name": "Justin Mitchel",
+            "job_title": "Coding Entrepreneur & Teacher - 568,000+ Students"
+          }
+        ],
+        "published_title": "30-days-of-python",
+        "tracking_id": "QNwMpiSXS4iZSmnrG1LH2Q",
+        "description": "<p>In early 2016, Python passed Java as the #1 beginners language in the world. Why? It's because it's simple enough for beginners yet advanced enough for the pros. <br></p><p><strong>SpaceX</strong> uses it to launch Rockets</p><p><strong>Pixar</strong> uses Python to run their animation software</p><p><strong>Instagram</strong> &amp; <strong>Pinterest</strong> use it to run their web application (backend via Django)<br></p><p>Come learn with me and I'll show you how you can bend Python to your will. This course is great for beginners in Python at any age and any level of computer literacy.</p><p>The goal is simple: learn Python by building real projects step-by-step while we explain every concept along the way.  For the next 30 Days you're going to learn how to:</p>\n\n<ul><li>Scrape Data from nearly Any Website (including javascript-enabled sites)\n</li><li>Build your own Python applications for all types of automation</li><li>Send Emails &amp; SMS text messages to your friends our your customers</li><li>Read &amp; Write CSV, aka comma separated values, files to better store your data locally and work in popular programs like Microsoft Excel and Apple Numbers</li><li>Understand the basics behind the Python programming language so you're ready to build more advanced projects like Web Applications</li></ul><p><br></p>",
+        "completion_ratio": 0,
+        "last_accessed_time": null,
+        "enrollment_time": "2018-03-14T19:04:52Z",
+        "num_collections": 1
+      },
+      {
+        "_class": "course",
+        "id": 917724,
+        "title": "Learn JavaScript for Web Development",
+        "url": "/course/javascript-learn-javascript-essentials-and-build-project/learn/",
+        "visible_instructors": [
+          {
+            "_class": "user",
+            "id": 18993806,
+            "title": "Irfan Dayan",
+            "name": "Irfan",
+            "display_name": "Irfan Dayan",
+            "job_title": "Senior Web Developer, HTML5, CSS3 and JavaScript Expert"
+          }
+        ],
+        "published_title": "javascript-learn-javascript-essentials-and-build-project",
+        "tracking_id": "2V511ZhzTZ6FSWy3siSPvQ",
+        "description": "<p><strong><em>*** Over 105,000+ Students Are Already Taking This Course ***</em></strong></p><p><strong><em>***&nbsp;BEST REVIEWED Course On Udemy***</em></strong></p><p><strong>This course will teach you the most popular programming language in the world. Which is JavaScript! Yes, the JavaScript!</strong></p><p>If you are interested in building&nbsp;<strong>dynamic &amp; interactive</strong>&nbsp;projects in web development then this is the right course for you.&nbsp;</p><p>This course will start&nbsp;teaching&nbsp;you&nbsp;the very basics of JavaScript language and will gradually take you to the advanced level.&nbsp;</p><p>You will learn a deep understanding of JavaScript concepts. You will see&nbsp;the&nbsp;<strong>beauty and power</strong>&nbsp;of JavaScript language and you would be able to apply all these skills in modern web development.</p><p>Along the way, you will have&nbsp;<strong>quizzes</strong>,&nbsp;<strong>coding assignments</strong>&nbsp;to polish your JavaScript programming skills.&nbsp;</p><p>You will learn JavaScript coding standards with best practices.</p><p>After learning all the essentials of JavaScript language then you will&nbsp;<strong>build an interactive web project</strong>. And you will see, how with very basic HTML, CSS, and JavaScript essentials you can build modern-looking web projects. &nbsp;</p><p><strong><em>Students Review:&nbsp;</em></strong></p><ul><li><p><em>I really enjoy learning JavaScript through this course. This course will definitely improve your JavaScript skills and help you understand the basics and advanced concepts of JavaScript. The best thing about this is that the instructor explains the matters in a very easy and understandable approach illustrating with actual codes. In the end, the overlay menu project provides insight on how to actually code something from scratch.&nbsp;</em><strong><em>Nabin Jaiswal</em></strong><em><br></em></p></li><li><p><em>It is a nice course on javascript, very helpful in learning complex concepts in a simple manner. The Instructor has nicely covered up the important concept in simple English.&nbsp;</em><strong><em>Faisal Q.</em></strong></p></li><li><p><em>Excellent teacher who made difficult concepts easy to learn and understand. Highly recommend taking this course if you want to learn JavaScript! AWESOME. COURSE EVER.</em><strong><em>&nbsp;Mohin Sandhi</em></strong></p></li><li><p><em>Best Javascript Course. To the point &amp; very Informative. The teacher has a clear voice and well knowledge.&nbsp;</em><strong><em>Asfak Ahmed</em></strong></p></li></ul><p><br></p>",
+        "completion_ratio": 0,
+        "last_accessed_time": null,
+        "enrollment_time": "2018-03-18T06:56:19Z",
+        "num_collections": 0
+      },
+      {
+        "_class": "course",
+        "id": 552672,
+        "title": "Introduction to Databases and SQL Querying",
+        "url": "/course/introduction-to-databases-and-sql-querying/learn/",
+        "visible_instructors": [
+          {
+            "_class": "user",
+            "id": 9912714,
+            "title": "Rakesh Gopalakrishnan",
+            "name": "Rakesh",
+            "display_name": "Rakesh Gopalakrishnan",
+            "job_title": "Over 600,000 Students"
+          }
+        ],
+        "published_title": "introduction-to-databases-and-sql-querying",
+        "tracking_id": "lzI2rKlXQn-mMKEoTBQR6Q",
+        "description": "<p>This is an introductory course on Databases and SQL Querying. There are no pre-requisities for this course. If you are looking to get acquainted with the concept of Databases and Queries for maybe your next interview as an analyst, this is the right course for you. All you need is a windows machine and we will walk through step by step, right from setting up your environment to creating your first table to writing your first query. This course is structured in a way that you can follow along with me. At the end of this course, you should be comfortable writing simple queries including queries related to Dates, String manipulation, Aggregation etc. </p>",
+        "completion_ratio": 0,
+        "last_accessed_time": null,
+        "enrollment_time": "2018-03-23T15:33:48Z",
+        "num_collections": 0
+      }
+    ]
+  }

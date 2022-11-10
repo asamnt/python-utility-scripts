@@ -1,0 +1,287 @@
+{
+    "count": 206,
+    "next": "https://www.udemy.com/api-2.0/users/me/subscribed-courses/?fields%5Bcourse%5D=completion_ratio%2Cenrollment_time%2Clast_accessed_time%2Cnum_collections%2Cpublished_title%2Ctitle%2Ctracking_id%2Curl%2Cvisible_instructors&fields%5Buser%5D=%40min%2Cjob_title&is_archived=false&ordering=-last_accessed&page=17&page_size=12",
+    "previous": "https://www.udemy.com/api-2.0/users/me/subscribed-courses/?fields%5Bcourse%5D=completion_ratio%2Cenrollment_time%2Clast_accessed_time%2Cnum_collections%2Cpublished_title%2Ctitle%2Ctracking_id%2Curl%2Cvisible_instructors&fields%5Buser%5D=%40min%2Cjob_title&is_archived=false&ordering=-last_accessed&page=15&page_size=12",
+    "results": [
+      {
+        "_class": "course",
+        "id": 4671500,
+        "title": "React and React Native Apps with NodeJs API for Web & Mobile",
+        "url": "/course/react-react-native-nodejs-web-and-mobile-apps/learn/",
+        "visible_instructors": [
+          {
+            "_class": "user",
+            "id": 27195584,
+            "title": "Ryan Dhungel",
+            "name": "Ryan",
+            "display_name": "Ryan Dhungel",
+            "job_title": "Web Developer"
+          }
+        ],
+        "published_title": "react-react-native-nodejs-web-and-mobile-apps",
+        "tracking_id": "NLuIiH-DQLeEgEwS0oL-3g",
+        "completion_ratio": 0,
+        "last_accessed_time": null,
+        "enrollment_time": "2022-08-31T14:44:51Z",
+        "num_collections": 0
+      },
+      {
+        "_class": "course",
+        "id": 4341438,
+        "title": "Build Web Apps with React & Firebase",
+        "url": "/course/build-web-apps-with-react-firebase/learn/",
+        "visible_instructors": [
+          {
+            "_class": "user",
+            "id": 35642982,
+            "title": "The Net Ninja (Shaun Pelling)",
+            "name": "The Net Ninja",
+            "display_name": "The Net Ninja (Shaun Pelling)",
+            "job_title": "Online Coding Tutor & Net Ninja"
+          }
+        ],
+        "published_title": "build-web-apps-with-react-firebase",
+        "tracking_id": "0yh454_3Q8i6NInqN8Gs2A",
+        "completion_ratio": 0,
+        "last_accessed_time": null,
+        "enrollment_time": "2022-08-31T14:44:52Z",
+        "num_collections": 0
+      },
+      {
+        "_class": "course",
+        "id": 3598684,
+        "title": "10 Mega Responsive Websites with HTML, CSS, and JavaScript",
+        "url": "/course/10-mega-responsive-websites-with-html-css-and-javascript/learn/",
+        "visible_instructors": [
+          {
+            "_class": "user",
+            "id": 29894208,
+            "title": "Code And Create",
+            "name": "Code",
+            "display_name": "Code And Create",
+            "job_title": "Web Development / Web Design"
+          },
+          {
+            "_class": "user",
+            "id": 26429000,
+            "title": "George Lomidze",
+            "name": "George",
+            "display_name": "George Lomidze",
+            "job_title": "Web Developer / Designer / Co-Founder of 'CodeAndCreate'"
+          },
+          {
+            "_class": "user",
+            "id": 22986844,
+            "title": "Lasha Nozadze",
+            "name": "Lasha",
+            "display_name": "Lasha Nozadze",
+            "job_title": "Web And Software developer"
+          }
+        ],
+        "published_title": "10-mega-responsive-websites-with-html-css-and-javascript",
+        "tracking_id": "_xvCF6axSeO1OZ_v2vA8UQ",
+        "completion_ratio": 0,
+        "last_accessed_time": null,
+        "enrollment_time": "2022-08-31T14:44:52Z",
+        "num_collections": 0
+      },
+      {
+        "_class": "course",
+        "id": 1518026,
+        "title": "Javascript Tutorial and Projects Course (2022)",
+        "url": "/course/javascript-tutorial-for-beginners-w/learn/",
+        "visible_instructors": [
+          {
+            "_class": "user",
+            "id": 38711620,
+            "title": "John Smilga",
+            "name": "John",
+            "display_name": "John Smilga",
+            "job_title": "Instructor"
+          }
+        ],
+        "published_title": "javascript-tutorial-for-beginners-w",
+        "tracking_id": "SS6Z_b1QSeaS_co7ElPIWQ",
+        "completion_ratio": 0,
+        "last_accessed_time": null,
+        "enrollment_time": "2022-08-31T14:44:52Z",
+        "num_collections": 0
+      },
+      {
+        "_class": "course",
+        "id": 2018828,
+        "title": "React Tutorial and Projects Course (2022)",
+        "url": "/course/react-tutorial-and-projects-course/learn/",
+        "visible_instructors": [
+          {
+            "_class": "user",
+            "id": 38711620,
+            "title": "John Smilga",
+            "name": "John",
+            "display_name": "John Smilga",
+            "job_title": "Instructor"
+          }
+        ],
+        "published_title": "react-tutorial-and-projects-course",
+        "tracking_id": "wsfrSUHBR968GqP-A-FtdA",
+        "completion_ratio": 0,
+        "last_accessed_time": null,
+        "enrollment_time": "2022-08-31T14:44:52Z",
+        "num_collections": 0
+      },
+      {
+        "_class": "course",
+        "id": 947098,
+        "title": "Understanding TypeScript - 2023 Edition",
+        "url": "/course/understanding-typescript/learn/",
+        "visible_instructors": [
+          {
+            "_class": "user",
+            "id": 13952972,
+            "title": "Maximilian Schwarzmüller",
+            "name": "Maximilian",
+            "display_name": "Maximilian Schwarzmüller",
+            "job_title": "AWS certified, Professional Web Developer and Instructor"
+          }
+        ],
+        "published_title": "understanding-typescript",
+        "tracking_id": "XArzBdUJTF-v6d9c83o2PQ",
+        "completion_ratio": 0,
+        "last_accessed_time": null,
+        "enrollment_time": "2022-08-31T14:44:52Z",
+        "num_collections": 0
+      },
+      {
+        "_class": "course",
+        "id": 3749464,
+        "title": "React and Typescript: Build a Portfolio Project",
+        "url": "/course/react-and-typescript-build-a-portfolio-project/learn/",
+        "visible_instructors": [
+          {
+            "_class": "user",
+            "id": 5487312,
+            "title": "Stephen Grider",
+            "name": "Stephen",
+            "display_name": "Stephen Grider",
+            "job_title": "Engineering Architect"
+          }
+        ],
+        "published_title": "react-and-typescript-build-a-portfolio-project",
+        "tracking_id": "E1Jwo6boQ4q1Q4EuYw-h0A",
+        "completion_ratio": 0,
+        "last_accessed_time": null,
+        "enrollment_time": "2022-08-31T14:44:52Z",
+        "num_collections": 0
+      },
+      {
+        "_class": "course",
+        "id": 1646980,
+        "title": "MERN Stack Front To Back: Full Stack React, Redux & Node.js",
+        "url": "/course/mern-stack-front-to-back/learn/",
+        "visible_instructors": [
+          {
+            "_class": "user",
+            "id": 21681922,
+            "title": "Brad Traversy",
+            "name": "Brad",
+            "display_name": "Brad Traversy",
+            "job_title": "Full Stack Web Developer & Instructor at Traversy Media"
+          }
+        ],
+        "published_title": "mern-stack-front-to-back",
+        "tracking_id": "bYyvDYIKTpS1jnMQthJ3PA",
+        "completion_ratio": 0,
+        "last_accessed_time": null,
+        "enrollment_time": "2022-08-31T14:44:52Z",
+        "num_collections": 0
+      },
+      {
+        "_class": "course",
+        "id": 4699780,
+        "title": "Tailwind CSS From Scratch | Learn By Building Projects",
+        "url": "/course/tailwind-from-scratch/learn/",
+        "visible_instructors": [
+          {
+            "_class": "user",
+            "id": 21681922,
+            "title": "Brad Traversy",
+            "name": "Brad",
+            "display_name": "Brad Traversy",
+            "job_title": "Full Stack Web Developer & Instructor at Traversy Media"
+          }
+        ],
+        "published_title": "tailwind-from-scratch",
+        "tracking_id": "WYHCseY8RzCGFPL4AmCiVQ",
+        "completion_ratio": 0,
+        "last_accessed_time": null,
+        "enrollment_time": "2022-08-31T14:44:52Z",
+        "num_collections": 0
+      },
+      {
+        "_class": "course",
+        "id": 4412672,
+        "title": "Full Stack Ecommerce App With React , Redux , Firebase 2021",
+        "url": "/course/full-stack-ecommerce-app-with-react-redux-firebase-2021/learn/",
+        "visible_instructors": [
+          {
+            "_class": "user",
+            "id": 121760435,
+            "title": "K.Sathyaprakash Reddy",
+            "name": "K.Sathyaprakash",
+            "display_name": "K.Sathyaprakash Reddy",
+            "job_title": "Full Stack Developer"
+          }
+        ],
+        "published_title": "full-stack-ecommerce-app-with-react-redux-firebase-2021",
+        "tracking_id": "c33UtcL8RXKcxB0SuTyT1w",
+        "completion_ratio": 0,
+        "last_accessed_time": null,
+        "enrollment_time": "2022-08-31T14:44:52Z",
+        "num_collections": 0
+      },
+      {
+        "_class": "course",
+        "id": 4363612,
+        "title": "MERN Stack Car Rental Application 2021 : React ,Redux ,Node",
+        "url": "/course/mern-stack-car-rental-application-2021-react-redux-node/learn/",
+        "visible_instructors": [
+          {
+            "_class": "user",
+            "id": 121760435,
+            "title": "K.Sathyaprakash Reddy",
+            "name": "K.Sathyaprakash",
+            "display_name": "K.Sathyaprakash Reddy",
+            "job_title": "Full Stack Developer"
+          }
+        ],
+        "published_title": "mern-stack-car-rental-application-2021-react-redux-node",
+        "tracking_id": "M6zJXDCqSSaUUQCpSTMMAQ",
+        "completion_ratio": 0,
+        "last_accessed_time": null,
+        "enrollment_time": "2022-08-31T14:44:52Z",
+        "num_collections": 0
+      },
+      {
+        "_class": "course",
+        "id": 4133912,
+        "title": "MERN Stack : Hotel Booking App with React ,Node ,Mongo 2021",
+        "url": "/course/mern-stack-hotel-booking-app-with-react-node-mongo-2021/learn/",
+        "visible_instructors": [
+          {
+            "_class": "user",
+            "id": 121760435,
+            "title": "K.Sathyaprakash Reddy",
+            "name": "K.Sathyaprakash",
+            "display_name": "K.Sathyaprakash Reddy",
+            "job_title": "Full Stack Developer"
+          }
+        ],
+        "published_title": "mern-stack-hotel-booking-app-with-react-node-mongo-2021",
+        "tracking_id": "Aw_K6Hl3ScKsz8cxcOCbgg",
+        "completion_ratio": 0,
+        "last_accessed_time": null,
+        "enrollment_time": "2022-08-31T14:44:52Z",
+        "num_collections": 0
+      }
+    ]
+  }

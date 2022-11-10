@@ -1,0 +1,347 @@
+{
+    "count": 206,
+    "next": "https://www.udemy.com/api-2.0/users/me/subscribed-courses/?fields%5Bcourse%5D=completion_ratio%2Cenrollment_time%2Clast_accessed_time%2Cnum_collections%2Cpublished_title%2Ctitle%2Ctracking_id%2Curl%2Cdescription%2Cvisible_instructors&fields%5Buser%5D=%40min%2Cjob_title&is_archived=false&ordering=-last_accessed&page=4&page_size=12",
+    "previous": "https://www.udemy.com/api-2.0/users/me/subscribed-courses/?fields%5Bcourse%5D=completion_ratio%2Cenrollment_time%2Clast_accessed_time%2Cnum_collections%2Cpublished_title%2Ctitle%2Ctracking_id%2Curl%2Cdescription%2Cvisible_instructors&fields%5Buser%5D=%40min%2Cjob_title&is_archived=false&ordering=-last_accessed&page=2&page_size=12",
+    "results": [
+      {
+        "_class": "course",
+        "id": 4261034,
+        "title": "Building Real-Time REST APIs with Spring Boot - Blog App",
+        "url": "/course/building-real-time-rest-apis-with-spring-boot/learn/",
+        "visible_instructors": [
+          {
+            "_class": "user",
+            "id": 52467702,
+            "title": "Ramesh Fadatare (Java Guides)",
+            "name": "Ramesh",
+            "display_name": "Ramesh Fadatare (Java Guides)",
+            "job_title": "Software Engineer, Spring Certified, YouTuber and Instructor"
+          }
+        ],
+        "published_title": "building-real-time-rest-apis-with-spring-boot",
+        "tracking_id": "llu-lwMdR0-WCszLrMiV1w",
+        "description": "<p>In this course, you will learn how to build REAL-TIME REST&nbsp;APIs by developing a complete Blog application and you will also learn how to deploy it on the AWS&nbsp;cloud.</p><p>Well, we will follow the <strong>Real-time industry-standard </strong>project development approach in this course.</p><p><strong>The source code and PDF&nbsp;files (class notes) are available for download.</strong></p><p>This course is for advanced learning so you need to have Spring boot basics understanding. But don't worry I have added a <strong>Spring boot crash course (22+ lectures extra) for Beginners</strong> at end of this course so if you are a beginner then first learn the Spring boot crash course for beginners lectures.</p><p><br></p><p><strong>What is Spring Boot?</strong></p><p>Spring Boot is an opinionated framework that helps developers build Spring-based applications quickly and easily.</p><p>The main goal of Spring Boot is to quickly create Spring-based applications without requiring developers to write the same boilerplate configuration again and again.</p><p>Spring Boot is a very popular framework to develop REST web services and microservices.</p><p><br></p><p><strong>You will learn the below topics in this course:</strong></p><ul><li><p>Learn how to build great REST API’s for Blog App using Spring Boot, Spring Security, JWT, Spring Data JPA (Hibernate), MySQL database</p></li><li><p> Learn REST basics - Resource, Sub-resource, URI, HTTP methods, HTTP status codes</p></li><li><p>Learn how to build <strong>CRUD REST</strong> API's</p></li><li><p>Learn how to build REST API’s for <strong>Pagination </strong>and <strong>Sorting</strong></p></li><li><p>Learn how to build <strong>Search / Filter </strong>REST API</p></li><li><p>Learn how to build REST API’s for <strong>Login/Sign-in</strong> and <strong>Signup</strong></p></li><li><p>Learn how to use <strong>Lombok</strong></p></li><li><p>Learn how to use <strong>DTO’s</strong></p></li><li><p>Learn Spring boot REST API <strong>exception handling </strong></p></li><li><p>Learn Spring boot REST API <strong>validation</strong></p></li><li><p>Learn how to use <strong>Spring security</strong> in the Spring boot project</p></li><li><p>Learn Spring security <strong>In-memory</strong> and<strong> Database</strong> authentication and authorization</p></li><li><p>Learn how to <strong>secure </strong>REST API’s ( role-based security)</p></li><li><p>Learn how to write <strong>query methods</strong> using Spring Data JPA</p></li><li><p>Learn <strong>one to many</strong> and <strong>many to many</strong> JPA mappings </p></li><li><p>Learn how to test REST API’s using <strong>Postman REST Client</strong></p></li><li><p>Learn What is <strong>JWT </strong>and How it Works</p></li><li><p>Learn How to configure <strong>JWT ( JSON Web Token)</strong> in Spring Security</p></li><li><p>Learn how to secure REST API's using <strong>JWT</strong></p></li><li><p>Learn how to use <strong>JWT </strong>with <strong>Login API</strong></p></li><li><p>Learn <strong>versioning </strong>REST APIs</p></li><li><p>Learn Important <strong>4 versioning</strong> REST API strategies</p></li><li><p>Learn REST APIs Documentation with <strong>Swagger UI</strong></p></li><li><p>Test Spring Boot REST APIs with <strong>JWT </strong>using <strong>Swagger UI</strong></p></li><li><p>Learn Customizing Swagger REST Documentation with <strong>Annotations</strong></p></li><li><p>Learn how to add <strong>profiles (to deploy in different environments)</strong> Spring Boot project.</p></li><li><p>Learn <strong>Transaction Management </strong>with Spring Boot and Spring Data JPA </p></li><li><p>Learn how to deploy the Spring boot Blog app on <strong>AWS cloud (production)</strong></p></li><li><p><strong>30+ bonus videos for Spring boot beginners</strong></p></li><li><p>Important Spring boot topics for <strong>interviews</strong></p></li></ul><p><br></p><p><strong>Tools and Technologies used in this course:</strong></p><p><strong>Technologies:</strong></p><ol><li><p>Java 8+</p></li><li><p>Spring Boot</p></li><li><p>Spring MVC</p></li><li><p>Spring Data JPA ( Hibernate)</p></li><li><p>Spring Security</p></li><li><p>JWT</p></li><li><p>Tomcat</p></li></ol><p><strong>IDE:</strong></p><ul><li><p>Intellij IDEA</p></li></ul><p><strong>Database:</strong></p><ul><li><p>MySQL database</p></li></ul><p><strong>Tools:</strong></p><ol><li><p>Swagger - API documentation</p></li><li><p>Postman - Test REST API</p></li><li><p>Maven - Build Tool</p></li></ol><p><strong>Deployment on Production:</strong></p><ul><li><p>AWS</p></li></ul><p>By end of this course, you will be able to build real-time REST&nbsp;APIs for any application using Spring Boot and deploy them on the AWS&nbsp;cloud.</p>",
+        "completion_ratio": 10,
+        "last_accessed_time": "2022-09-22T03:41:03Z",
+        "enrollment_time": "2022-05-25T17:06:41Z",
+        "num_collections": 0
+      },
+      {
+        "_class": "course",
+        "id": 1362070,
+        "title": "React - The Complete Guide (incl Hooks, React Router, Redux)",
+        "url": "/course/react-the-complete-guide-incl-redux/learn/",
+        "visible_instructors": [
+          {
+            "_class": "user",
+            "id": 31926668,
+            "title": "Academind by Maximilian Schwarzmüller",
+            "name": "Academind by Maximilian",
+            "display_name": "Academind by Maximilian Schwarzmüller",
+            "job_title": "Online Education"
+          },
+          {
+            "_class": "user",
+            "id": 13952972,
+            "title": "Maximilian Schwarzmüller",
+            "name": "Maximilian",
+            "display_name": "Maximilian Schwarzmüller",
+            "job_title": "AWS certified, Professional Web Developer and Instructor"
+          }
+        ],
+        "published_title": "react-the-complete-guide-incl-redux",
+        "tracking_id": "dehg81zpS2mISdr_vjz21w",
+        "description": "<p><strong>This course is fully up-to-date with React 18 (the latest version of React)!</strong></p><p><strong>It was completely updated and re-recorded from the ground up - it teaches the very latest version of React with all the core, modern features you need to know!</strong></p><p>---</p><p>This course also comes with <strong>two paths</strong> which you can take:&nbsp;The <strong>\"complete\"&nbsp;path</strong> (full &gt;40h course) and the <strong>\"summary\"&nbsp;path</strong> (~4h summary module) - you can choose the path that best fits your time requirements!&nbsp;:-)</p><p>---</p><p>React.js is <strong>THE most popular JavaScript library</strong> you can use and learn these days to build modern, reactive user interfaces for the web.</p><p>This course teaches you React in-depth, <strong>from the ground up</strong>, step by step by diving into all the core basics, exploring tons of examples and also introducing you to advanced concepts as well.</p><p>You'll get <strong>all the theory, tons of examples and demos, assignments and exercises and tons of important knowledge</strong> that is skipped by most other resources - after all, there is a reason why this course is that huge! :)</p><p>And in case you don't even know why you would want to learn React and you're just here because of some ad or \"the algorithm\" - no worries: ReactJS is a key technology as a web developer and <strong>in this course I will also explain WHY it's that important</strong>!</p><p><br></p><p><strong>Welcome to \"React - The Complete Guide\"!</strong></p><p>This course will teach you React.js in a practice-oriented way, using all the latest patterns and best practices you need. You will learn all the key fundamentals as well as advanced concepts and related topics to turn you into a React.js developer.</p><p>This is a huge course because <strong>it really covers EVERYTHING you need to know and learn to become a React.js developer!</strong></p><p>No matter if you <strong>know nothing about React</strong> or if you already <strong>got some basic React knowledge</strong> (not required but also not a problem), you will get <strong>tons of useful information and knowledge out of this course</strong>!</p><p>My goal with this course is to ensure that you feel confident working with React, so that you can apply for React jobs, use it in your own projects or simply enhance your portfolio as a developer - whatever your goal is: This course gets you there!</p><p><br></p><p>I originally created this course in 2017 and I have kept it updated since that - <strong>redoing it from the ground up in 2021</strong>. And of course I'm dedicated to keeping this course up-to-date - so that you can rely on this course to learn React in the best possible way!</p><p><strong>What's in this course?</strong></p><ul><li><p>A thorough introduction to React.js (What is it and why would you use it?)</p></li><li><p>All the core basics: How React works, building components with React &amp; building UIs with React</p></li><li><p>Components, props &amp; dynamic data binding</p></li><li><p>Working with user events and state to create interactive applications</p></li><li><p>A (thorough) look behind the scenes to understand how React works under the hood</p></li><li><p>Detailed explanations on how to work with lists and conditional content</p></li><li><p>React Hooks (in-depth)!</p></li><li><p>Working with built-in Hooks and building custom Hooks</p></li><li><p>How to debug React apps</p></li><li><p>Styling React apps with \"Styled Components\" and \"CSS Modules\"</p></li><li><p>Working with \"Fragments\" &amp; \"Portals\"</p></li><li><p>Dealing with side effects</p></li><li><p>Class-based components and functional components</p></li><li><p>Sending Http requests &amp; handling transitional states + responses</p></li><li><p>Handling forms and user input (incl. validation)</p></li><li><p>Redux &amp; Redux Toolkit</p></li><li><p>Routing with React Router</p></li><li><p>An in-depth introduction into Next.js</p></li><li><p>Deploying React Apps</p></li><li><p>Implementing Authentication</p></li><li><p>Unit Tests</p></li><li><p>Combining React with TypeScript</p></li><li><p>Adding Animations</p></li><li><p>Tons of examples and demo projects so that you can apply all the things you learned in real projects</p></li><li><p>And so much more - check out the full curriculum on this page!</p></li></ul><p>This really is the \"Complete Guide\" - promised!</p><p>And best of all?</p><p><strong>You don't need any prior React knowledge!</strong></p><p>This course starts with zero knowledge assumed! <strong>All you need is basic web development and JavaScript knowledge</strong> (though the course even <strong>includes a brief JavaScript refresher</strong> to ensure that we're all on the same page!).</p><p><strong>Check out the full curriculum, the free preview videos and join the course risk-free thanks to the 30-day money-back guarantee!</strong></p>",
+        "completion_ratio": 20,
+        "last_accessed_time": "2022-09-18T06:51:08Z",
+        "enrollment_time": "2020-07-29T05:04:45Z",
+        "num_collections": 0
+      },
+      {
+        "_class": "course",
+        "id": 3671332,
+        "title": "50 Projects In 50 Days - HTML, CSS & JavaScript",
+        "url": "/course/50-projects-50-days/learn/",
+        "visible_instructors": [
+          {
+            "_class": "user",
+            "id": 21681922,
+            "title": "Brad Traversy",
+            "name": "Brad",
+            "display_name": "Brad Traversy",
+            "job_title": "Full Stack Web Developer & Instructor at Traversy Media"
+          },
+          {
+            "_class": "user",
+            "id": 5363252,
+            "title": "Florin Pop",
+            "name": "Florin",
+            "display_name": "Florin Pop",
+            "job_title": "Web developer, YouTuber and Streamer"
+          }
+        ],
+        "published_title": "50-projects-50-days",
+        "tracking_id": "149nMW7gR923g5iuvyI40w",
+        "description": "<p>This is a purely project-based course. It is geared toward beginners, but intermediate developers can also enjoy creating new things. This course includes 50 mini projects in HTML, CSS &amp; JavaScript that relate to the DOM (Document Object Model). Here is a list of what we will create in this course:</p><p><br></p><ol><li><p>Expanding Cards</p></li><li><p>Progress Steps</p></li><li><p>Rotating Navigation Animation</p></li><li><p>Hidden Search Widget</p></li><li><p>Blurry Loading</p></li><li><p>Scroll Animation</p></li><li><p>Split Landing Page</p></li><li><p>Form Wave</p></li><li><p>Sound Board</p></li><li><p>Dad Jokes</p></li><li><p>Event Keycodes</p></li><li><p>Faq Collapse</p></li><li><p>Random Choice Picker</p></li><li><p>Animated Navigation</p></li><li><p>Incrementing Counter</p></li><li><p>Drink Water</p></li><li><p>Movie App</p></li><li><p>Background Slider</p></li><li><p>Theme Clock</p></li><li><p>Button Ripple Effect</p></li><li><p>Drag N Drop</p></li><li><p>Drawing App</p></li><li><p>Kinetic Loader</p></li><li><p>Content Placeholder</p></li><li><p>Sticky Navbar</p></li><li><p>Double Vertical Slider</p></li><li><p>Toast Notification</p></li><li><p>Github Profiles</p></li><li><p>Double Click Heart</p></li><li><p>Auto Text Effect</p></li><li><p>Password Generator</p></li><li><p>Good Cheap Fast</p></li><li><p>Notes App</p></li><li><p>Animated Countdown</p></li><li><p>Image Carousel</p></li><li><p>Hoverboard</p></li><li><p>Pokedex</p></li><li><p>Mobile Tab Navigation</p></li><li><p>Password Strength Background</p></li><li><p>3d Background Boxes</p></li><li><p>Verify Account UI</p></li><li><p>Live User Filter</p></li><li><p>Feedback UI Design</p></li><li><p>Custom Range Slider</p></li><li><p>Netflix Mobile Navigation</p></li><li><p>Quiz App</p></li><li><p>Testimonial Box Switcher</p></li><li><p>Random Image Feed</p></li><li><p>Todo List</p></li><li><p>Insect Catch Game</p><p><br></p></li></ol><p>Many people jump into a frontend framework too early. Learning vanilla JavaScript and understanding how the document object model works are essential before moving to a framework. This course teaches you this by creating real-world projects of all types.</p><p><br></p><p>You will also learn more about HTML5 and CSS including semantic tags in your markup, basic CSS properties such as colors, alignment, flexbox, and shadows as well as creating responsive layouts with CSS&nbsp;media queries, CSS&nbsp;custom properties, animations/transitions, and more.</p><p><br></p><p>50 projects may seem like a lot, but we were able to make them small enough to where you can complete a project in just a few hours. Of course, this depends on your skill level.</p>",
+        "completion_ratio": 5,
+        "last_accessed_time": "2022-09-10T04:07:35Z",
+        "enrollment_time": "2022-04-26T02:01:56Z",
+        "num_collections": 0
+      },
+      {
+        "_class": "course",
+        "id": 1879018,
+        "title": "NodeJS - The Complete Guide (MVC, REST APIs, GraphQL, Deno)",
+        "url": "/course/nodejs-the-complete-guide/learn/",
+        "visible_instructors": [
+          {
+            "_class": "user",
+            "id": 31926668,
+            "title": "Academind by Maximilian Schwarzmüller",
+            "name": "Academind by Maximilian",
+            "display_name": "Academind by Maximilian Schwarzmüller",
+            "job_title": "Online Education"
+          },
+          {
+            "_class": "user",
+            "id": 13952972,
+            "title": "Maximilian Schwarzmüller",
+            "name": "Maximilian",
+            "display_name": "Maximilian Schwarzmüller",
+            "job_title": "AWS certified, Professional Web Developer and Instructor"
+          }
+        ],
+        "published_title": "nodejs-the-complete-guide",
+        "tracking_id": "6B5leY6RQcCnmGBNy_UUQQ",
+        "description": "<p><strong>Join the most comprehensive Node.js course on Udemy and learn Node in both a practical as well as theory-based way!</strong></p><p>---</p><p><strong>This course was updated to also include sections on Deno.js - in addition to more than 30 hours of content on Node.js!</strong></p><p>---</p><p>Node.js is probably <strong>THE most popular </strong>and modern server-side programming language you can dive into these days!</p><p>Node.js developers are in high demand and the language is used for everything from traditional web apps with <strong>server-side rendered views</strong> over <strong>REST&nbsp;APIs</strong> all the way up to <strong>GraphQL APIs</strong> and <strong>real-time web services</strong>. Not to mention its applications in build workflows for projects of all sizes.</p><p><strong>This course will teach you all of that!</strong>&nbsp;From scratch with zero prior knowledge assumed. Though if you do bring some knowledge, you'll of course be able to quickly jump into the course modules that are most interesting to you.</p><p><strong>Here's what you'll learn in this course:</strong></p><ul><li><p>Node.js Basics &amp;&nbsp;Basic Core Modules</p></li><li><p>Parsing Requests &amp;&nbsp;Sending Responses</p></li><li><p>Rendering HTML&nbsp;Dynamically (on the Server)</p></li><li><p>Using Express.js</p></li><li><p>Working with Files and generating PDFs on the Server (on-the-fly)</p></li><li><p>File Up- and Download</p></li><li><p>Using the Model-View-Controller (MVC)&nbsp;Pattern</p></li><li><p>Using Node.js with SQL&nbsp;(MySQL) and Sequelize</p></li><li><p>Using Node.js with NoSQL&nbsp;(MongoDB)&nbsp;and Mongoose</p></li><li><p>Working with Sessions &amp;&nbsp;Cookies</p></li><li><p>User Authentication and Authorization</p></li><li><p>Sending E-Mails</p></li><li><p>Validating User Input</p></li><li><p>Data Pagination</p></li><li><p>Handling Payments with Stripe.js</p></li><li><p>Building REST&nbsp;APIs</p></li><li><p>Authentication in REST&nbsp;APIs</p></li><li><p>File Upload in REST&nbsp;APIs</p></li><li><p>Building GraphQL&nbsp;APIs</p></li><li><p>Authentication in GraphQL&nbsp;APIs</p></li><li><p>File Upload in GraphQL&nbsp;APIs</p></li><li><p>Building a Realtime Node.js App with Websockets</p></li><li><p>Automated Testing (Unit Tests)</p></li><li><p>Deploying a Node.js Application</p></li><li><p>Using TypeScript with Node.js</p></li><li><p>Exploring Deno.js</p></li><li><p>And Way More!</p></li></ul><p>Does this look like a lot of content?&nbsp;It certainly is!</p><p>This is not a short course but it is the \"Complete Guide\"&nbsp;on Node.js after all. We'll dive into a lot of topics and we'll not just scratch the surface.</p><p>We'll also not just walk through boring theory and some slides. Instead, we'll build <strong>two major projects</strong>: An online shop (including checkout + payments) and a blog.</p><p>All topics and features of the course will be shown and used in these projects and you'll therefore learn about them in a realistic environment.</p><p><br></p><p><strong>Is this course for you?</strong></p><p>If you got <strong>no Node.js experience</strong>, you'll love this course because it starts with zero knowledge assumed. It's the perfect course to become a Node.js developer.</p><p>If you got <strong>basic Node.js experience</strong>, this course is also a perfect match because you can go through the basic modules quickly and you'll benefit from all the deep dives and advanced topics the course covers.</p><p>Are you an <strong>advanced Node.js</strong> user?&nbsp;Check the curriculum then. Maybe you found no other course that shows how to use SQL&nbsp;with Node.js. Or you're interested in GraphQL. Chances are, that you'll get a lot of value out of this course, too!</p><p><br></p><p><strong>Prerequisites</strong></p><ul><li><p>NO&nbsp;Node.js knowledge is required at all!</p></li><li><p>NO&nbsp;other programming language knowledge (besides JavaScript, see next point) is required</p></li><li><p>Basic JavaScript knowledge is assumed though - you should at least be willing to pick it up whilst going through the course. A JS&nbsp;refresher module exists to bring you up to the latest syntax quickly</p></li><li><p>Basic HTML&nbsp;+ CSS&nbsp;knowledge helps but is NOT&nbsp;required</p></li></ul>",
+        "completion_ratio": 1,
+        "last_accessed_time": "2022-09-03T17:07:08Z",
+        "enrollment_time": "2021-11-21T18:10:08Z",
+        "num_collections": 1
+      },
+      {
+        "_class": "course",
+        "id": 3574151,
+        "title": "React Redux NodeJs Marketplace - Build A Hotel Booking App",
+        "url": "/course/react-node-mern-marketplace/learn/",
+        "visible_instructors": [
+          {
+            "_class": "user",
+            "id": 27195584,
+            "title": "Ryan Dhungel",
+            "name": "Ryan",
+            "display_name": "Ryan Dhungel",
+            "job_title": "Web Developer"
+          }
+        ],
+        "published_title": "react-node-mern-marketplace",
+        "tracking_id": "Uewd8XW0TM66x9lq6ETMlQ",
+        "description": "<p>Have you ever dreamed of building your own marketplace app and start making money? Well, It is about to become true!</p><p>In this course, you will learn to build a Marketplace app with similar concept used by sites like eBay, Udemy, E-commerce Marketplace, Online Service Booking (for example for car servicing), Hotel Booking, Beauty Parlor Booking etc</p><ul><li><p>This app will allow users to post services/products on your site</p></li><li><p>Let users buy those products/services.</p></li><li><p>As a platform owner, you will collect money from customers and pay to sellers.</p></li><li><p>In-between you will take certain percentage/commission/fee for being a platform owner.</p></li><li><p>You will host two different types of users in your app. one is seller who will sell products or services, for example a hotel owner who will post his hotel rooms available for booking. Other type is buyer who will buy products or services, for example a user who want to book a hotel room.</p></li><li><p>The entire payment flow will be automated using stripe. When a customer pays using their credit card, stripe will allocate certain percentage to the seller and certain percentage to the platform owner (platform fee). Then every week, stripe will automatically pay the balance to the account holders directly to their bank account.</p></li></ul><p>The knowledge you will learn in this course will be extremely valuable for you to build a marketplace app of any kind. You can start making money with the app you build. Are you ready?</p>",
+        "completion_ratio": 0,
+        "last_accessed_time": "2022-09-03T17:05:19Z",
+        "enrollment_time": "2022-08-31T14:44:52Z",
+        "num_collections": 0
+      },
+      {
+        "_class": "course",
+        "id": 4379024,
+        "title": "Build a Responsive Portfolio Project in React from Scratch",
+        "url": "/course/build-a-responsive-portfolio-project-in-react-from-scratch/learn/",
+        "visible_instructors": [
+          {
+            "_class": "user",
+            "id": 121760435,
+            "title": "K.Sathyaprakash Reddy",
+            "name": "K.Sathyaprakash",
+            "display_name": "K.Sathyaprakash Reddy",
+            "job_title": "Full Stack Developer"
+          }
+        ],
+        "published_title": "build-a-responsive-portfolio-project-in-react-from-scratch",
+        "tracking_id": "Ipb8LagDQbuHGb-mHHNwZQ",
+        "description": "<p>React is a free and open-source front-end JavaScript library for building user interfaces or UI components. It is maintained by Facebook and a community of individual developers and companies. React can be used as a base in the development of single-page or mobile applications.</p><p>Hii Guys, </p><p>In this course, we will build a complete responsive multipage portfolio from scratch in react.</p><p>So you will be learning the different topics involved in React JS and CSS. We are not using any external libraries for styling . We will write everything from scratch.</p><p><strong>The topics we will refer to from React and CSS in this course are</strong></p><ul><li><p>React, Single Page Applications</p></li><li><p>Importance of having a personal portfolio</p></li><li><p>React Components</p></li><li><p>React Routing</p></li><li><p>React States</p></li><li><p>CSS Classes and Ids</p></li><li><p>CSS Positions with real-time examples</p></li><li><p>A brief understanding of position absolute and relative.</p></li><li><p>Making the layouts responsive with a grid system.</p></li><li><p>CSS Transitions and Transforms.</p></li><li><p>CSS Webkits and Keyframes</p></li><li><p>CSS Animations</p></li><li><p>Animate On Scroll</p></li><li><p>Neuromorphic Designs and Box shadows</p></li><li><p>By the end of this course, you will have your own portfolio from scratch in React JS without any external CSS libraries.</p></li><li><p>Complete Source with Git Repository.</p></li><li><p>Full Downloadable Resources along with Images, static files.</p></li><li><p>24/7 Q/A Support</p></li></ul><p>Cascading Style Sheets is a style sheet language used for describing the presentation of a document written in a markup language such as HTML. CSS is a cornerstone technology of the World Wide Web, alongside HTML and JavaScript.</p><p><br></p><p><br></p>",
+        "completion_ratio": 11,
+        "last_accessed_time": "2022-09-02T19:23:31Z",
+        "enrollment_time": "2022-08-31T14:44:53Z",
+        "num_collections": 0
+      },
+      {
+        "_class": "course",
+        "id": 4188320,
+        "title": "Git & GitHub - The Practical Guide",
+        "url": "/course/git-github-practical-guide/learn/",
+        "visible_instructors": [
+          {
+            "_class": "user",
+            "id": 31926668,
+            "title": "Academind by Maximilian Schwarzmüller",
+            "name": "Academind by Maximilian",
+            "display_name": "Academind by Maximilian Schwarzmüller",
+            "job_title": "Online Education"
+          },
+          {
+            "_class": "user",
+            "id": 13952972,
+            "title": "Maximilian Schwarzmüller",
+            "name": "Maximilian",
+            "display_name": "Maximilian Schwarzmüller",
+            "job_title": "AWS certified, Professional Web Developer and Instructor"
+          },
+          {
+            "_class": "user",
+            "id": 30035496,
+            "title": "Manuel Lorenz",
+            "name": "Manuel",
+            "display_name": "Manuel Lorenz",
+            "job_title": "Professional Business Analyst and Instructor"
+          }
+        ],
+        "published_title": "git-github-practical-guide",
+        "tracking_id": "LLHOyppvQcWIISTyZ8n_mg",
+        "description": "<p>No matter if you're just getting started with (web) development, if you're applying for a developer job or if you just need to refresh your knowledge - <strong>version control is a core skill </strong>you need to succeed as a developer!</p><p><strong>Git</strong> (a version control system) and <strong>Github</strong> (a cloud provider for Git managed projects) form an <strong>outstanding combination</strong> to provide the best possible experience to <strong>create and maintain a clearly structured project history!</strong></p><p>This course will guide everyone (<strong>no prior knowledge is required!</strong>) through the core steps to use these tools in your daily projects with ease.</p><p><strong>What is Version Control?</strong></p><p>Saving &amp; accessing data and tracking changes is what version control is all about. No matter if you're working on a private or a professional development project, code evolves, changes and continuously gets improved. A clean version management structure is therefore key to successfully manage the progress of your projects.</p><p><strong>What is Git?</strong></p><p>Git is a 100% free version management tool, specifically created for and used by developers all over the world to manage project code history locally on their machines (Windows, macOS, Linux/Unix).</p><p><strong>What is GitHub?</strong></p><p>GitHub is an online service, it is also free for many use cases (an account is all you need) and brings Git's local \"file-tracking\" strengths to the cloud. Storing project code online, updating code, accessing other team members' code or collaborating on large scale projects inside your organization - all possible with the help of GitHub!</p><p><strong>Why Should I Know these Tools?</strong></p><p>Version control is key to manage projects efficiently so not knowing Git and GitHub makes your daily developer life a lot more complicated. The same apply if you're currently looking for a new job in the industry, version control is required in any developer projects these days, so not knowing Git &amp; GitHub puts you behind your competition!</p><p>Although Git and GitHub are user friendly, both come with their own logic and \"language\". Getting started can therefore be a bit cumbersome and this is where this course comes into play!</p><p><strong>What do I Learn in this Course?</strong></p><p>This course starts at the very basics, no prior Git or GitHub knowledge is required! You'll learn how to use Git and how to write Git commands in the Mac Terminal or the Windows Command Prompt (optional refreshers on both are also part of the course).</p><p>Starting with the first initialization of a so-called Git repository, we'll build up your knowledge step-by-step and understand the what &amp; why behind concepts like branches, commits, the staging area, merging &amp; rebasing, cloning, pushing &amp; pulling branches and a lot more!</p><p><strong>What's Inside this Course?</strong></p><ul><li><p>An optional Command Line Crash Course for both Windows &amp; MacOS users</p></li><li><p>Git Download &amp; Installation</p></li><li><p>Git Theory - Working Directory, Staging Area (Index) and Repository explained</p></li><li><p>Creating Git Repositories</p></li><li><p>Working with <strong>Commits</strong></p></li><li><p>Understanding <strong>Branches</strong></p></li><li><p>Understanding the HEAD and the <strong>detached HEAD</strong></p></li><li><p>Newly Introduced Git Commands with <strong>Git Version 2.23</strong></p></li><li><p><strong>Deleting Data</strong> (Staged &amp; Unstaged, Commits &amp; Branches)</p></li><li><p>Ignoring Files</p></li><li><p>The Stash</p></li><li><p>Merging, Rebasing and <strong>Cherry Picking</strong></p></li><li><p>Bringing Back Deleted Data with the <strong>Reflog</strong></p></li><li><p>Connecting Local Git Repositories to Remote GitHub Repositories</p></li><li><p>Git Push &amp; Pull (+ Fetch)</p></li><li><p>Local, Remote Tracking &amp; Remote Branches</p></li><li><p>GitHub <strong>Collaborators</strong> &amp; <strong>Contributors</strong></p></li><li><p><strong>Forks &amp; Pull Requests</strong></p></li><li><p>GitHub Issues</p></li><li><p>Github Projects</p></li><li><p><strong>and so much more!</strong></p></li></ul><p>All covered, explained and applied in <strong>easy to understand examples</strong> in the course!</p><p>---</p><p><strong>In this course we'll find answers to questions like:</strong></p><p>\"How can I delete my last commit?\"</p><p>\"What is the Stash?\"</p><p>\"What is the difference between a merge and a rebase (and what is cherry-picking actually)?\"</p><p>\"How to bring back a deleted commit?\"</p><p>\"What is the difference between a local tracking branch and a remote tracking branch?\"</p><p>---</p><p>What are you waiting for, jump and board and let's <strong>GIT</strong> started<strong> :)</strong></p>",
+        "completion_ratio": 1,
+        "last_accessed_time": "2022-09-02T02:37:44Z",
+        "enrollment_time": "2021-11-21T18:10:08Z",
+        "num_collections": 1
+      },
+      {
+        "_class": "course",
+        "id": 776744,
+        "title": "Hands-on Linux: Self-Hosted WordPress for Linux Beginners",
+        "url": "/course/hands-on-linux-self-hosted-wordpress-for-linux-beginners/learn/",
+        "visible_instructors": [
+          {
+            "_class": "user",
+            "id": 20812236,
+            "title": "David Cohen",
+            "name": "David",
+            "display_name": "David Cohen",
+            "job_title": "10+ year Cloud, Linux, DevOps, and Software Professional"
+          }
+        ],
+        "published_title": "hands-on-linux-self-hosted-wordpress-for-linux-beginners",
+        "tracking_id": "5nYUdbCFRdyHEJbb3RYIOA",
+        "description": "<p>Learn Linux, Cloud, and DevOps basics in a practical, project-based course designed to get you *using* new skills as soon as&nbsp;you learn them.</p><p>By the time you finish, you'll be extremely comfortable on the Linux command-line, and you'll have a self-hosted production-grade WordPress hosting platform (on AWS, another cloud host, or a local virtual machine) that you can use to host any number of WordPress sites for friends, family, and clients. It also happens to cost less and be more secure than most WordPress hosting plans :-).</p><p>Other courses focus on slow memorization of theory and commands, which doesn't produce real-life skills. This course throws you into real-life Linux tasks from the very beginning.&nbsp;Even if you've never worked with Linux before, give me a few hours and you'll&nbsp;be installing and configuring software from the command line, managing system services, working with a remote server, hardening security,&nbsp;scheduling backups and testing your&nbsp;disaster recovery plan,&nbsp;performing basic scripting and&nbsp;automation, and setting up monitoring for your infrastructure.</p><p>While you're doing this, you'll get a slow drip of theory, giving you just enough background to hang your new practical knowledge on and ensuring that you know what's going on underneath the covers. I've worked in the industry for a long time and this is the only way I've seen theory really 'stick' with people.</p><p>Over the course of a few afternoons, you'll have completed a serious (and actually useful)&nbsp;project, understand the basics of Linux and system administration, and be comfortable on the Linux terminal; ready to take on larger and more complicated projects or build on the foundation of your WordPress hosting platform.</p><p>What we build together during this course is also a great resume project to bring up during interviews. Countless students who have taken this course are now Linux, DevOps, and Software engineers in the real world.</p>",
+        "completion_ratio": 20,
+        "last_accessed_time": "2022-08-23T02:01:49Z",
+        "enrollment_time": "2022-08-13T13:34:45Z",
+        "num_collections": 0
+      },
+      {
+        "_class": "course",
+        "id": 4615892,
+        "title": "Build Facebook clone with REACT JS AND THE MERN STACK 2022",
+        "url": "/course/build-facebook-clone-and-master-react-js-mern-stack-2022/learn/",
+        "visible_instructors": [
+          {
+            "_class": "user",
+            "id": 168774740,
+            "title": "Mohamed Hajji",
+            "name": "Mohamed",
+            "display_name": "Mohamed Hajji",
+            "job_title": "Full Stack web developer"
+          }
+        ],
+        "published_title": "build-facebook-clone-and-master-react-js-mern-stack-2022",
+        "tracking_id": "8RqTh6cnQ7O4eTYJ--9dUA",
+        "description": "<p>In this course you will learn how to build an advanced social media Facebook clone application (version 2022) and master working with React js , Node js, Express js, Mongodb and many many other tools we will use through the course.<br>-So as start we will build a strong authentication system so you can register, login and reset password, we will also have a validation system for register using Formik and Yup with friendly error messages&nbsp; to verify name to be a certain length or free from special characters, validate email and password, validate dates to verify age, username will be generated automatically and we will make sure it unique.<br>-We are also creating a mailing system where we will send verification links and reset password codes to the user, and directly after registering the user gets a verification link to activate account, so we are also learning how to create html emails.<br>-We have a home page where all posts for the people you follow or friends with will be displayed mixed with your posts and ordered from newest to oldest.</p><p>-You can create a post using text, emojis ,backgrounds, images and done beautifully dame as Facebook exactly.</p><p>-You can react on a post and change react unreact, use like button to like, unlike and remove existing react, also reacts will be displayed and ordered and any react you or remove will affect that live without refresh.<br>-You can comment using text, emojis and also pictures also comments will be ordered and always updating directly after submit.<br>-you can save/unsave post, download post images, delete post...<br>-We will have all sort of validation for file upload for size and type.<br>-You will learn how to crop, zoom, rotate, flip images using crooper.<br>-You can update your cover picture using old cover pictures or a new image with the option to crop zoom and select the part of image you want to use and after submit directly it will create a post that says user updated his/her cover picture.<br>-You can update your profile picture using old cover pictures or a new image with the option to crop zoom and select the part of image you want to use and after submit directly it will create a post that says user updated his/her profile picture and you can also use text and emojis.<br>-Every user have its own profile, where all details displayed from cover, profile picture , details (othername, bio, job, workplace, relationship...), photos, friends, posts<br>-You can update all your details and see changes live directly.<br>-We will use Cloudinary to upload our images in a new creative way, you will be impressed.<br>-We have a full friendship system whe you can add friend, cancel request, accept request, delete request, unfriend, follow, unfollow<br>-Also we have a friends page where you can mage all your requests and friends.<br>-We have live search functionality as you type new results appear, also any user you click will be added to your search history and it's also will be displayed in order by the latest clicked on.<br>-We will use skeleton loaders while page loads or while we get data from backend and also using all different kind of loaders across our app.<br>-We will have protected routes.<br>-We will use react redux store to setup a global store to share data across all components.<br>-We will use react router dom v6 explained in details.<br>-We will work with cookies and JSON web tokens to store data temporarily.<br>-we will use many react js functions like useState, useEffect, useReducer, useRef, useCallback, event listeners and also create custom hooks.</p>",
+        "completion_ratio": 1,
+        "last_accessed_time": "2022-08-19T18:24:49Z",
+        "enrollment_time": "2022-05-25T17:06:41Z",
+        "num_collections": 0
+      },
+      {
+        "_class": "course",
+        "id": 705264,
+        "title": "Modern React with Redux",
+        "url": "/course/react-redux/learn/",
+        "visible_instructors": [
+          {
+            "_class": "user",
+            "id": 5487312,
+            "title": "Stephen Grider",
+            "name": "Stephen",
+            "display_name": "Stephen Grider",
+            "job_title": "Engineering Architect"
+          }
+        ],
+        "published_title": "react-redux",
+        "tracking_id": "NqhBg4yaQvmXfYgQ5Gp7_w",
+        "description": "<p>Congratulations!&nbsp; You've found the <em>most </em><strong><em>popular</em></strong>, <em>most </em><strong><em>complete</em></strong>, and <em>most </em><strong><em>up-to-date</em></strong> resource online for learning React and Redux!</p><p>Thousands of other engineers have learned React and Redux, and you can too.&nbsp; This course uses a <strong>time-tested, battle-proven</strong> method to make sure you understand exactly how React and Redux work, and will get you a new job working as a software engineer or help you build that app you've always been dreaming about.</p><p><strong>The difference between this course and all the others: you will understand the design patterns used by top companies to build massively popular web apps.</strong></p><p>React is the most popular Javascript library of the last five years, and the job market is still hotter than ever.&nbsp; Companies large and small can't hire engineers who understand React and Redux fast enough, and salaries for engineers are at an all time high.&nbsp; It's a great time to learn React!</p><p>----------------------</p><p><strong><em>What will you build?</em></strong></p><p>This course features hundreds of videos with <strong>dozens of custom diagrams</strong> to help you understand how React and Redux work. &nbsp;No prior experience with either is necessary. Through tireless, patient explanations and many interesting practical examples, you'll learn the fundamentals of building dynamic and live web apps using React.</p><p>Each topic included in this course is added incrementally, to make sure that you have a solid foundation of knowledge.&nbsp; You'll find plenty of discussion added in to help you understand exactly when and where to use each feature of React and Redux.</p><p><strong>My guarantee to you: there is no other course online that teaches more features of React and Redux.&nbsp; This is the most comprehensive resource there is.</strong></p><p><br></p><p>Below is a <strong><em>partial list </em></strong>of the topics you'll find in this course:</p><ul><li><p>Master the <strong>fundamental features</strong> of React, including JSX, state, and props</p></li><li><p>From square one, understand how to build <strong>reusable components</strong></p></li><li><p>Dive into the <strong>source code of Redux </strong>to understand how it works behind the scenes</p></li><li><p>Test your knowledge and hone your skills with <strong>numerous coding exercises</strong></p></li><li><p>Integrate React with advanced browser features, even <strong>geolocation API's</strong>!</p></li><li><p>Use popular <strong>styling libraries </strong>to build beautiful apps</p></li><li><p>Master different techniques of <strong>deployment</strong> so you can show off the apps you build!</p></li><li><p>See different methods of building UI's through <strong>composition of components</strong></p><p><br></p></li></ul><p>Besides just React and Redux, you'll pick up countless other tidbits of knowledge, including ES2015 syntax, popular design patterns, even the clearest explanation of the keyword '<strong><em>this'</em></strong> in Javascript that you'll ever hear.</p><p>This is the course I wanted to take when I&nbsp;first learned React: complete, up-to-date, and clear.</p><p><br></p>",
+        "completion_ratio": 0,
+        "last_accessed_time": "2022-08-04T03:54:35Z",
+        "enrollment_time": "2020-07-29T05:05:20Z",
+        "num_collections": 0
+      },
+      {
+        "_class": "course",
+        "id": 2196488,
+        "title": "Ultimate AWS Certified Solutions Architect Associate SAA-C03",
+        "url": "/course/aws-certified-solutions-architect-associate-saa-c03/learn/",
+        "visible_instructors": [
+          {
+            "_class": "user",
+            "id": 16122994,
+            "title": "Stephane Maarek | AWS Certified Cloud Practitioner,Solutions Architect,Developer",
+            "name": "Stephane Maarek",
+            "display_name": "Stephane Maarek | AWS Certified Cloud Practitioner,Solutions Architect,Developer",
+            "job_title": "Best Selling Instructor, 9x AWS Certified, Kafka Guru"
+          }
+        ],
+        "published_title": "aws-certified-solutions-architect-associate-saa-c03",
+        "tracking_id": "eQfshndbTtGJclcTTAM6uA",
+        "description": "<p><strong>Welcome!&nbsp;I'm here to help you prepare and PASS the NEWEST AWS&nbsp;Certified Solutions Architect Associate SAA-C03 exam [Course FULLY&nbsp;updated] </strong></p><p><br></p><p>----------------- Updates List ------------------</p><p><strong>[September 2022 Update - SAA-C03]:</strong>&nbsp;Over 80 videos have been updated to reflect the NEW SAA-C03 exam</p><p><strong>[April 2022 Update]:</strong>&nbsp;Over 30 videos have been refreshed/added to keep up with the AWS&nbsp;UI changes and exam changes</p><p><strong>[October 2021 Update]:</strong> Over 100 videos have been refreshed/added to keep up with the AWS&nbsp;UI changes and exam changes</p><p><strong>[April 2021 Update]:</strong> Over 100 videos have been refreshed/added to keep up with the AWS&nbsp;UI changes and exam changes</p><p><strong>[Dec 2020 Update]:</strong> The S3 section has been entirely re-recorded to accommodate for the AWS&nbsp;UI changes</p><p><strong>[May 2020 Update]: </strong>20+&nbsp;videos have been updated to keep up with AWS&nbsp;UI&nbsp;changes. </p><p><strong>[February 2020 Update - SAA-C02]:</strong>&nbsp;The course has been updated for<strong> the NEW 2020 exam version</strong>. Overall, <strong>80 videos have been added or updated</strong>, and the course is now <strong>22 hours long</strong>. Happy learning! </p><p><strong>[July 2019 Update]:</strong>&nbsp;Few lectures refreshed, including AWS&nbsp;Budgets and EC2 placement groups.</p><p>-----------------------------------</p><p><strong>Beginners welcome:&nbsp;no need to know anything about AWS!</strong></p><p><strong>The AWS&nbsp;Certified Solutions Architect Associate SAA-C03 certification is one of the most challenging exams</strong>. It's great at assessing how well you understand not just AWS, but making sure you are making the best architectural decisions based on situations, which makes this certification incredibly valuable to have and pass. Rest assured, <strong>I've passed it myself with a score of 982 out of 1000</strong>. Yes, you read that right, I&nbsp;only made one mistake!&nbsp;Next, <strong>I&nbsp;want to help YOU pass the AWS&nbsp;Certified Solutions Architect Associate certification with flying colors</strong>. </p><p><em>This is going to be a long journey, but passing the AWS&nbsp;Certified Solutions Architect Associate exam will be worth it! </em></p><p><br></p><p><strong>This AWS&nbsp;Certified Solutions Architect Associate course is different from the other ones you'll find on Udemy. Dare I say, better (but you'll judge!)</strong></p><ul><li><p>We will spend over <strong>three hours discussing solution architecture</strong> on AWS&nbsp;in depth.&nbsp;</p></li><li><p>It covers in-depth all the<strong> new topics</strong> on the AWS&nbsp;Certified Solutions Architect Associate SAA-C02 exam</p></li><li><p>It's packed with <strong>practical knowledge</strong> on how to use AWS inside and out as a solutions architect</p></li><li><p>It teaches you <strong>how to prepare for the AWS&nbsp;exam</strong> <strong>AND</strong> <strong>how to prepare for the real world</strong></p></li><li><p>It's a <strong>logical progression of topics</strong>, not a laundry list of random services</p></li><li><p>It's<strong> fast-paced and to the point</strong> </p></li><li><p>It has <strong>professional subtitles</strong></p></li><li><p>All <strong>800+ slides available</strong> <strong>as downloadable PDF</strong></p></li></ul><p><br></p><p><strong>Concretely, here's what we'll learn to pass the AWS&nbsp;Certified Solutions Architect Associate exam:</strong></p><ul><li><p>The AWS&nbsp;Fundamentals:&nbsp;IAM, EC2, Load Balancing, Auto Scaling, EBS, EFS, Route 53, RDS, ElastiCache, S3, CloudFront</p></li><li><p>The AWS&nbsp;CLI:&nbsp;CLI setup, usage on EC2, best practices, SDK, advanced usage</p></li><li><p>In-Depth Database comparison:&nbsp;RDS,&nbsp;Aurora, DynamoDB, ElastiCache, DocumentDB, Neptune, Keyspaces, QLDB, Timestream</p></li><li><p>Analytics services comparison:&nbsp;Athena, EMR, Redshift, OpenSearch, Lake Formation, Kinesis Data Analytics, MSK, QuickSight, Glue</p></li><li><p>Machine Learning services: Rekognition, Transcribe, Polly, Translate, Lex, Comprehend, SageMaker, Forecast, Kendra, Personalize, Textract.</p></li><li><p>Monitoring, Troubleshooting &amp;&nbsp;Audit:&nbsp;CloudWatch, CloudTrail, EventBridge, Config</p></li><li><p>AWS&nbsp;Integration &amp;&nbsp;Messaging:&nbsp;SQS, SNS, Kinesis Amazon MQ</p></li><li><p>AWS&nbsp;Serverless:&nbsp;AWS&nbsp;Lambda, DynamoDB, API&nbsp;Gateway, Step Functions</p></li><li><p>AWS&nbsp;Containers Services:&nbsp;ECS, ECR, EKS, App&nbsp;Runner</p></li><li><p>AWS&nbsp;Security best practices:&nbsp;KMS, SSM Parameter Store, Secrets Manager, IAM Policies, Cognito, Shield, WAF, Firewall Manager, SSO, Certificate Manager, GuardDuty, Inspector, Macie</p></li><li><p>VPC&nbsp;&amp;&nbsp;Networking in depth</p></li><li><p>Disaster Recovery &amp;&nbsp;Migrations:&nbsp;DMS, Aurora &amp;&nbsp;RDS&nbsp;Migrations, AWS&nbsp;Backup, Application Migration Service, VMware Cloud on AWS</p></li><li><p>AWS&nbsp;Other Services Overview:&nbsp;CloudFormation, SES, Pinpoint, SSM&nbsp;Session Manager, Elastic Transcoder, Batch, AppFlow...</p></li><li><p>Tips to ROCK the exam</p></li></ul><p><br></p><p><strong>This AWS&nbsp;Certified Solutions Architect Associate course is full of opportunities to apply your knowledge: </strong></p><ul><li><p>There are many <strong>hands-on lectures</strong> in every section</p></li><li><p>There are <strong>quizzes</strong> at the end of every section</p></li><li><p>There's an <strong>AWS&nbsp;Certified Solutions Architect Associate practice exam</strong> at the end of the course </p></li><li><p>We'll be using the <strong>AWS&nbsp;Free Tier</strong> most of the time</p></li><li><p>I'll be showing you how to go beyond the AWS&nbsp;Free Tier (you know... the real world!)</p></li></ul><p><br></p><p>-----------------------------------</p><p><strong>Instructor</strong></p><p>My name is Stéphane Maarek,&nbsp;I am passionate about Cloud Computing, and I will be your instructor in this course. I teach about AWS certifications, focusing on helping my students improve their professional proficiencies in AWS.</p><p>I have already taught 1,500,000+ students and gotten 500,000+ reviews throughout my career in designing and delivering these certifications and courses!</p><p>With AWS becoming the centerpiece of today's modern IT architectures, I've decided it's time for students to learn how to be an AWS Solutions Architect Associate properly. So, let’s kick start the course! You are in good hands!</p><p><br></p><p>---------------------------------</p><p><strong>This course also comes with:</strong></p><ul><li><p>Lifetime access to all future updates</p></li><li><p>A responsive instructor in the Q&amp;A Section</p></li><li><p>Udemy Certificate of Completion Ready for Download</p></li><li><p>A 30 Day \"No Questions Asked\" Money Back Guarantee!</p></li></ul><p><strong>Join me in this course if you want to pass the AWS Certified Solutions Architect Associate Certification SAA-C03 Exam and master the AWS platform!</strong></p>",
+        "completion_ratio": 34,
+        "last_accessed_time": "2022-07-25T06:26:50Z",
+        "enrollment_time": "2021-10-18T05:24:51Z",
+        "num_collections": 1
+      },
+      {
+        "_class": "course",
+        "id": 2253706,
+        "title": "AWS Certified Data Analytics Specialty 2022 - Hands On!",
+        "url": "/course/aws-data-analytics/learn/",
+        "visible_instructors": [
+          {
+            "_class": "user",
+            "id": 13148312,
+            "title": "Sundog Education by Frank Kane",
+            "name": "Sundog Education",
+            "display_name": "Sundog Education by Frank Kane",
+            "job_title": "Founder, Sundog Education. Machine Learning Pro"
+          },
+          {
+            "_class": "user",
+            "id": 16122994,
+            "title": "Stephane Maarek | AWS Certified Cloud Practitioner,Solutions Architect,Developer",
+            "name": "Stephane Maarek",
+            "display_name": "Stephane Maarek | AWS Certified Cloud Practitioner,Solutions Architect,Developer",
+            "job_title": "Best Selling Instructor, 9x AWS Certified, Kafka Guru"
+          },
+          {
+            "_class": "user",
+            "id": 32164746,
+            "title": "Frank Kane",
+            "name": "Frank",
+            "display_name": "Frank Kane",
+            "job_title": "Founder, Sundog Education"
+          },
+          {
+            "_class": "user",
+            "id": 168079506,
+            "title": "Sundog Education Team",
+            "name": "Sundog Education",
+            "display_name": "Sundog Education Team",
+            "job_title": "Sundog Education Team"
+          }
+        ],
+        "published_title": "aws-data-analytics",
+        "tracking_id": "bkQBXxfsQ1-gEg2g1Zv1bA",
+        "description": "<p><strong>[v2022:&nbsp;The course has been fully updated for the latest AWS&nbsp;Certified Data Analytics -Specialty DAS-C01 exam (including new coverage of Glue DataBrew, Elastic Views, Glue&nbsp;Studio, Opensearch, and AWS&nbsp;Lake Formation), and will be kept up-to-date all of 2022. Optional content for the previous AWS&nbsp;Certified Big Data - Speciality BDS-C01 exam remains as well as an appendix. Happy learning! ]</strong></p><p>The <strong>AWS Certified Data Analytics Specialty Exam</strong> is one of the most challenging certification exams you can take from Amazon. <strong>Passing it tells employers in no uncertain terms that your knowledge of big data systems is wide and deep.</strong> But, even experienced technologists need to prepare heavily for this exam. This course sets you up for success, by covering all of the big data technologies on the exam and how they fit together.</p><p>Best-selling Udemy instructors <strong>Frank Kane</strong> and <strong>Stéphane Maarek</strong> have teamed up to deliver the most <strong>comprehensive and hands-on</strong> prep course we've seen. Together, <strong>they've taught over 1,500,000 people</strong> around the world. This course combines Stéphane's depth on AWS with Frank's experience in Big Data, gleaned during his 9-year career at Amazon itself. Both Frank and Stéphane have taken and passed the exam themselves on the first try.</p><p>The world of data analytics on AWS includes a dizzying array of technologies and services. Just a sampling of the topics we cover in-depth are:</p><ul><li><p>Streaming massive data with <strong>AWS&nbsp;Kinesis</strong></p></li><li><p>Queuing messages with Simple Queue Service (<strong>SQS</strong>)</p></li><li><p>Wrangling the explosion data from the <strong>Internet of Things (IOT)</strong></p></li><li><p>Transitioning from small to big data with the <strong>AWS&nbsp;Database Migration Service (DMS)</strong></p></li><li><p>Storing massive <strong>data lakes</strong> with the Simple Storage Service (<strong>S3</strong>)</p></li><li><p>Optimizing transactional queries with <strong>DynamoDB</strong></p></li><li><p>Tying your big data systems together with <strong>AWS&nbsp;Lambda</strong></p></li><li><p>Making unstructured data query-able with <strong>AWS&nbsp;Glue, Glue ETL, Glue&nbsp;DataBrew, Glue Studio, and Lake Formation</strong></p></li><li><p>Processing data at unlimited scale with <strong>Elastic MapReduce</strong>, including Apache&nbsp;<strong>Spark</strong>, <strong>Hive</strong>, <strong>HBase</strong>, <strong>Presto</strong>, <strong>Zeppelin</strong>, <strong>Splunk</strong>, and <strong>Flume</strong></p></li><li><p>Applying neural networks at massive scale with <strong>Deep Learning, MXNet, and Tensorflow</strong></p></li><li><p>Applying advanced machine learning algorithms at scale with <strong>Amazon SageMaker</strong></p></li><li><p>Analyzing streaming data in real-time with <strong>Kinesis Analytics</strong></p></li><li><p>Searching and analyzing petabyte-scale data with <strong>Amazon Opensearch (formerly Elasticsearch) Service</strong></p></li><li><p>Querying S3 data lakes with Amazon <strong>Athena</strong></p></li><li><p>Hosting massive-scale data warehouses with <strong>Redshift </strong>and <strong>Redshift&nbsp;Spectrum</strong></p></li><li><p>Integrating smaller data with your big data, using the Relational Database Service (<strong>RDS</strong>)&nbsp;and <strong>Aurora</strong></p></li><li><p>Visualizing your data interactively with <strong>Quicksight</strong></p></li><li><p>Keeping your data secure with encryption, <strong>KMS</strong>, <strong>HSM</strong>, <strong>IAM</strong>, <strong>Cognito</strong>, <strong>STS</strong>, and more</p></li></ul><p>Throughout the course, you'll have lots of opportunities to reinforce your learning with <strong>hands-on exercises and quizzes</strong>. And when you're done, this course<strong> includes a practice exam</strong> that's very similar to the real exam in difficulty, length, and style - so you'll know if you're ready before you invest in taking it. We'll also arm you with some valuable test-taking tips and strategies along the way.</p><p>Data analytics is an advanced certification, and it's best tackled by students who have already obtained associate-level certification in AWS and have some real-world industry experience.<em> This exam is not intended for AWS&nbsp;beginners.</em></p><p>You want to go into the AWS Certified Data Analytics Specialty Exam with confidence, and that's what this course delivers. <strong>Hit the enroll button</strong>, and we're excited to see you in the course... and ultimately to see you get your certification!</p><p>--------------------------------</p><p><strong>Instructor</strong></p><p>My name is Stéphane Maarek,&nbsp;I am passionate about Cloud Computing, and I will be your instructor in this course. I teach about AWS certifications, focusing on helping my students improve their professional proficiencies in AWS.</p><p>I have already taught 1,500,000+ students and gotten 500,000+ reviews throughout my career in designing and delivering these certifications and courses!</p><p>With AWS becoming the centerpiece of today's modern IT architectures, I have decided it is time for students to learn how to be an AWS Data Analytics Professional. So, let’s kick start the course! You are in good hands!</p><p>--------------------------------</p><p><strong>Instructor</strong></p><p>Hey, I'm Frank Kane, and I'm also co-instructing this course. I spent nine years working for Amazon from the inside as a senior engineer and senior manager, and&nbsp;I'm best known for my top-selling courses in \"big data\", data analytics, machine learning, Apache Spark, system design, and Elasticsearch.</p><p>I've been teaching on Udemy since 2015, where I've reached over 500,000 students all around the world!</p><p>I've worked hard to keep this course up to date with the latest developments in AWS data analytics, and to make sure you're prepared for the latest version of this exam. Let's dive in and get you ready!</p><p>---------------------------------</p><p><strong>This course also comes with:</strong></p><ul><li><p>Lifetime access to all future updates</p></li><li><p>A responsive instructor in the Q&amp;A Section</p></li><li><p>Udemy Certificate of Completion Ready for Download</p></li><li><p>A 30 Day \"No Questions Asked\" Money Back Guarantee!</p></li></ul><p><strong>Join us in this course if you want to pass the AWS Certified Data Analytics -Specialty DAS-C01 Exam and master the AWS platform!</strong></p>",
+        "completion_ratio": 1,
+        "last_accessed_time": "2022-07-20T06:04:05Z",
+        "enrollment_time": "2021-10-15T13:14:27Z",
+        "num_collections": 0
+      }
+    ]
+  }
