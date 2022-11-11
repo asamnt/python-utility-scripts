@@ -10,13 +10,11 @@ api_file.close()
 # home = input("Enter home address\n")
 # work = input("Enter a work address\n")
 
-home = "HSR Layout"
+home = "Assetz 63 Degree East"
 work = "Helios Business Park"
 
 # base url
 url = "https://maps.googleapis.com/maps/api/distancematrix/json?units=imperial&"
-# url = "https://www.udemy.com/api-2.0/users/me/subscribed-courses/?ordering=-last_accessed&fields[course]=completion_ratio,enrollment_time,last_accessed_time,num_collections,published_title,title,tracking_id,url,visible_instructors&fields[user]=@min,job_title&page=1&page_size=12&is_archived=false"
-# url = 'https://maps.googleapis.com/maps/api/distancematrix/json?units=imperial&origins="Indiranagar"&destinations="Helios Business Park"&key=AIzaSyB_fg8Rb4VBXGk0SBE_ZijiFdImXso9Sy4'
 # get response
 r = requests.get(url + "origins=" + home + "&destinations=" + work + "&key=" + api_key) 
 print(r.json())
@@ -28,11 +26,11 @@ seconds = r.json()["rows"][0]["elements"][0]["duration"]["value"]
 # print the travel time
 print("\nThe total travel time from home to work is", time)
 
-mail_content = "Hello, Your total travel time from home " + home + " to work "+ work + " right now is "+time
+mail_content = "Hello, Your total travel time  right now from home " + home + " to work "+ work + " is "+time
 #The mail addresses and password
 sender_address = 'amitsamant@gmail.com'
 sender_pass = 'szaxhmjkucahkcny'
-receiver_address = 'amitsamant@gmail.com;'
+receiver_address = 'amitsamant@gmail.com;joeytayyil@gmail.com'
 #Setup the MIME
 message = MIMEMultipart()
 message['From'] = sender_address
